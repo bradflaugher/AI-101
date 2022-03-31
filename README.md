@@ -1,2 +1,4 @@
 # bootcamp
-A home for bootcamp materials
+
+Bootcamp notes and resources. 
+
