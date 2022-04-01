@@ -2,6 +2,8 @@
 
 ## Docker Notes
 
+[just use the latest tensorflow if it's nothing fancy](https://www.tensorflow.org/install/)
+
 ### Build (from folder in install/ directory)
 ```
 sudo docker build -t myproject install/ -f install/Dockerfile
