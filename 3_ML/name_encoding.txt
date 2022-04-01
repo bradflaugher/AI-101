@@ -1,0 +1,4 @@
+Cristiano: 0
+Jimbo: 1
+Josef: 2
+Maria: 3
