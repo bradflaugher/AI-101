@@ -19,7 +19,7 @@ do the ["Professional Membership With Digital Library"](https://www.acm.org/memb
 
 
 ### AI/ML
-* [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
+* [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 
 ### DevOps
 * TODO: I need to find a good reference for this, for now we'll do some docker stuff in class
