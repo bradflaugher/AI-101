@@ -23,6 +23,12 @@ sudo docker run --gpus all -u $(id -u):$(id -g) -v $(pwd):/tf -it --rm -p 8888:8
 docker run -v ${PWD}:/tf -it --rm -p 8888:8888 projectname
 ```
 
+## "Gold Standard" Projects from past bootcampers
+
+[Oleh's Project](https://github.com/MorhaliukOL/ML_Project)
+[Hanna's Project](/Profitable_Visitor_Classification_With_Notes.ipynb)
+
+
 ## What kinds of models to people want to see?
 
 May 13, 2022
