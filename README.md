@@ -130,7 +130,7 @@ Note 2: The 6 week course is broken into numeric and alphabetical lectures. Lect
 * NYT Google AI Researcher
 * Tesla self-driving articles
 
-# Lesson 6: Model Deployment
+## Lesson 6: Model Deployment
 
 ### Topics
 * Tensorflow Lite, Tensorflow Serving
