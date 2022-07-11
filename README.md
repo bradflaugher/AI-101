@@ -10,7 +10,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 # Lecture Outline
 
-Note: The 6 week course is broken into numeric and alphabetical lectures. Lectures 1-6 are technical in nature, Lectures A-F are soft-skills and history.
+Note 1: Lectures are a small part of the course, most bootcamper's time will be spent working on their final potrfolio projects.
+Note 2: The 6 week course is broken into numeric and alphabetical lectures. Lectures 1-6 are technical in nature, Lectures A-E are soft-skills and history.
 
 ## Lesson 1: Practical Science
 
@@ -39,7 +40,7 @@ Note: The 6 week course is broken into numeric and alphabetical lectures. Lectur
 * CACM history of language models
 * The Last Dance - ESPN
 
-# Lesson 2: Docker and Environment Setup
+## Lesson 2: Docker and Environment Setup
 
 ### Topics
 * What is docker?
@@ -116,7 +117,6 @@ Note: The 6 week course is broken into numeric and alphabetical lectures. Lectur
 
 ### Readings
 * Krohn Lectures
-
 
 ## Lesson E: AI Optimism and Bias
 
