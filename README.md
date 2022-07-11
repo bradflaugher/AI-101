@@ -10,8 +10,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 # Lecture Outline
 
-Note 1: Lectures are a small part of the course, most bootcamper's time will be spent working on their final potrfolio projects.
-Note 2: The 6 week course is broken into numeric and alphabetical lectures. Lectures 1-6 are technical in nature, Lectures A-E are soft-skills and history.
+* Note 1: Lectures are a small part of the course, most bootcamper's time will be spent working on their final potrfolio projects.
+* Note 2: The 6 week course is broken into numeric and alphabetical lectures. Lectures 1-6 are technical in nature, Lectures A-E are soft-skills and history.
 
 ## Lesson 1: Practical Science
 
