@@ -82,11 +82,13 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Text is Data
 * Images are Data
 * Statistics for Machine Learning
+* Data Collection, ETL and "glue code"
 
 ### Readings
 * Sample Notebooks
 * Tensorflow Documentation
 * Diving Judges Case Study
+* Job-Ready Python ETL chapter (O'Reilly)
 
 ## Lesson C: Managing Technical Professionals, Managing Complex Technical Projects
 
@@ -99,7 +101,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings
 * MIT and Wharton Case Studies
 
-## Lesson 4: Picking, scraping etc.. your datasets, Dummy Projects.
+## Lesson 4: Wrangling Your Data
 
 ### Topics
 * AI/ML as "Programming with data"
