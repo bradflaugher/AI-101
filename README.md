@@ -5,6 +5,16 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 # New Student TODOs
 
+## Preparation
+
+* (Preferred, but not required) Install Linux on your PC [Guides](https://duckduckgo.com/?q=how+to+dual+boot+ubuntu)
+* (Required) Install Docker Desktop [Docker.com](https://www.docker.com/get-started/)
+* (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
+* (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
+* (Recommended) Learn vim [via a fun game](https://vim-adventures.com/), [via exercises](https://vim.is/), [by reading documentation](https://www.vim.org/docs.php)
+
+## Access
+
 * get access to course moodle at [moodle.bradflaugher.com](https://moodle.bradflaugher.com)
 * get ssh access to ML training rig ```ssh myname@sekret.bradflaugher.com```
 
@@ -34,6 +44,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Notes on pay and career trajectory
 * A historical perspective on technological adoption
 * BERT, GPT3 and self-driving cars.
+* Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
 
 ### Readings
 * The Economist "The house that BERT built" and responses
@@ -55,6 +66,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Topics
 * Why Linux? Why Open Source, FOSS?
+* Cycling team analogy, Trek, Schwinn, Homemade Bike
 * “A Generation Behind” - is it true? is it useful?
 * Competition and cooperation in tech.
 * Anxiety and process
