@@ -33,9 +33,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
-
-### Readings (Books, Videos, Handouts)
-* [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
+* [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
 
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
@@ -104,7 +102,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Testing and Documentation
 * Blending Models and Humans
 
-### Readings (Handout)
+### Readings (Handout, Moodle)
 * MIT MTP Notes
 * Wharton Model Notes
 
@@ -164,7 +162,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Docker + Flask
 
 ### Readings
-* TF Documentation
+* [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
 
 # Final Projects
