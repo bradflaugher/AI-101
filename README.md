@@ -31,25 +31,29 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Single Cell Neural Network ala Excel Neural Networks
 * Krohn copy hamburgers/hot dog example
 
-### Readings
-* Deep Learning Illustrated/ Jon Krohn Lectures
-* Crashing Through/ Thinking Fast and Slow
+### Readings (Online)
+* [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 
+### Readings (Books, Videos, Handouts)
+* [Deep Learning Illustrated](https://www.deeplearningillustrated.com/)
 
-## Lesson A: The 1996 Bulls and Impostor Syndrome
+## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
 ### Topics
-* Stereotypes in Tech
-* Phil Jackson's Team Composition
-* Notes on pay and career trajectory
-* A historical perspective on technological adoption
-* BERT, GPT3 and self-driving cars.
-* Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
+* Working in Tech: Stereotypes in Tech
+* Working in Tech: Phil Jackson's Team Composition
+* History: A historical perspective on technological adoption
+* History: BERT, GPT3 and self-driving cars.
+* History: Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
 
-### Readings
-* The Economist "The house that BERT built" and responses
-* CACM history of language models
-* The Last Dance - ESPN
+### Readings (Online)
+* [Huge “foundation models” are turbo-charging AI progress](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
+* [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext)
+* [The Impact of Computers on Manufacturing Productivity Growth: A Multiple-Indicators, Multiple-Causes Approach](https://www.jstor.org/stable/2951433)
+
+### Readings (Books, Videos, Handouts)
+* MIT Lectures on Managing Technical Professionals (Handout, Moodle)
+* [Phil Jackson Oprah Interview, Zen Mind Beginners Mind](https://youtu.be/vKAEH_L-v98?t=98)
 
 ## Lesson 2: Docker and Environment Setup
 
@@ -59,8 +63,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Command line usage, flags, interactive mode and bash
 
 ### Readings
-* Docker Documentaton
-* Linux Command Line Guides
+* [Docker Documentaton](https://docs.docker.com/)
+* [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 
 ## Lesson B: Open Source, Freedom, and Stress
 
@@ -72,8 +76,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Anxiety and process
 
 ### Readings
-* Free Software, Free Society
-* The Software Paradox
+* [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+* [Notes on The Software Paradox](https://baus.net/the-software-paradox/) or [The Software Paradox (Full Book)](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938)
 
 ## Lesson 3: Loading Data Types, More Statistics
 
@@ -84,11 +88,13 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Statistics for Machine Learning
 * Data Collection, ETL and "glue code"
 
-### Readings
-* Sample Notebooks
-* Tensorflow Documentation
-* Diving Judges Case Study
-* Job-Ready Python ETL chapter (O'Reilly)
+### Readings (Online)
+* [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
+* [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
+* [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
+
+### Readings (Handout)
+* Diving Judges Case Study UPenn (Handout, Moodle)
 
 ## Lesson C: Managing Technical Professionals, Managing Complex Technical Projects
 
@@ -98,8 +104,9 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Testing and Documentation
 * Blending Models and Humans
 
-### Readings
-* MIT and Wharton Case Studies
+### Readings (Handout)
+* MIT MTP Notes
+* Wharton Model Notes
 
 ## Lesson 4: Wrangling Your Data
 
@@ -109,8 +116,12 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Open-source datasets
 * "What to do when you get stuck with a horrible dataset"	
 
-### Readings
-* Medusa documentation
+### Readings (Online)
+* [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
+
+### Additional Resources (Optional)
+* [Stanford Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [FreeCodeCamp](https://www.youtube.com/watch?v=NWONeJKn6kc)
 
 ## Lesson D: Practical Debugging, Hacker Ethos and Mindset
 
@@ -130,7 +141,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * "Stealing" ideas
 
 ### Readings
-* Krohn Lectures
+* [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
+* [Google Sidelines Engineer Who Claims Its A.I. Is Sentient](https://www.nytimes.com/2022/06/12/technology/google-chatbot-ai-blake-lemoine.html)
 
 ## Lesson E: AI Optimism and Bias
 
@@ -141,8 +153,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Are biased models useful? When?
 
 ### Readings
-* NYT Google AI Researcher
-* Tesla self-driving articles
+* [Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.](https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html)
+* [Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
 
 ## Lesson 6: Model Deployment
 
