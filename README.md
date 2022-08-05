@@ -59,10 +59,12 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * What is docker?
 * What does "ephemeral" mean?
 * Command line usage, flags, interactive mode and bash
+* SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
 
 ### Readings
 * [Docker Documentaton](https://docs.docker.com/)
 * [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
+* [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
 
 ## Lesson B: Open Source, Freedom, and Stress
 
