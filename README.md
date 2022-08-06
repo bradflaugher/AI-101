@@ -26,9 +26,11 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 1: Practical Science
 
 ### Topics
+* ML vs AI, supervised, unsuperviesd, GANs and Reinforcement
 * Intro to Neural Networks, Neuroscience, and Statistics
-* Babies and Vision, Breaking Through, Kahneman
+* Babies and Vision
 * Single Cell Neural Network ala Excel Neural Networks
+* Regression to Support Vector to Neural Network
 * Krohn copy hamburgers/hot dog example
 
 ### Readings (Online)
