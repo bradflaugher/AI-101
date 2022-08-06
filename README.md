@@ -153,8 +153,6 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
-* [Google Sidelines Engineer Who Claims Its A.I. Is Sentient](https://www.nytimes.com/2022/06/12/technology/google-chatbot-ai-blake-lemoine.html)
-* [A.I. Is Not Sentient. Why Do People Say It Is?](https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html)
 
 ## Lesson E: AI Optimism and Bias
 
@@ -167,7 +165,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings
 * [Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.](https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html)
 * [Tesla’s ‘phantom braking’ problem is getting worse, and the US government has questions](https://www.theverge.com/2022/6/3/23153241/tesla-phantom-braking-nhtsa-complaints-investigation)
-
+* [A.I. Is Not Sentient. Why Do People Say It Is?](https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html)
+* 
 ## Lesson 6: Model Deployment
 
 ### Topics
