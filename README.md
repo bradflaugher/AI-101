@@ -31,7 +31,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Babies and Vision
 * Single Cell Neural Network ala Excel Neural Networks
 * Regression to Support Vector to Neural Network
-* Krohn copy hamburgers/hot dog example
+* Jon Krohn's Hamburger/Hot Dog Classifier
+* Baking a cake with positive reinforcement
 
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
