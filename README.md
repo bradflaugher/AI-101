@@ -191,6 +191,5 @@ I highly recommend paying for access to [O'Reilly](https://www.oreilly.com/), th
 * [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
-
-
+* [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 
