@@ -105,7 +105,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Diving Judges Case Study UPenn (Handout, Moodle)
 
 ### Optional Readings
-* [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+* [Fundamentals of Data Engineering, Chapters 1 and 3](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 
 ## Lesson C: Managing Technical Professionals, Managing Complex Technical Projects
 
