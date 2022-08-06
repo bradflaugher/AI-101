@@ -184,7 +184,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 # Further Reading
 
-I highly recommend paying for access to [O'Reilly](https://www.oreilly.com/), they have excellent books and video resources that are constantly up to date.
+I highly recommend the folling books and resources.
 
 * [Basic Linux Terminal Tips and Tricks](https://learning.oreilly.com/library/view/basic-linux-terminal/9781484260357/) and [Bash for beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * [Git Basics](https://rogerdudler.github.io/git-guide/)
