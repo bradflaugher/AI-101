@@ -35,6 +35,11 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
 
+### Additional Readings on Modeling topics not covered in this course
+* [Support Vector Machines in 2 minutes](https://www.youtube.com/watch?v=_YPScrckx28)
+* [Random Forest](https://towardsdatascience.com/random-forest-classification-678e551462f5)
+* [Old College Textbook on AI](https://www.goodreads.com/book/show/475758.Artificial_Intelligence)
+
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
 ### Topics
