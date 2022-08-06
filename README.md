@@ -49,6 +49,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Working in Tech: Stereotypes in Tech
 * Working in Tech: Phil Jackson's Team Composition
 * History: A historical perspective on technological adoption
+* History: Languages, Python and C in particular. SPEED TEST!
 * History: BERT, GPT3 and self-driving cars.
 * History: Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
 
