@@ -132,8 +132,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
 ### Additional Resources (Optional)
-* [Stanford Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [FreeCodeCamp](https://www.youtube.com/watch?v=NWONeJKn6kc)
+* [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [FreeCodeCamp ML Course in 10 hrs](https://www.youtube.com/watch?v=NWONeJKn6kc)
 
 ## Lesson D: Practical Debugging, Hacker Ethos and Mindset
 
