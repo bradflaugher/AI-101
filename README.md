@@ -13,10 +13,6 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
 * (Recommended) Learn vim [via a fun game](https://vim-adventures.com/), [via exercises](https://vim.is/), [by reading documentation](https://www.vim.org/docs.php)
 
-## Access
-
-* get access to course moodle at [moodle.bradflaugher.com](https://moodle.bradflaugher.com)
-* get ssh access to ML training rig ```ssh myname@sekret.bradflaugher.com```
 
 # Lecture Outline
 
@@ -116,7 +112,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Testing and Documentation
 * Blending Models and Humans
 
-### Readings (Handout, Moodle)
+### Readings (Handout)
 * MIT MTP Notes
 * Wharton Model Notes
 
