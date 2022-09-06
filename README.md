@@ -12,7 +12,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
 * (Recommended) Learn vim [via a fun game](https://vim-adventures.com/), [via exercises](https://vim.is/), [by reading documentation](https://www.vim.org/docs.php)
-
+* (Recommended) Join the bootcampers [LinkedIn Group](https://www.linkedin.com/groups/12707793/)
 
 # Lecture Outline
 
@@ -29,6 +29,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Regression to Support Vector to Neural Network
 * Jon Krohn's Hamburger/Hot Dog Classifier
 * Baking a cake with positive reinforcement
+* [Huggable Model](https://github.com/daspartho/is-it-huggable)
 
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
@@ -55,21 +56,31 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [The Impact of Computers on Manufacturing Productivity Growth: A Multiple-Indicators, Multiple-Causes Approach](https://www.jstor.org/stable/2951433)
 
 ### Readings (Books, Videos, Handouts)
-* MIT Lectures on Managing Technical Professionals (Handout, Moodle)
+* MIT Lectures on Managing Technical Professionals (Handout)
 * [Phil Jackson Oprah Interview, Zen Mind Beginners Mind](https://youtu.be/vKAEH_L-v98?t=98)
 
-## Lesson 2: Docker and Environment Setup
+## Lesson 2: Docker, DevOps/MLOps, and Environment Setup
 
 ### Topics
 * What is docker?
 * What does "ephemeral" mean?
 * Command line usage, flags, interactive mode and bash
 * SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
+* How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
+* What are Kaggle and Colab?
 
 ### Readings
 * [Docker Documentaton](https://docs.docker.com/)
 * [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
+* [Cloud Computing Business Overview (Sep 2022)](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits)
+
+### Optional Readings
+* [Docker on AWS](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/), or the [TLDR version](https://medium.com/geekculture/deploy-to-aws-docker-in-10-minutes-68a60724dcb9)
+* [Docker on GCP](https://cloud.google.com/compute/docs/containers), or the [TLDR version](https://www.howtogeek.com/devops/how-to-run-docker-containers-on-google-cloud-platform/)
+* [Docker on Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/docker/)
+* [Spotty](https://github.com/spotty-cloud/spotty)
+
 
 ## Lesson B: Open Source, Freedom, and Stress
 
@@ -147,6 +158,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * "Standard Models"
 * Where to start, how to adjust hyperparameters
 * "Stealing" ideas
+* Metrics: Accuracy, Precision, Recall, Loss, AUC etc...
 
 ### Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
@@ -158,6 +170,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Self-Driving trolley preblems
 * I can predict criminality, should I? 
 * Are biased models useful? When?
+* AI Ethics Big 3: Explainability, Bias, and Privacy (Story about skin cancel detector model and stock trading models)
 
 ### Readings
 * [Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.](https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html)
@@ -174,6 +187,10 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
+### Optional Readings
+* [Advanced Deployment w/ LLVM and PyTorch](https://blog.christianperone.com/2022/09/tutorial-on-using-llvm-to-jit-pytorch-fx-graphs-to-native-code-x86-arm-risc-v-wasm-part-i-scalars/)
+* [Build Systems at Coinbase](https://blog.coinbase.com/building-a-python-ecosystem-for-efficient-and-reliable-development-d986c97a94a0)
+* [Build Systems at Facebook](https://buck.build/)
 
 # Final Projects
 
