@@ -106,6 +106,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings (Online)
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
+* [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 * [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
 * [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
 
