@@ -32,6 +32,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Huggable Model](https://github.com/daspartho/is-it-huggable)
 * [PLAYGROUND GPT-3 First Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
 * When will GPT-3 insights become stale? Is this learning? is this science?
+* [Craiyon, DALL-E and Stable Diffusion... "Derivative" works](https://www.craiyon.com/)
 
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
