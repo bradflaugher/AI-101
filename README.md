@@ -47,10 +47,12 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Topics
 * Working in Tech: Stereotypes in Tech
 * Working in Tech: Phil Jackson's Team Composition
+* Impostors: Talk about ME Professors teaching AI, and ML Leads at big companies
 * History: A historical perspective on technological adoption
 * History: Languages, Python and C in particular. SPEED TEST!
 * History: BERT, GPT3 and self-driving cars.
 * History: Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
+
 
 ### Readings (Online)
 * [Huge “foundation models” are turbo-charging AI progress](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
