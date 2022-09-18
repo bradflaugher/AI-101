@@ -73,6 +73,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
 * How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
 * What are Kaggle and Colab?
+* "Head of Data" interview question, how fast can you spin up an environment?
 
 ### Readings
 * [Docker Documentaton](https://docs.docker.com/)
