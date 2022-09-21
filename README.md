@@ -34,6 +34,15 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * When will GPT-3 insights become stale? Is this learning? is this science?
 * [Craiyon, DALL-E and Stable Diffusion... "Derivative" works](https://www.craiyon.com/)
 
+### Introduction to Portfolio projects
+* [VIDEO: Oleh's Car Price Predictor](https://www.youtube.com/watch?v=I-KL-mWF548) and [Source Code](https://github.com/MorhaliukOL/ML_Project)
+* [VIDEO: Fall 2022 Bootcampers Presentation WARNING LARGE FILE](https://stack.bradflaugher.com/Videos/Final_Presentations_Audigent_Bootcamp.webm) and [Hanna's Source Code](/5_Model_Architecture/Profitable_Visitor_Classification_With_Notes.ipynb)
+
+### Project Ideas
+* [ML Safety Competitions](https://safe.ai/competitions)
+* [Medusa](https://github.com/predbrad/medusa)
+* [Kaggle](https://www.kaggle.com/competitions)
+
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
