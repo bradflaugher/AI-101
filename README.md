@@ -7,7 +7,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ## Preparation
 
-* (Preferred, but not required) Install Ubuntu Linux on your PC, if you have one [Fresh Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) NOTE if you have a Mac this will be almost impossible, but that's OK, just install docker (see below)
+* (Preferred, but not required) Install Ubuntu Linux on your PC, if you have one [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) NOTE if you have a Mac this will be almost impossible, but that's OK, just install docker (see below)
 * (Required) Install Docker Desktop [Docker.com](https://www.docker.com/get-started/)
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
