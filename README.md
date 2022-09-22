@@ -69,6 +69,13 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext)
 * [Have Computers Made Us More Productive?](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle)
 
+### Optional Readings
+* [History of C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [History of SQL](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Keynes on Next-Day Delivery](https://nn.m.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth)
+
+
 ### Readings (Books, Videos, Handouts)
 * MIT Lectures on Managing Technical Professionals (Handout)
 * [Phil Jackson Oprah Interview, Zen Mind Beginners Mind](https://youtu.be/vKAEH_L-v98?t=98)
