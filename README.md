@@ -70,7 +70,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Have Computers Made Us More Productive?](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle)
 
 ### Optional Readings
-* [History of C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [History of SQL](https://en.wikipedia.org/wiki/SQL)
 * [Keynes on Next-Day Delivery](https://nn.m.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth)
