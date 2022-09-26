@@ -55,19 +55,19 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
 ### Topics
-* Working in Tech: Stereotypes in Tech
-* Working in Tech: Phil Jackson's Team Composition
 * Impostors: Talk about ME Professors teaching AI, and ML Leads at big companies
-* History: A historical perspective on technological adoption
+* What does MIT Say? A review of "Managing Technical Professionals".
+* History: A historical perspective on technological adoption, is it fast or slow?
+* "Lateral Thinking With Withered Technology"
 * History: Languages, Python and C in particular. SPEED TEST!
 * History: BERT, GPT3 and self-driving cars.
-* History: Intro to Bias: Mugshot.com, Reggie Bush's W.A.G. Model
 
 
 ### Readings (Online)
 * [Huge “foundation models” are turbo-charging AI progress](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext)
 * [Have Computers Made Us More Productive?](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle)
+* [Lateral Thinking With Withered Technology](https://www.forbes.com/sites/tomokoyokoi/2021/01/24/how-the-philosophy-of-nintendos-game-boy-inventor-is-ripe-for-these-times/?sh=4d2983d04de4)
 
 ### Optional Readings
 * [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -78,7 +78,6 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings (Books, Videos, Handouts)
 * MIT Lectures on Managing Technical Professionals (Handout)
-* [Phil Jackson Oprah Interview, Zen Mind Beginners Mind](https://youtu.be/vKAEH_L-v98?t=98)
 
 ## Lesson 2: Docker, DevOps/MLOps, and Environment Setup
 
@@ -102,7 +101,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Docker on GCP](https://cloud.google.com/compute/docs/containers), or the [TLDR version](https://www.howtogeek.com/devops/how-to-run-docker-containers-on-google-cloud-platform/)
 * [Docker on Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/docker/)
 * [Spotty](https://github.com/spotty-cloud/spotty)
-
+* [Tensordock](https://www.tensordock.com/)
 
 ## Lesson B: Open Source, Freedom, and Stress
 
@@ -128,6 +127,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings (Online)
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
+* [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
 * [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 * [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
 * [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
@@ -222,9 +222,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project).
 
-# Further Reading
-
-I highly recommend the following books and resources.
+# Recommended Books and Articles
 
 * [Basic Linux Terminal Tips and Tricks](https://learning.oreilly.com/library/view/basic-linux-terminal/9781484260357/) and [Bash for beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * [Git Basics](https://rogerdudler.github.io/git-guide/)
@@ -232,4 +230,12 @@ I highly recommend the following books and resources.
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+
+# Recommended Learning Resources and Professional Groups
+* [Women in Data](https://www.womenindata.org/)
+* [O'Reilly Learning](https://www.oreilly.com/)
+
+# Recommended (in-person) Conferences
+* [Ai4](https://ai4.io/)
+* [Pytorch Dev Day](https://pytorch.org/events) or [Tensorflow Dev Summit (if it comes back)](https://www.tensorflow.org/dev-summit/)
 
