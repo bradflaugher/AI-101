@@ -175,8 +175,8 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * The problem with GUIs
 
 ### Readings
-[Unix is my IDE](https://mkaz.blog/code/unix-is-my-ide/)
-[Unix is my IDE v2](https://lukasatkinson.de/2017/unix-is-my-ide-script-everything/)
+[Unix is my IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+[Unix is my IDE (discussion)](https://news.ycombinator.com/item?id=12653028)
 
 
 ## Lesson 5: Model Architecture
