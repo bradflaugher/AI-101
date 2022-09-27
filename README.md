@@ -133,7 +133,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
 
 ### Readings (Handout)
-* Diving Judges Case Study UPenn (Handout, Moodle)
+* UPenn Stats Lectures (Handout)
 
 ### Optional Readings
 * [Fundamentals of Data Engineering, Chapters 1 and 3](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
@@ -203,20 +203,19 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Optional Readings
 * [The Alignment Problem](https://en.wikipedia.org/wiki/The_Alignment_Problem)
 
-## Lesson 6: Model Deployment
+## Lesson 6: Model Deployment and MLOps
 
 ### Topics
 * Tensorflow Lite, Tensorflow Serving
 * Predict is easy, train is hard (computationally)
 * Docker + Flask
+* DevOps vs MLOps, what is special? what is the same?
 
 ### Readings
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
 ### Optional Readings
-* [Advanced Deployment w/ LLVM and PyTorch](https://blog.christianperone.com/2022/09/tutorial-on-using-llvm-to-jit-pytorch-fx-graphs-to-native-code-x86-arm-risc-v-wasm-part-i-scalars/)
-* [Build Systems at Coinbase](https://blog.coinbase.com/building-a-python-ecosystem-for-efficient-and-reliable-development-d986c97a94a0)
-* [Build Systems at Facebook](https://buck.build/)
+* [Practical MLOps Chapters 1-4](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 # Final Projects
 
@@ -230,6 +229,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 # Recommended Learning Resources and Professional Groups
 * [Women in Data](https://www.womenindata.org/)
