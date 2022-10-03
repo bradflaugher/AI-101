@@ -206,6 +206,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [A.I. Is Not Sentient. Why Do People Say It Is?](https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html)
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html)
 * [Stuck on the Streets of San Francisco in a Driverless Car](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)
+* [Is it all just a big regression?](https://www.reddit.com/r/MachineLearning/comments/xrge5d/d_is_neural_network_really_smart_or_just_some/)
 
 ### Optional Readings
 * [The Alignment Problem](https://en.wikipedia.org/wiki/The_Alignment_Problem)
