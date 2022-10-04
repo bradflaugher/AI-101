@@ -162,6 +162,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
 ### Additional Resources (Optional)
+* [MLFlow Intro](https://www.youtube.com/watch?app=desktop&v=daBTYQP23-A&feature=youtu.be)
 * [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [FreeCodeCamp ML Course in 10 hrs](https://www.youtube.com/watch?v=NWONeJKn6kc)
 
