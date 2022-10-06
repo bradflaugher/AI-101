@@ -128,15 +128,16 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings (Online)
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
-* [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
-* [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
 * [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
+* [Few-shot classification with SetFit...](https://rubrix.readthedocs.io/en/master/tutorials/few-shot-classification-with-setfit.html)
 
 ### Readings (Handout)
 * UPenn Stats Lectures (Handout)
 
 ### Optional Readings
 * [Fundamentals of Data Engineering, Chapters 1 and 3](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+* [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
+* [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
 ## Lesson C: Managing Technical Professionals, Managing Complex Technical Projects
 
@@ -223,8 +224,11 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
+
 ### Optional Readings
 * [Practical MLOps Chapters 1-4](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Create an MLOps Pipeline with github and docker in minutes](https://heartbeat.comet.ml/create-an-mlops-pipeline-with-github-and-docker-hub-in-minutes-4a1515b6a551)
+* [AI Template (github)](https://github.com/facebookincubator/AITemplate)
 
 # Final Projects
 
