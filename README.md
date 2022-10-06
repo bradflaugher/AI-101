@@ -60,7 +60,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * History: A historical perspective on technological adoption, is it fast or slow?
 * "Lateral Thinking With Withered Technology"
 * History: Languages, Python and C in particular. SPEED TEST!
-* History: BERT, GPT3 and self-driving cars.
+* History: BERT, GPT3, DALLE, Stable Diffusion and self-driving cars.
 
 
 ### Readings (Online)
