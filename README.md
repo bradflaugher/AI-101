@@ -22,17 +22,15 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 1: Practical Science
 
 ### Topics
-* ML vs AI, supervised, unsuperviesd, GANs and Reinforcement
-* Intro to Neural Networks, Neuroscience, and Statistics
-* Babies and Vision
-* Single Cell Neural Network ala Excel Neural Networks
-* Regression to Support Vector to Neural Network
-* Jon Krohn's Hamburger/Hot Dog Classifier
-* Baking a cake with positive reinforcement
-* [Huggable Model](https://github.com/daspartho/is-it-huggable)
-* [PLAYGROUND GPT-3 First Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
-* When will GPT-3 insights become stale? Is this learning? is this science?
-* [Craiyon, DALL-E and Stable Diffusion... "Derivative" works](https://www.craiyon.com/)
+* Definitions: Data Scientist, Data Engineer, Data Analyst
+* Definitions: Machine Learning and Artificial Intelligence
+* History: What kind of ML is used today? [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
+* Neural Networks: [Babies and Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
+* Neural Networks: [Single Cell Neural Network aka Regression in Excel](/1_Practical_NNs/Excel Neural Network.xlsx)
+* Neucal Networks: [Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
+* Neural Networks: When will GPT-3 "insights" become stale? Is this learning? is this engineering? is this science?
+* Neural Networks: [Correllating words and images](https://www.craiyon.com/)
+* Final Project Intro: [Huggable Model](https://github.com/daspartho/is-it-huggable)
 
 ### Introduction to Portfolio projects
 * [VIDEO: Oleh's Car Price Predictor](https://www.youtube.com/watch?v=I-KL-mWF548) and [Source Code](https://github.com/MorhaliukOL/ML_Project)
@@ -46,11 +44,6 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings (Online)
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
-
-### Additional Readings on Modeling topics not covered in this course
-* [Support Vector Machines in 2 minutes](https://www.youtube.com/watch?v=_YPScrckx28)
-* [Random Forest](https://towardsdatascience.com/random-forest-classification-678e551462f5)
-* [Old College Textbook on AI](https://www.goodreads.com/book/show/475758.Artificial_Intelligence)
 
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
