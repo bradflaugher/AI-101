@@ -26,7 +26,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Definitions: Machine Learning and Artificial Intelligence
 * History: What kind of ML is used today? [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Neural Networks: [Babies and Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
-* Neural Networks: [Single Cell Neural Network aka Regression in Excel](/1_Practical_NNs/Excel Neural Network.xlsx)
+* Neural Networks: Single Cell Neural Network aka Regression in Excel
 * Neucal Networks: [Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
 * Neural Networks: When will GPT-3 "insights" become stale? Is this learning? is this engineering? is this science?
 * Neural Networks: [Correllating words and images](https://www.craiyon.com/)
