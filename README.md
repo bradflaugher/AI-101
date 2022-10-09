@@ -41,48 +41,45 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Medusa](https://github.com/predbrad/medusa)
 * [Kaggle](https://www.kaggle.com/competitions)
 
-### Readings (Online)
+### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
 
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
 ### Topics
-* Impostors: Talk about ME Professors teaching AI, and ML Leads at big companies
-* What does MIT Say? A review of "Managing Technical Professionals".
-* History: A historical perspective on technological adoption, is it fast or slow?
-* "Lateral Thinking With Withered Technology"
-* History: Languages, Python and C in particular. SPEED TEST!
+* Definitions: Unix, Linux, Command Line, DevOps, Programming Language
+* History: Python and C Speed Test, SQL
 * History: BERT, GPT3, DALLE, Stable Diffusion and self-driving cars.
+* History: A historical perspective on technological adoption, is it fast or slow? (Lateral thinking with withered technology, how many people can use spreadsheets, and Keynes quote)
+* Impostor Syndrome: Can you trust your professor at Berkley? Who are the ML Leads at big companies? Who are the IT consultants?
+* Impostor Syndrome: What does MIT Say? A review of [Managing Technical Professionals](https://executive.mit.edu/course/Managing-Technical-Professionals-and-Organizations/a056g00000URaN0AAL.html).
 
 
-### Readings (Online)
+### Readings
 * [9 Reasons why you'll never be a data scientist](https://towardsdatascience.com/9-reasons-why-youll-never-become-a-data-scientist-c8c5b75503cf)
 * [Huge “foundation models” are turbo-charging AI progress](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext)
 * [Have Computers Made Us More Productive?](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle)
 * [Lateral Thinking With Withered Technology](https://www.forbes.com/sites/tomokoyokoi/2021/01/24/how-the-philosophy-of-nintendos-game-boy-inventor-is-ripe-for-these-times/?sh=4d2983d04de4)
+* [Keynes on Next-Day Delivery](https://nn.m.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth)
 
 ### Optional Readings
 * [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [History of SQL](https://en.wikipedia.org/wiki/SQL)
-* [Keynes on Next-Day Delivery](https://nn.m.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth)
 
-
-### Readings (Books, Videos, Handouts)
-* MIT Lectures on Managing Technical Professionals (Handout)
 
 ## Lesson 2: Docker, DevOps/MLOps, and Environment Setup
 
 ### Topics
-* What is docker?
-* What does "ephemeral" mean?
-* Command line usage, flags, interactive mode and bash
-* SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
-* How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
-* What are Kaggle and Colab?
-* "Head of Data" interview question, how fast can you spin up an environment?
+* Definitions: docker, container, ephemeral, bash
+* History: SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
+* Docker: Command line usage, flags, interactive mode and bash
+* Docker in the cloud: How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
+* Aside: What are Kaggle and Colab?
+* Demonstration: Create a github project, spin up environment, run experiment, save python file, commit changes.
+* Practice: "Head of Data" interview question, how fast can you spin up an environment?
 
 ### Readings
 * [Docker Documentaton](https://docs.docker.com/)
@@ -97,14 +94,15 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [Spotty](https://github.com/spotty-cloud/spotty)
 * [Tensordock](https://www.tensordock.com/)
 
-## Lesson B: Open Source, Freedom, and Stress
+## Lesson B: Open Source, Freedom, and how to remove the stress of software choices
 
 ### Topics
-* Why Linux? Why Open Source, FOSS?
-* Cycling team analogy, Trek, Schwinn, Homemade Bike
-* “A Generation Behind” - is it true? is it useful?
-* Competition and cooperation in tech.
-* Anxiety and process
+* Definitions: Open Source, FOSS
+* History: Linux, Gnu and Free Software
+* Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike
+* Aside: “A Generation Behind” - is it true? is it useful?
+* Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
+* Choosing Technologies: How to choose a technology and not stress about it. 
 
 ### Readings
 * [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
@@ -113,50 +111,39 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 3: Loading Data Types, More Statistics
 
 ### Topics
-* Numbers are Data
-* Text is Data
-* Images are Data
-* Statistics for Machine Learning
-* Data Collection, ETL and "glue code"
+* Demonstration: Numbers are Data
+* Demonstration: Text is Data
+* Demonstration: Images are Data
+* Discussion: Data Collection, ETL and "glue code"
 
-### Readings (Online)
+### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
 * [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
 * [Few-shot classification with SetFit...](https://rubrix.readthedocs.io/en/master/tutorials/few-shot-classification-with-setfit.html)
-
-### Readings (Handout)
-* UPenn Stats Lectures (Handout)
 
 ### Optional Readings
 * [Fundamentals of Data Engineering, Chapters 1 and 3](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
 * [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
-## Lesson C: Managing Technical Professionals, Managing Complex Technical Projects
+## Lesson C: Managing Complex Technical Projects and Working with Models and Humans
 
 ### Topics
-* Working with "Simon"
-* Modules and Team Interaction
-* Testing and Documentation
-* Blending Models and Humans
-
-### Readings (Handout)
-* MIT MTP Notes
-* Wharton Model Notes
+* What the Consultants say: [Modules and Team Interaction](https://prolearn.mit.edu/managing-complex-technical-projects-0)
+* What the consultants say: [Decision Making: Blending Models and Humans](https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/effective-decision-making-thinking-critically-and-rationally/)
+* Discussion: Testing and Documentation
 
 ## Lesson 4: Wrangling Your Data
 
 ### Topics
-* AI/ML as "Programming with data"
-* Common data gathering tricks
-* Open-source datasets
-* "What to do when you get stuck with a horrible dataset"	
+* Discussion: Common data gathering tricks
+* Discussion: What to do when you get stuck with a horrible dataset	
 
-### Readings (Online)
+### Readings
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
-### Additional Resources (Optional)
+### Additional Readings (Optional)
 * [MLFlow Intro](https://www.youtube.com/watch?app=desktop&v=daBTYQP23-A&feature=youtu.be)
 * [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 * [FreeCodeCamp ML Course in 10 hrs](https://www.youtube.com/watch?v=NWONeJKn6kc)
@@ -164,11 +151,10 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson D: Practical Debugging, Hacker Ethos and Mindset
 
 ### Topics
-* UNIX as IDE
-* Infrastructrue as code
-* Platform agnosticism
-* Which Libraries should I use?
-* The problem with GUIs
+* Demonstration: UNIX as IDE
+* Demonstration: Infrastructrue as code
+* Discussion: Which Libraries should I use?
+* Discussion: What is the problem with GUIs?
 
 ### Readings
 [Unix is my IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
@@ -178,11 +164,10 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 5: Model Architecture
 
 ### Topics
-* Layer Types
-* "Standard Models"
-* Where to start, how to adjust hyperparameters
-* "Stealing" ideas
-* Metrics: Accuracy, Precision, Recall, Loss, AUC etc...
+* Definition: Accuracy, Precision, Recall, Loss, AUC
+* Discussion: Layer Types and Standard or Template Models
+* Discussion: Where to start, how to adjust hyperparameters
+* Discussion: How can you steal ideas?
 
 ### Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
@@ -190,11 +175,10 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson E: AI Optimism and Bias
 
 ### Topics
-* When will Skynet become self-aware?
-* Self-Driving trolley preblems
-* I can predict criminality, should I? 
-* Are biased models useful? When?
-* AI Ethics Big 3: Explainability, Bias, and Privacy (Story about skin cancel detector model and stock trading models)
+* Definitions: AI Ethics Big 3: Explainability, Bias, and Privacy
+* Discussion: Who should die? Self-Driving trolley preblems.
+* Discussion: I can predict criminality, should I? 
+* Discussion: Are biased models useful? When?
 
 ### Readings
 * [Google Researcher Says She Was Fired Over Paper Highlighting Bias in A.I.](https://www.nytimes.com/2020/12/03/technology/google-researcher-timnit-gebru.html)
@@ -210,14 +194,13 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 6: Model Deployment and MLOps
 
 ### Topics
-* Tensorflow Lite, Tensorflow Serving
-* Predict is easy, train is hard (computationally)
-* Docker + Flask
-* DevOps vs MLOps, what is special? what is the same?
+* Demonstration: Tensorflow Lite, Tensorflow Serving
+* Discussion: Predict is easy, train is hard (computationally)
+* Demonstration: Docker + Flask
+* Discussion: DevOps vs MLOps, what is special? what is the same?
 
 ### Readings
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
-
 
 ### Optional Readings
 * [Practical MLOps Chapters 1-4](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
