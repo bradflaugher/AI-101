@@ -102,7 +102,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike
 * Aside: “A Generation Behind” - is it true? is it useful?
 * Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
-* Choosing Technologies: How to choose a technology and not stress about it. 
+* Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
 ### Readings
 * [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
