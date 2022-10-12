@@ -52,7 +52,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * History: Python and C Speed Test, SQL
 * History: BERT, GPT3, DALLE, Stable Diffusion and self-driving cars.
 * History: A historical perspective on technological adoption, is it fast or slow? (Lateral thinking with withered technology, how many people can use spreadsheets, and Keynes quote)
-* Impostor Syndrome: Can you trust your professor at Berkley? Who are the ML Leads at big companies? Who are the IT consultants?
+* Impostor Syndrome: "10,000 Qualified data scientists" Can you trust your professor at Berkley? Who are the ML Leads at big companies? Who are the IT consultants?
 * Impostor Syndrome: What does MIT Say? A review of [Managing Technical Professionals](https://executive.mit.edu/course/Managing-Technical-Professionals-and-Organizations/a056g00000URaN0AAL.html).
 
 
@@ -228,4 +228,20 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 # Recommended (in-person) Conferences
 * [Ai4](https://ai4.io/)
 * [Pytorch Dev Day](https://pytorch.org/events) or [Tensorflow Dev Summit (if it comes back)](https://www.tensorflow.org/dev-summit/)
+
+# Recommended Job Boards
+* [LinkedIn](https://www.linkedin.com/)
+* [StackOverflow Jobs](https://stackoverflow.com/jobs/)
+* [RemoteOK](https://remoteok.io/)
+* [Toptal](https://www.toptal.com/)
+* [Angel.co](https://angel.co/job-collections/remote/)
+* [Indeed](https://www.indeed.com/)
+
+# Gigs (Freelance work)
+* [TopCoder](https://www.topcoder.com/)
+* [Upwork](https://www.upwork.com/)
+* [Codementor](https://www.codementor.io/)
+
+# On-Demand Help
+* [Codementor](https://www.codementor.io/)
 
