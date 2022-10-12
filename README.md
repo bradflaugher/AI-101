@@ -68,7 +68,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [History of SQL](https://en.wikipedia.org/wiki/SQL)
-
+* [Deloitte's Data Science Hiring Problems (2018)](https://stack.bradflaugher.com/Articles/Deloitte.pdf)
 
 ## Lesson 2: Docker, DevOps/MLOps, and Environment Setup
 
@@ -99,7 +99,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Topics
 * Definitions: Open Source, FOSS
 * History: Linux, Gnu and Free Software
-* Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike
+* Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike, #2 Kid with CNC machine vs old man with saw
 * Aside: “A Generation Behind” - is it true? is it useful?
 * Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
