@@ -27,10 +27,11 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * History: What kind of ML is used today? [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Neural Networks: [Babies and Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * Neural Networks: Single Cell Neural Network aka Regression in Excel
-* Neucal Networks: [Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
+* Neural Networks: [Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
 * Neural Networks: When will GPT-3 "insights" become stale? Is this learning? is this engineering? is this science?
 * Neural Networks: [Correllating words and images](https://www.craiyon.com/)
-* Final Project Intro: [Huggable Model](https://github.com/daspartho/is-it-huggable)
+* Neural Networks: Why only study NNs for now? [NNs are Decision Trees](https://arxiv.org/abs/2210.05189), [NNs vs SVMs](https://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+* Final Project Intro: [Huggable Model](https://github.com/daspartho/is-it-huggable) and [Google Play Virus Model](https://www.sciencedirect.com/science/article/pii/S2772941922000114?via%3Dihub)
 
 ### Introduction to Portfolio projects
 * [VIDEO: Oleh's Car Price Predictor](https://www.youtube.com/watch?v=I-KL-mWF548) and [Source Code](https://github.com/MorhaliukOL/ML_Project)
@@ -164,7 +165,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 5: Model Architecture
 
 ### Topics
-* Definition: Accuracy, Precision, Recall, Loss, AUC
+* Definition: [Accuracy](https://medium.datadriveninvestor.com/accuracy-trap-pay-attention-to-recall-precision-f-score-auc-d02f28d3299c), [Precision, Recall, F1](https://emkademy.com/research/toolbox/2020-03-02-accuracy-precision-recall), [AUC](https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/)
 * Discussion: Layer Types and Standard or Template Models
 * Discussion: Where to start, how to adjust hyperparameters
 * Discussion: How can you steal ideas?
