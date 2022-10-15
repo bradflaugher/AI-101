@@ -31,6 +31,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Neural Networks: When will GPT-3 "insights" become stale? Is this learning? is this engineering? is this science?
 * Neural Networks: [Correllating words and images](https://www.craiyon.com/)
 * Neural Networks: Why only study NNs for now? [NNs are Decision Trees](https://arxiv.org/abs/2210.05189), [NNs vs SVMs](https://stackoverflow.com/questions/11632516/what-are-advantages-of-artificial-neural-networks-over-support-vector-machines)
+* Neural Networks: [Playing Pong with real neurons](https://stack.bradflaugher.com/Articles/neuron_pong.png)
 * Final Project Intro: [Huggable Model](https://github.com/daspartho/is-it-huggable) and [Google Play Virus Model](https://www.sciencedirect.com/science/article/pii/S2772941922000114?via%3Dihub)
 
 ### Introduction to Portfolio projects
@@ -45,6 +46,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
+* [Is it all just a big regression?](https://www.reddit.com/r/MachineLearning/comments/xrge5d/d_is_neural_network_really_smart_or_just_some/)
 
 ## Lesson A: History, Impostor Syndrome and Working With Technical Professionals
 
@@ -187,7 +189,6 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [A.I. Is Not Sentient. Why Do People Say It Is?](https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html)
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html)
 * [Stuck on the Streets of San Francisco in a Driverless Car](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)
-* [Is it all just a big regression?](https://www.reddit.com/r/MachineLearning/comments/xrge5d/d_is_neural_network_really_smart_or_just_some/)
 
 ### Optional Readings
 * [The Alignment Problem](https://en.wikipedia.org/wiki/The_Alignment_Problem)
