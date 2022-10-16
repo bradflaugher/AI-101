@@ -39,9 +39,12 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [VIDEO: Fall 2022 Bootcampers Presentation WARNING LARGE FILE](https://stack.bradflaugher.com/Videos/Final_Presentations_Audigent_Bootcamp.webm) and [Hanna's Source Code](/5_Model_Architecture/Profitable_Visitor_Classification_With_Notes.ipynb)
 
 ### Project Ideas
+* [Kaggle](https://www.kaggle.com/competitions)
 * [ML Safety Competitions](https://safe.ai/competitions)
 * [Medusa](https://github.com/predbrad/medusa)
-* [Kaggle](https://www.kaggle.com/competitions)
+* [LAION](https://laion.ai/)
+* [Datahub](https://datahub.io/collections)
+* [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
