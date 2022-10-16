@@ -251,3 +251,6 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 # On-Demand Help
 * [Codementor](https://www.codementor.io/)
 
+# "Bigtime" Models
+* [Huggingface](https://huggingface.co/models)
+* [OpenAI](https://openai.com/api/) 
