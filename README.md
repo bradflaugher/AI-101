@@ -39,12 +39,10 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * [VIDEO: Fall 2022 Bootcampers Presentation WARNING LARGE FILE](https://stack.bradflaugher.com/Videos/Final_Presentations_Audigent_Bootcamp.webm) and [Hanna's Source Code](/5_Model_Architecture/Profitable_Visitor_Classification_With_Notes.ipynb)
 
 ### Project Ideas
-* [Kaggle](https://www.kaggle.com/competitions)
-* [ML Safety Competitions](https://safe.ai/competitions)
-* [Medusa](https://github.com/predbrad/medusa)
-* [LAION](https://laion.ai/)
-* [Datahub](https://datahub.io/collections)
-* [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets)
+* Help Brad with FOSS Models for [Medusa](https://github.com/predbrad/medusa)
+* Free captioned images from the web, [LAION](https://laion.ai/)
+* The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl)
+* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
@@ -254,3 +252,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 # "Bigtime" Models
 * [Huggingface](https://huggingface.co/models)
 * [OpenAI](https://openai.com/api/) 
+
+# Competitions
+* [Kaggle](https://www.kaggle.com/competitions)
+* [ML Safety Competitions](https://safe.ai/competitions)
