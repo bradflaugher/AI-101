@@ -22,7 +22,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 ## Lesson 1: Practical Science
 
 ### Topics
-* Definitions: Data Scientist, Data Engineer, Data Analyst
+* Definitions: Data Scientist, Data Engineer, Data Analyst ([What do we spend time doing?](https://stack.bradflaugher.com/Data-Janitors.jpg))
 * Definitions: Machine Learning and Artificial Intelligence
 * History: What kind of ML is used today? [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Neural Networks: [Babies and Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
