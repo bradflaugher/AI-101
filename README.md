@@ -85,12 +85,12 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Demonstration: Create a github project, spin up environment, run experiment, save python file, commit changes.
 
 ### Readings
-* [Docker Documentaton](https://docs.docker.com/)
 * [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
 * [Cloud Computing Business Overview (Sep 2022)](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits)
 
 ### Optional Readings
+* [Docker Documentaton](https://docs.docker.com/)
 * [Docker on AWS](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/), or the [TLDR version](https://medium.com/geekculture/deploy-to-aws-docker-in-10-minutes-68a60724dcb9)
 * [Docker on GCP](https://cloud.google.com/compute/docs/containers), or the [TLDR version](https://www.howtogeek.com/devops/how-to-run-docker-containers-on-google-cloud-platform/)
 * [Docker on Azure](https://azure.microsoft.com/en-us/services/kubernetes-service/docker/)
