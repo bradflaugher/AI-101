@@ -86,8 +86,9 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Readings
 * [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
-* [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
+* if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
 * [Cloud Computing Business Overview (Sep 2022)](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits)
+* Read the first half of this article, once they get into deployment details you can skip. [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)
 
 ### Optional Readings
 * [Docker Documentaton](https://docs.docker.com/)
