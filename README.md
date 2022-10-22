@@ -78,6 +78,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 
 ### Topics
 * Definitions: docker, container, ephemeral, bash
+* History: [Unix Family Tree](http://www.pearltrees.com/s/pic/or/unix-family-tree-73278499) and [Linux Family Tree](https://user.oc-static.com/upload/2021/07/05/16254800984395_6_p1c2-4.png) 
 * History: SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
 * Docker: Command line usage, flags, interactive mode and bash
 * Docker in the cloud: How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
