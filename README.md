@@ -85,7 +85,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Demonstration: Create a github project, spin up environment, run experiment, save python file, commit changes.
 
 ### Post-lecture homework
-* (Install and Run a Tensorflow Container)[https://www.tensorflow.org/install]
+* [Install and Run a Tensorflow Container](https://www.tensorflow.org/install)
 ``` 
 docker pull tensorflow/tensorflow:latest  # Download latest stable image
 docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server 
