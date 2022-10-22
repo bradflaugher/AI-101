@@ -42,7 +42,7 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Help Brad with FOSS Models for [Medusa](https://github.com/predbrad/medusa)
 * Free captioned images from the web, [LAION](https://laion.ai/)
 * The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl)
-* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets)
+* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets)
 
 ### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
@@ -98,6 +98,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
 * [Cloud Computing Business Overview (Sep 2022)](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits)
 * Read the first half of this article, once they get into deployment details you can skip. [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)
+* [Git Basics](https://rogerdudler.github.io/git-guide/)
 
 ### Optional Readings
 * [Docker Documentaton](https://docs.docker.com/)
@@ -223,25 +224,24 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 
 Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project).
 
-# Recommended Books and Articles
+# After The Bootcamp
 
-* [Basic Linux Terminal Tips and Tricks](https://learning.oreilly.com/library/view/basic-linux-terminal/9781484260357/) and [Bash for beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
-* [Git Basics](https://rogerdudler.github.io/git-guide/)
-* [Practical SQL](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+## Keep learning with these courses and books
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [HuggingFace Course](https://huggingface.co/course/chapter0/1?fw=pt)
+* 
 
-# Recommended Learning Resources and Professional Groups
+## Recommended Professional Groups
+* [ACM](https://www.acm.org/)
 * [Women in Data](https://www.womenindata.org/)
-* [O'Reilly Learning](https://www.oreilly.com/)
 
-# Recommended (in-person) Conferences
+## Recommended (in-person) Conferences
 * [Ai4](https://ai4.io/)
-* [Pytorch Dev Day](https://pytorch.org/events) or [Tensorflow Dev Summit (if it comes back)](https://www.tensorflow.org/dev-summit/)
+* [NeurIPS](https://neurips.cc/)
 
-# Recommended Job Boards
+## Recommended Job Boards
 * [LinkedIn](https://www.linkedin.com/)
 * [StackOverflow Jobs](https://stackoverflow.com/jobs/)
 * [RemoteOK](https://remoteok.io/)
@@ -249,19 +249,19 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [Angel.co](https://angel.co/job-collections/remote/)
 * [Indeed](https://www.indeed.com/)
 
-# Gigs (Freelance work)
+## Gigs (Freelance work)
 * [TopCoder](https://www.topcoder.com/)
 * [Experfy](https://www.experfy.com/)
 * [Upwork](https://www.upwork.com/)
 * [Codementor](https://www.codementor.io/)
 
-# On-Demand Help
+## On-Demand Help
 * [Codementor](https://www.codementor.io/)
 
-# "Bigtime" Models
+## Huge Foundational Models
 * [Huggingface](https://huggingface.co/models)
 * [OpenAI](https://openai.com/api/) 
 
-# Competitions
+## Competitions
 * [Kaggle](https://www.kaggle.com/competitions)
 * [ML Safety Competitions](https://safe.ai/competitions)
