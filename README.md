@@ -110,15 +110,15 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson B: Open Source, Freedom, and how to remove the stress of software choices
 
 ### Topics
-* Definitions: Open Source, FOSS
-* History: Linux, Gnu and Free Software
+* History: [The FSF](https://www.fsf.org/) and [Richard Stallman](https://stallman.org/)
+* Pop Culture: [FOSS Products](https://www.designnews.com/design-software/8-popular-products-you-didnt-know-were-built-open-source), [Pixar](https://www.gamingonlinux.com/2016/09/pixar-film-production-show-off-how-they-use-linux-and-opengl-open-sourced-a-major-tool/), [Planes](https://i.pinimg.com/originals/d1/31/89/d13189392a05ff5a325152b3e1b55051.jpg), [Servers](https://hub.docker.com/search?q=)
 * Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike, #2 Kid with CNC machine vs old man with saw
 * Aside: “A Generation Behind” - is it true? is it useful?
 * Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
-### Readings
-* [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+### Optional Readings
+* Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Notes on The Software Paradox](https://baus.net/the-software-paradox/) or [The Software Paradox (Full Book)](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938)
 
 ## Lesson 3: Loading Data Types, More Statistics
