@@ -125,6 +125,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson 3: Loading Data Types, More Statistics
 
 ### Topics
+* ETL: What is it and why do we need it?
 * Demonstration: Numbers are Data
 * Demonstration: Text is Data
 * Demonstration: Images are Data
@@ -133,11 +134,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
-* [Tensorflow Image Classification Example](https://www.tensorflow.org/tutorials/images/classification)
-* [Few-shot classification with SetFit...](https://rubrix.readthedocs.io/en/master/tutorials/few-shot-classification-with-setfit.html)
-
-### Optional Readings
-* [Fundamentals of Data Engineering, Chapters 1 and 3](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * [6 Step ETL with Airflow](https://tegardp.medium.com/the-6-step-etl-process-using-airflow-with-example-and-exercise-db46715a61f0)
 * [Airflow vs Luigi vs Kubeflow etc..](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
@@ -157,11 +153,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Readings
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
-### Additional Readings (Optional)
-* [MLFlow Intro](https://www.youtube.com/watch?app=desktop&v=daBTYQP23-A&feature=youtu.be)
-* [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [FreeCodeCamp ML Course in 10 hrs](https://www.youtube.com/watch?v=NWONeJKn6kc)
-
 ## Lesson D: Practical Debugging, Hacker Ethos and Mindset
 
 ### Topics
@@ -173,7 +164,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Readings
 * [Unix is my IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 * [Unix is my IDE (discussion)](https://news.ycombinator.com/item?id=12653028)
-
 
 ## Lesson 5: Model Architecture
 
@@ -201,9 +191,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html)
 * [Stuck on the Streets of San Francisco in a Driverless Car](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)
 
-### Optional Readings
-* [The Alignment Problem](https://en.wikipedia.org/wiki/The_Alignment_Problem)
-
 ## Lesson 6: Model Deployment and MLOps
 
 ### Topics
@@ -216,9 +203,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
 ### Optional Readings
-* [Practical MLOps Chapters 1-4](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 * [Create an MLOps Pipeline with github and docker in minutes](https://heartbeat.comet.ml/create-an-mlops-pipeline-with-github-and-docker-hub-in-minutes-4a1515b6a551)
-* [AI Template (github)](https://github.com/facebookincubator/AITemplate)
 
 # Final Projects
 
@@ -226,12 +211,28 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 # After The Bootcamp
 
-## Keep learning with these courses and books
-* [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
+## Recommended courses, videos and books
+
+### Data Janitoring
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Python Data Cleaning Cookbook](https://learning.oreilly.com/library/view/python-data-cleaning/9781800565661/)
+
+### Model Training
+* [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
+* [FreeCodeCamp ML Course in 10 hrs](https://www.youtube.com/watch?v=NWONeJKn6kc)
 * [HuggingFace Course](https://huggingface.co/course/chapter0/1?fw=pt)
-* 
+
+### Background Math
+* [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Math for Machine Learning](https://learning.oreilly.com/playlists/b1c03a16-8f1d-44af-b97b-67aed9bace2e/)
+
+### Operationalizing ML with MLFlow and MLOps tools
+* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [Practical Deep Learning with MLFlow](https://learning.oreilly.com/library/view/practical-deep-learning/9781803241333/)
+
+### Ethics and AI
+* [Ethical Machines](https://www.reidblackman.com/ethical-machines/)
+* [The Alignment Problem](https://brianchristian.org/the-alignment-problem/)
 
 ## Recommended Professional Groups
 * [ACM](https://www.acm.org/)
