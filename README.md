@@ -84,6 +84,14 @@ Notes and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](http
 * Aside: What are Kaggle and Colab?
 * Demonstration: Create a github project, spin up environment, run experiment, save python file, commit changes.
 
+### Post-lecture homework
+* (Install and Run a Tensorflow Container)[https://www.tensorflow.org/install]
+``` 
+docker pull tensorflow/tensorflow:latest  # Download latest stable image
+docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server 
+```
+* Run the tensorflow tutorial notebooks for either ```classification.ipynb``` (if you want to practice image classification) or ```text_classification.ipynb``` and fit the sample models with the sample data.
+
 ### Readings
 * (this was previously assigned, but you MUST know it for this lecture)  [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
