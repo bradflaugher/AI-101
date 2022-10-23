@@ -72,7 +72,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [History of Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [History of SQL](https://en.wikipedia.org/wiki/SQL)
-* [Deloitte's Data Science Hiring Problems (2018)](https://stack.bradflaugher.com/Articles/Deloitte.pdf)
 
 ## Lesson 2: Docker, DevOps/MLOps, and Environment Setup
 
