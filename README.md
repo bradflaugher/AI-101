@@ -95,7 +95,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Readings
 * (this was previously assigned, but you MUST know it for this lecture)  [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
-* [Cloud Computing Business Overview (Sep 2022)](https://www.economist.com/business/2022/08/29/the-cloud-computing-giants-are-vying-to-protect-fat-profits)
 * Read the first half of this article, once they get into deployment details you can skip. [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)
 * [Git Basics](https://rogerdudler.github.io/git-guide/)
 
