@@ -77,7 +77,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Topics
 * Definitions: docker, container, ephemeral, bash
-* History: [Unix Family Tree](http://www.pearltrees.com/s/pic/or/unix-family-tree-73278499) and [Linux Family Tree](https://user.oc-static.com/upload/2021/07/05/16254800984395_6_p1c2-4.png) 
 * History: SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery)
 * Docker: Command line usage, flags, interactive mode and bash
 * Docker in the cloud: How to think about the cloud, Big Providers (AWS, GCP, Azure) and Small (Linode, Oracle, etc...)
@@ -111,6 +110,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Topics
 * History: [The FSF](https://www.fsf.org/) and [Richard Stallman](https://stallman.org/)
 * History: [FOSS Products](https://www.designnews.com/design-software/8-popular-products-you-didnt-know-were-built-open-source), [Pixar](https://www.gamingonlinux.com/2016/09/pixar-film-production-show-off-how-they-use-linux-and-opengl-open-sourced-a-major-tool/), [Planes](https://i.pinimg.com/originals/d1/31/89/d13189392a05ff5a325152b3e1b55051.jpg), [Servers](https://hub.docker.com/search?q=)
+* History: [Unix Family Tree](http://www.pearltrees.com/s/pic/or/unix-family-tree-73278499) and [Linux Family Tree](https://user.oc-static.com/upload/2021/07/05/16254800984395_6_p1c2-4.png) 
 * Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike, #2 Kid with CNC machine vs old man with saw
 * Aside: “A Generation Behind” - is it true? is it useful?
 * Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
