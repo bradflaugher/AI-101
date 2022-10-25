@@ -117,8 +117,8 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
 ### Final Project Update
-* Downloading Data, Examples: Common Crawl and CSV.
-* What is your ideal dataset?
+* Downloading Data, Examples: [Common Crawl](/3_Data_Types/com_crawl.ipynb) and [CSV](/3_Data_Types/csv_example.ipynb).
+* What is your ideal dataset? ```feature1, feature2, feature3, label```
 
 ### Optional Readings
 * Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
