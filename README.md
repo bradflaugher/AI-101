@@ -116,6 +116,10 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Aside: Competition and cooperation in tech, story of Google, Apple and Microsoft and Open Source.
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
+### Final Project Update
+* Downloading Data, Examples: Common Crawl and CSV.
+* What is your ideal dataset?
+
 ### Optional Readings
 * Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Notes on The Software Paradox](https://baus.net/the-software-paradox/) or [The Software Paradox (Full Book)](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938)
