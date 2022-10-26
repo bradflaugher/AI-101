@@ -111,8 +111,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * History: [The FSF](https://www.fsf.org/) and [Richard Stallman](https://stallman.org/)
 * History: [FOSS Products](https://www.designnews.com/design-software/8-popular-products-you-didnt-know-were-built-open-source), [Pixar](https://www.gamingonlinux.com/2016/09/pixar-film-production-show-off-how-they-use-linux-and-opengl-open-sourced-a-major-tool/), [Planes](https://i.pinimg.com/originals/d1/31/89/d13189392a05ff5a325152b3e1b55051.jpg), [Servers](https://hub.docker.com/search?q=)
 * History: [Unix Family Tree](http://www.pearltrees.com/s/pic/or/unix-family-tree-73278499) and [Linux Family Tree](https://user.oc-static.com/upload/2021/07/05/16254800984395_6_p1c2-4.png) 
-* Aside: Cycling team analogy, Trek, Schwinn, Homemade Bike, #2 Kid with CNC machine vs old man with saw
-* Aside: “A Generation Behind” - is it true? is it useful?
+* Aside: “A Generation Behind” - is it true? is it useful? What if the closed-source stuff eventually becomes free?
 * FOSS in practice: [calculendar](https://github.com/predbrad/calculendar) and [comcrawl](https://github.com/michaelharms/comcrawl/issues/40)
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
