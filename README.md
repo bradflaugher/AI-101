@@ -118,6 +118,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Final Project Update
 * Downloading Data, Examples: [Common Crawl](/3_Data_Types/com_crawl.ipynb), [Common Crawl 2](https://github.com/predbrad/webmd-commoncrawl), [direct from webpages](/3_Data_Types/url_text.ipynb) and [CSV](/3_Data_Types/csv_example.ipynb).
 * What is your ideal dataset? ```feature1, feature2, feature3, label```
+* Image classification examples [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning#Classification)
 
 ### Optional Readings
 * Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
