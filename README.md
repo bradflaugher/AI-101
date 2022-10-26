@@ -116,7 +116,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Choosing Technologies: How to choose a technology and not stress about it. [How to handle buy vs. build and this map](B_FOSS/AI_Tool_Providers.png) 
 
 ### Final Project Update
-* Downloading Data, Examples: [Common Crawl](/3_Data_Types/com_crawl.ipynb), [direct from webpages](/3_Data_Types/url_text.ipynb) and [CSV](/3_Data_Types/csv_example.ipynb).
+* Downloading Data, Examples: [Common Crawl](/3_Data_Types/com_crawl.ipynb), [Common Crawl 2](https://github.com/predbrad/webmd-commoncrawl), [direct from webpages](/3_Data_Types/url_text.ipynb) and [CSV](/3_Data_Types/csv_example.ipynb).
 * What is your ideal dataset? ```feature1, feature2, feature3, label```
 
 ### Optional Readings
