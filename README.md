@@ -133,6 +133,11 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Demonstration: Images are Data
 * Discussion: Data Collection, ETL and "glue code"
 
+### Final Project Update
+* Vodka/Beer Classifier, and the most interesting man alive
+* how to setup your git project part deux (and save your notebook!)
+* more docker, tf and git demos
+
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
