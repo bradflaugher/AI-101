@@ -11,6 +11,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * (Required) Install Docker Desktop [Docker.com](https://www.docker.com/get-started/)
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
+* (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try)
 * (Recommended) Learn vim [via a fun game](https://vim-adventures.com/), [via exercises](https://vim.is/), [by reading documentation](https://www.vim.org/docs.php)
 * (Recommended) Join the bootcampers [LinkedIn Group](https://www.linkedin.com/groups/12707793/)
 
@@ -156,6 +157,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Discussion: What to do when you get stuck with a horrible dataset	
 
 ### Readings
+* [Jupyter Notebooks Getting Started](https://jupyter.org/try)
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
 ## Lesson D: Practical Debugging, Hacker Ethos and Mindset
