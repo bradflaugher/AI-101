@@ -136,7 +136,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 
 ### Final Project Update
 * Vodka/Beer Classifier, and the most interesting man alive
-* Setting up your project with the (medusa-ml-template)[https://github.com/Medusa-ML/medusa-ml-template]
+* Setting up your project with the [medusa-ml-template](https://github.com/Medusa-ML/medusa-ml-template)
 
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
