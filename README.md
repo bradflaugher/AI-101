@@ -135,7 +135,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Discussion: Data Collection, ETL and "glue code"
 
 ### Final Project Update
-* Vodka/Beer Classifier, and the most interesting man alive
 * Setting up your project with the [medusa-ml-template](https://github.com/Medusa-ML/medusa-ml-template)
 
 ### Readings
@@ -148,7 +147,8 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Topics
 * What the Consultants say: [Modules and Team Interaction](https://prolearn.mit.edu/managing-complex-technical-projects-0)
 * What the consultants say: [Decision Making: Blending Models and Humans](https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/effective-decision-making-thinking-critically-and-rationally/)
-* Discussion: Testing and Documentation
+
+### Final Project Q&A
 
 ## Lesson 4: Wrangling Your Data
 
