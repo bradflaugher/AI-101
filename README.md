@@ -43,7 +43,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * Help Brad with FOSS Models for [Medusa](https://github.com/predbrad/medusa)
 * Free captioned images from the web, [LAION](https://laion.ai/)
 * The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl)
-* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets)
+* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and (Huggingface)[https://huggingface.co/docs/datasets/tutorial]
 
 ### Readings
 * [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
@@ -139,7 +139,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
-* [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
 * [Choosing a task orchestration tool](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
 ## Lesson C: Managing Complex Technical Projects and Working with Models and Humans
@@ -148,29 +147,18 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * What the Consultants say: [Modules and Team Interaction](https://prolearn.mit.edu/managing-complex-technical-projects-0)
 * What the consultants say: [Decision Making: Blending Models and Humans](https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/effective-decision-making-thinking-critically-and-rationally/)
 
-### Final Project Q&A
 
-## Lesson 4: Wrangling Your Data
+## Lesson 4: Break to make progress on final projects.
+
+## Lesson D: Features and Labels, how easy is that?
 
 ### Topics
-* Discussion: Common data gathering tricks
-* Discussion: What to do when you get stuck with a horrible dataset	
+* Demonstration: Simplest Text Classification
+* Demonstration: Simplest Image Classification
 
 ### Readings
-* [Jupyter Notebooks Getting Started](https://jupyter.org/try)
+* [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
-
-## Lesson D: Practical Debugging, Hacker Ethos and Mindset
-
-### Topics
-* Demonstration: UNIX as IDE
-* Demonstration: Infrastructrue as code
-* Discussion: Which Libraries should I use?
-* Discussion: What is the problem with GUIs?
-
-### Readings
-* [Unix is my IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/)
-* [Unix is my IDE (discussion)](https://news.ycombinator.com/item?id=12653028)
 
 ## Lesson 5: Model Architecture
 
