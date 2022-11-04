@@ -185,6 +185,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * [A.I. Is Not Sentient. Why Do People Say It Is?](https://www.nytimes.com/2022/08/05/technology/ai-sentient-google.html)
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html)
 * [Stuck on the Streets of San Francisco in a Driverless Car](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)
+* [Copilot and the AI Copyright wars](https://www.technollama.co.uk/copilot-the-next-stage-in-the-ai-copyright-wars)
 
 ## Lesson 6: Model Deployment and MLOps
 
