@@ -186,6 +186,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * [The Long Road to Driverless Trucks](https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html)
 * [Stuck on the Streets of San Francisco in a Driverless Car](https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html)
 * [Copilot and the AI Copyright wars](https://www.technollama.co.uk/copilot-the-next-stage-in-the-ai-copyright-wars)
+* ["Driverless Cars" with Human Masters](https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=hp_listc_pos1)
 
 ## Lesson 6: Model Deployment and MLOps
 
