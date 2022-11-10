@@ -153,8 +153,10 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson D: Features and Labels, how easy is that?
 
 ### Topics
+* [Pandas in Action](https://github.com/paskhaver/pandas-in-action)
 * Demonstration: Simplest Text Classification
 * Demonstration: Simplest Image Classification
+* [Ludwig](https://github.com/ludwig-ai/ludwig)
 
 ### Readings
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
