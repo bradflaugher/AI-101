@@ -7,12 +7,12 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ## Preparation
 
-* (Preferred, but not required) Install Ubuntu Linux on your PC, if you have one [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) NOTE if you have a Mac this will be almost impossible, but that's OK, just install docker (see below)
-* (Required) Install Docker Desktop [Docker.com](https://www.docker.com/get-started/)
+* (Required) Install Ubuntu Linux on your PC, [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) NOTE if you have an M1 Mac this will be almost impossible, so sell that thing or talk to Brad.
+* (Required) Install Docker [Install docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try)
-* (Recommended) Learn vim [via a fun game](https://vim-adventures.com/), [via exercises](https://vim.is/), [by reading documentation](https://www.vim.org/docs.php)
+* (Required) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * (Recommended) Join the bootcampers [LinkedIn Group](https://www.linkedin.com/groups/12707793/)
 
 # Lecture Outline
@@ -46,7 +46,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and (Huggingface)[https://huggingface.co/docs/datasets/tutorial]
 
 ### Readings
-* [Understanding Infant Vision](https://www.aoa.org/healthy-eyes/eye-health-for-life/infant-vision?sso=y)
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
 * [Is it all just a big regression?](https://www.reddit.com/r/MachineLearning/comments/xrge5d/d_is_neural_network_really_smart_or_just_some/)
 
@@ -65,9 +64,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * [9 Reasons why you'll never be a data scientist](https://towardsdatascience.com/9-reasons-why-youll-never-become-a-data-scientist-c8c5b75503cf)
 * [Huge “foundation models” are turbo-charging AI progress](https://www.economist.com/interactive/briefing/2022/06/11/huge-foundation-models-are-turbo-charging-ai-progress)
 * [Language Models: Past, Present, and Future](https://cacm.acm.org/magazines/2022/7/262080-language-models/fulltext)
-* [Have Computers Made Us More Productive?](https://www.stlouisfed.org/publications/regional-economist/october-1998/have-computers-made-us-more-productive-a-puzzle)
-* [Lateral Thinking With Withered Technology](https://www.forbes.com/sites/tomokoyokoi/2021/01/24/how-the-philosophy-of-nintendos-game-boy-inventor-is-ripe-for-these-times/?sh=4d2983d04de4)
-* [Keynes on Next-Day Delivery](https://nn.m.wikiquote.org/wiki/The_inhabitant_of_London_could_order_by_telephone,_sipping_his_morning_tea_in_bed,_the_various_products_of_the_whole_earth)
 
 ### Optional Readings
 * [History of C](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -96,7 +92,6 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * (this was previously assigned, but you MUST know it for this lecture)  [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql)
 * Read the first half of this article, once they get into deployment details you can skip. [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/)
-* [Git Basics](https://rogerdudler.github.io/git-guide/)
 
 ### Optional Readings
 * [Docker Documentaton](https://docs.docker.com/)
@@ -125,7 +120,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Notes on The Software Paradox](https://baus.net/the-software-paradox/) or [The Software Paradox (Full Book)](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938)
 
-## Lesson 3: Pandas, Loading Data Types, More Statistics
+## Lesson 3: ETL, Loading Data Types, "It's all numbers, man" 
 
 ### Topics
 * ETL: What is it and why do we need it?
@@ -140,19 +135,26 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
-* [Choosing a task orchestration tool](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
 ### Pandas Mini-Courses (required if you do not know pandas)
 * [Pandas in Action](https://github.com/paskhaver/pandas-in-action) or read the [O'Reilly book ($ or free trial required)](https://learning.oreilly.com/library/view/pandas-in-action/9781617297434/)
 * OR [pandas on datacamp ($ required)](https://www.datacamp.com/courses/data-manipulation-with-pandas) or [pandas on codecademy ($ required)](https://www.codecademy.com/learn/data-processing-pandas)
 * OR [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 
-## Lesson C: Managing Complex Technical Projects and Working with Models and Humans
+### Optional Readings (Airflow)
+* [Choosing a task orchestration tool](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
+* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE)
+
+## Lesson C: Data Wrangling 
 
 ### Topics
-* What the Consultants say: [Modules and Team Interaction](https://prolearn.mit.edu/managing-complex-technical-projects-0)
-* What the consultants say: [Decision Making: Blending Models and Humans](https://executiveeducation.wharton.upenn.edu/for-individuals/all-programs/effective-decision-making-thinking-critically-and-rationally/)
+* Scraping Data
+* APIs
+* Python Requests
+* Combining datasets
 
+### Readings
+* [Python Requests Tutorial](https://www.geeksforgeeks.org/python-requests-tutorial/)
 
 ## Lesson 4: Break to make progress on final projects.
 
