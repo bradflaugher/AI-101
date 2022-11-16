@@ -242,6 +242,12 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [Ethical Machines](https://www.reidblackman.com/ethical-machines/)
 * [The Alignment Problem](https://brianchristian.org/the-alignment-problem/)
 
+## Recommended Mailing lists and online groups
+* [Deep Learning Weekly](https://www.deeplearningweekly.com/)
+* [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)
+* [Hacker News (it's less focused on ML, but worth your time generally)](https://news.ycombinator.com/)
+* [Reddit Programming (same as above)](https://www.reddit.com/r/programming/)
+
 ## Recommended Professional Groups
 * [ACM](https://www.acm.org/)
 * [Women in Data](https://www.womenindata.org/)
