@@ -155,6 +155,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Topics
 * [Pandas in Action](https://github.com/paskhaver/pandas-in-action) or read the [O'Reilly book ($ or free trial required)](https://learning.oreilly.com/library/view/pandas-in-action/9781617297434/)
 * OR [pandas on codecademy ($ required)](https://www.codecademy.com/learn/data-processing-pandas)
+* OR [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 * Demonstration: Simplest Text Classification
 * Demonstration: Simplest Image Classification
 * [Ludwig](https://github.com/ludwig-ai/ludwig)
