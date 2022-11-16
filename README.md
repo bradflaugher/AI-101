@@ -125,13 +125,14 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Feel free to skim this, or read in detail any essay with a title that speaks to you. [Free Software, Free Society](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * [Notes on The Software Paradox](https://baus.net/the-software-paradox/) or [The Software Paradox (Full Book)](https://www.amazon.com/Software-Paradox-Rise-Commercial-Market/dp/1491900938)
 
-## Lesson 3: Loading Data Types, More Statistics
+## Lesson 3: Pandas, Loading Data Types, More Statistics
 
 ### Topics
 * ETL: What is it and why do we need it?
 * Demonstration: Numbers are Data
 * Demonstration: Text is Data
 * Demonstration: Images are Data
+* Pandas: what is it and why do we use it?
 * Discussion: Data Collection, ETL and "glue code"
 
 ### Final Project Update
@@ -140,6 +141,11 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ### Readings
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb)
 * [Choosing a task orchestration tool](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
+
+### Pandas Mini-Courses (required if you do not know pandas)
+* [Pandas in Action](https://github.com/paskhaver/pandas-in-action) or read the [O'Reilly book ($ or free trial required)](https://learning.oreilly.com/library/view/pandas-in-action/9781617297434/)
+* OR [pandas on codecademy ($ required)](https://www.codecademy.com/learn/data-processing-pandas)
+* OR [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 
 ## Lesson C: Managing Complex Technical Projects and Working with Models and Humans
 
@@ -153,15 +159,11 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson D: Features and Labels, how easy is that?
 
 ### Topics
-* Pandas
 * Demonstration: Simplest Text Classification
 * Demonstration: Simplest Image Classification
 * [Ludwig](https://github.com/ludwig-ai/ludwig)
 
 ### Readings
-* [Pandas in Action](https://github.com/paskhaver/pandas-in-action) or read the [O'Reilly book ($ or free trial required)](https://learning.oreilly.com/library/view/pandas-in-action/9781617297434/)
-* OR [pandas on codecademy ($ required)](https://www.codecademy.com/learn/data-processing-pandas)
-* OR [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 * [NLP in 5 Minutes with Tensorflow](https://codesearchonline.com/natural-language-processing-with-tensorflow-cheat-sheet/)
 
