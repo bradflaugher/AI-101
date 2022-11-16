@@ -153,7 +153,8 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson D: Features and Labels, how easy is that?
 
 ### Topics
-* [Pandas in Action](https://github.com/paskhaver/pandas-in-action)
+* [Pandas in Action](https://github.com/paskhaver/pandas-in-action) or read the [O'Reilly book ($ or free trial required)](https://learning.oreilly.com/library/view/pandas-in-action/9781617297434/)
+* OR [pandas on codecademy ($ required)](https://www.codecademy.com/learn/data-processing-pandas)
 * Demonstration: Simplest Text Classification
 * Demonstration: Simplest Image Classification
 * [Ludwig](https://github.com/ludwig-ai/ludwig)
