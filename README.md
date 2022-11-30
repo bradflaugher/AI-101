@@ -278,6 +278,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [Codementor](https://www.codementor.io/)
 
 ## On-Demand Help
+* [Apprenticeship via Patreon](https://www.patreon.com/bradflaugher)
 * [Codementor](https://www.codementor.io/)
 
 ## Huge Foundational Models
