@@ -264,13 +264,19 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [Ai4](https://ai4.io/)
 * [NeurIPS](https://neurips.cc/)
 
-## Recommended Job Boards
+## Highly Recommended Job Boards
 * [LinkedIn](https://www.linkedin.com/)
-* [StackOverflow Jobs](https://stackoverflow.com/jobs/)
-* [RemoteOK](https://remoteok.io/)
-* [Toptal](https://www.toptal.com/)
 * [Angel.co](https://angel.co/job-collections/remote/)
+* Hacker News "Who's Hiring" Thread [Sample Post](https://news.ycombinator.com/item?id=33818037) and [Collection of all posts](https://hnhiring.com/)
+
+## Salary Comparison Tools
+* [Levels.fyi](https://www.levels.fyi)
+
+## Useful Job Boards that sometimes suck
 * [Indeed](https://www.indeed.com/)
+* [Toptal](https://www.toptal.com/)
+* [RemoteOK](https://remoteok.io/)
+* [StackOverflow Jobs](https://stackoverflow.com/jobs/)
 
 ## Gigs (Freelance work)
 * [TopCoder](https://www.topcoder.com/)
