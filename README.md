@@ -268,6 +268,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [LinkedIn](https://www.linkedin.com/)
 * [Angel.co](https://angel.co/job-collections/remote/)
 * Hacker News "Who's Hiring" Thread [Sample Post](https://news.ycombinator.com/item?id=33818037) and [Collection of all posts](https://hnhiring.com/)
+* [Turing](https://www.turing.com/)
 
 ## Salary Comparison Tools
 * [Levels.fyi](https://www.levels.fyi)
