@@ -206,7 +206,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * [Copilot and the AI Copyright wars](https://www.technollama.co.uk/copilot-the-next-stage-in-the-ai-copyright-wars)
 * ["Driverless Cars" with Human Masters](https://www.wsj.com/articles/why-autonomous-vehicles-will-still-need-a-human-minder-11667833922?mod=hp_listc_pos1)
 
-## Lesson 6: Model Deployment and MLOps
+## Lesson 6: The Universal Machine Learning Workow
 
 ### Topics
 * Demonstration: Tensorflow Lite, Tensorflow Serving
@@ -215,6 +215,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Discussion: DevOps vs MLOps, what is special? what is the same?
 
 ### Readings
+* [The Universal Machine Learning Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml)
 * [Tensorflow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker)
 
 ### Optional Readings
