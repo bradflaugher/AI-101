@@ -209,10 +209,12 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson 6: The Universal Machine Learning Workow
 
 ### Topics
-* Demonstration: Tensorflow Lite, Tensorflow Serving
+* Discussion: Tensorflow Lite, Tensorflow Serving
 * Discussion: Predict is easy, train is hard (computationally)
-* Demonstration: Docker + Flask
+* Discussion: Docker + Flask
 * Discussion: DevOps vs MLOps, what is special? what is the same?
+* Next Steps: Career Coaching, Apprenticeship, Review After-Class Resources and Job Boards
+* Next Steps: After-Bootcamp Survey and Payment Options
 
 ### Readings
 * [The Universal Machine Learning Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml)
