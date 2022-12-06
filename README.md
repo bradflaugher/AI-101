@@ -240,6 +240,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
+* [Natural Language Programming Demystified](https://www.nlpdemystified.org/course)
 
 ### Background Math
 * [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
