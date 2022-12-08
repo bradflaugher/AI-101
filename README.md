@@ -37,7 +37,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Introduction to Portfolio projects
 * [VIDEO: Oleh's Car Price Predictor](https://www.youtube.com/watch?v=I-KL-mWF548) and [Source Code](https://github.com/MorhaliukOL/ML_Project)
-* [VIDEO: Fall 2022 Bootcampers Presentation WARNING LARGE FILE](https://stack.bradflaugher.com/Videos/Final_Presentations_Audigent_Bootcamp.webm) and [Hanna's Source Code](/5_Model_Architecture/Profitable_Visitor_Classification_With_Notes.ipynb)
 
 ### Project Ideas
 * Help Brad with FOSS Models for [Medusa](https://github.com/predbrad/medusa)
