@@ -36,6 +36,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * Final Project Intro: [Huggable Model](https://github.com/daspartho/is-it-huggable) and [Google Play Virus Model](https://www.sciencedirect.com/science/article/pii/S2772941922000114?via%3Dihub)
 
 ### Introduction to Portfolio projects
+* [VIDEO: Alwin's Text Classifier](https://youtu.be/biyLyzBt9vE) and [Source Code](https://github.com/shdwhlx/agila)
 * [VIDEO: Oleh's Car Price Predictor](https://www.youtube.com/watch?v=I-KL-mWF548) and [Source Code](https://github.com/MorhaliukOL/ML_Project)
 
 ### Project Ideas
@@ -225,6 +226,8 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 # Final Projects
 
 Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project).
+
+You can also see more final project presentations and source code on [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
 
 # After The Bootcamp
 
