@@ -1,6 +1,6 @@
 # bootcamp
 
-Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](https://bradflaugher.com/bootcamp.html)
+Lecture notes, readings, code samples and resources for a 1 hour preview of [Brad Flaugher's ML Bootcamp for Executives](https://bradflaugher.com/executive.html)
 
 
 ## Part 1: Background Math (~10 mins)
