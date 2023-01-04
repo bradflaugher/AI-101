@@ -1,4 +1,4 @@
-# bootcamp
+# exec-camp
 
 Lecture notes, readings, code samples and resources for a 1 hour preview of [Brad Flaugher's ML Bootcamp for Executives](https://bradflaugher.com/executive.html)
 
