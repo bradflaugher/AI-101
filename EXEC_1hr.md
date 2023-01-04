@@ -40,6 +40,11 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ![Mr. Blend](blend-in.png "Mr. Blend-In")
 
+* When crowds are wise, knowledge can be gathered via democracy, use ML. 
+* When the world changes slowly, use ML.
+* When there is no right answer, let ML suggest one.
+* When you need a magic filter or sort, try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
+
 ## Appendix: Additional readings and resources
 
 ### From The Economist...
