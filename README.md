@@ -10,7 +10,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * (Required) Install Ubuntu Linux on your PC, [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) NOTE if you have an M1 Mac this will be almost impossible, so sell that thing or talk to Brad.
 * (Required) Install Docker [Install docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
-* (Required) Read Chapters 1-6 of [Automate The Boring Stuff with Python](https://automatetheboringstuff.com/)
+* (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/)
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try)
 * (Required) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 * (Recommended) Join the bootcampers [LinkedIn Group](https://www.linkedin.com/groups/12707793/)
