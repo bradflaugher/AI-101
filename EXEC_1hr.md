@@ -53,6 +53,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * When the world changes slowly, use ML.
 * When there is no right answer, let ML suggest one.
 * When you need a magic filter or sort, try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
+* When you are a lawyer, learn about AI so you can take people to court 🤷
 
 ### Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
 
