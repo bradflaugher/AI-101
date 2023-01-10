@@ -16,7 +16,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * History: [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Definitions: Data Scientist, Data Engineer, Data Analyst ([What do we spend time doing?](https://stack.bradflaugher.com/Data-Janitors.jpg))
 * Discuss: is it intelligence? is it science?
-* ["ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
+* ["ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter) .... aside. OpenAI was originally non-profit but was [profit-capped as of 2019](https://openai.com/blog/openai-lp/)
 
 ## Part 3: Coding it up (~10 mins)
 * [Basic Image Classification](https://www.tensorflow.org/tutorials/keras/classification)
