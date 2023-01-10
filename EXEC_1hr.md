@@ -55,7 +55,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * [Edge Cases kill self driving?](https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/?sh=474229865933)
 * Narrow AI in self-driving (Lane Assist, Adaptive Cruise, Accident Avoidance) vs Broad/AGI (FSD)
 
-# Part 5: What is it Good For?
+# Part 5: What is AI Good For?
 
 ### Think of it as a lossy (and maybe confused) database. [From Gary Marcus](https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext)
 
@@ -68,10 +68,11 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * When crowds are wise, knowledge can be gathered via democracy, use ML. 
 * When the world changes slowly, use ML.
 * When there is no right answer, let ML suggest one.
+* When you need to scale a specific problem, try leveraging AI (think Skin Cancer Screening)
 * When you need a magic filter or sort, to augment a human try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
 * When you are a lawyer, learn about AI so you can take people to court 🤷
 
-### Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
+# One More Thing...  Broad vs Narrow and Control.... Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
 
 > The second requirement of goal-misalignment risk is that an intelligent machine can commandeer the Earth's resources to pursue its goals, or in other ways prevent us from stopping it... We have similar concerns with humans. This is why no single person or entity can control the entire internet and why we require multiple people to launch a nuclear missile. Intelligent machines will not develop misaligned goals unless we go to great lengths to endow them with that ability. Even if they did, no machine can commandeer the world's resources unless we let it. We don't let a single human, or even a small number of humans, control the world's resources. We need to be similarly careful with machines.
 ## Appendix: Additional readings and resources
