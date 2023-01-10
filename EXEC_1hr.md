@@ -11,8 +11,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * Demonstration: [Preprocessing data for training (AKA Everything is Numbers)](/3_Data_Types/data_loading_preprocessing.ipynb)
 
 ## Part 2: The End of Science (~10 mins)
-* Definitions: Machine Learning and Artificial Intelligence
-* "Codified Human Knowledge" vs "Statistical Knowledge"
+* Definitions: Machine Learning and Artificial Intelligence ...  "Codified Human Knowledge" vs "Statistical Knowledge"
 * History: [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Definitions: Data Scientist, Data Engineer, Data Analyst ([What do we spend time doing?](https://stack.bradflaugher.com/Data-Janitors.jpg))
 * Discuss: is it intelligence? is it science?
