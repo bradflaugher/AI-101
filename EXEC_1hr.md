@@ -3,14 +3,14 @@
 Lecture notes, readings, code samples and resources for a 1 hour preview of [Brad Flaugher's ML Bootcamp for Executives](https://bradflaugher.com/executive.html)
 
 
-## Part 1: Background Math (~10 mins)
+## Part 1: The Regression Theory of Everything (~10 mins)
 
 * Demonstration: Single Cell Neural Network aka Regression in Excel
 * Demonstration: [Name and Height "Regression"](https://beta.openai.com/playground/p/z9Jkesb3QnQhym1jxHiw9o3X)
 * Definition: [Multicolinearity](https://en.wikipedia.org/wiki/Multicollinearity) and [discussion](https://towardsdatascience.com/why-multicollinearity-isnt-an-issue-in-machine-learning-5c9aa2f1a83a)
 * Demonstration: [Preprocessing data for training (AKA Everything is Numbers)](/3_Data_Types/data_loading_preprocessing.ipynb)
 
-## Part 2: Definitions (~10 mins)
+## Part 2: The End of Science (~10 mins)
 * Definitions: Machine Learning and Artificial Intelligence
 * "Codified Human Knowledge" vs "Statistical Knowledge"
 * History: [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
@@ -18,7 +18,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * Discuss: is it intelligence? is it science?
 * ["ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.](https://www.bloomberg.com/news/articles/2023-01-04/microsoft-hopes-openai-s-chatbot-will-make-bing-smarter)
 
-## Part 3: Examples (~10 mins)
+## Part 3: Coding it up (~10 mins)
 * [Basic Image Classification](https://www.tensorflow.org/tutorials/keras/classification)
 * [Basic Text Classification](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html)
 * [Using the model in reverse, Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)
@@ -48,10 +48,6 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 
 > Large language models do something very different: they are not databases; they are text predictors, turbocharged versions of autocomplete. Fundamentally, what they learn are relationships between bits of text, like words, phrases, even whole sentences. And they use those relationships to predict other bits of text. And then they do something almost magical: they paraphrase those bits of texts, almost like a thesaurus but much much better. But as they do so, as they glom stuff together, something often gets lost in translation: which bits of text do and do not truly belong together.
 
-### Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
-
-> The second requirement of goal-misalignment risk is that an intelligent machine can commandeer the Earth's resources to pursue its goals, or in other ways prevent us from stopping it... We have similar concerns with humans. This is why no single person or entity can control the entire internet and why we require multiple people to launch a nuclear missile. Intelligent machines will not develop misaligned goals unless we go to great lengths to endow them with that ability. Even if they did, no machine can commandeer the world's resources unless we let it. We don't let a single human, or even a small number of humans, control the world's resources. We need to be similarly careful with machines.
-
 ![Mr. Blend](blend-in.png "Mr. Blend-In")
 
 * When crowds are wise, knowledge can be gathered via democracy, use ML. 
@@ -59,6 +55,9 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * When there is no right answer, let ML suggest one.
 * When you need a magic filter or sort, try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
 
+### Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
+
+> The second requirement of goal-misalignment risk is that an intelligent machine can commandeer the Earth's resources to pursue its goals, or in other ways prevent us from stopping it... We have similar concerns with humans. This is why no single person or entity can control the entire internet and why we require multiple people to launch a nuclear missile. Intelligent machines will not develop misaligned goals unless we go to great lengths to endow them with that ability. Even if they did, no machine can commandeer the world's resources unless we let it. We don't let a single human, or even a small number of humans, control the world's resources. We need to be similarly careful with machines.
 ## Appendix: Additional readings and resources
 
 ### From The Economist...
