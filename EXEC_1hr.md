@@ -4,7 +4,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 
 ## Part 0: Hello World!
 
-* I teach young "data-focuesed engineers" (aka Data Engineers or Scientists) at my [bootcamps](https://bradflaugher.com/bootcamp.html)
+* I teach young "data-focused engineers" (aka Data Engineers or Scientists) at my [bootcamps](https://bradflaugher.com/bootcamp.html)
 * I [invest in](https://ventures.nextfab.com/about/) and [contract for](https://inoxoft.com/) many startups (and occasionally big cos like Toshiba and P&G), either way I see many projects! It feels like I see the most projects, but someone out there probably sees more than me. #1 NDA Signer!
 * Proud, lifetime and supporting member of [ACM](https://www.acm.org/) and [FSF](https://www.gnu.org/thankgnus/2022supporters.html) and recovering former member of [W3C Future of Advertising Group (read about the drama)](https://www.protocol.com/policy/w3c-privacy-war).
 
@@ -42,6 +42,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 ### Self-Driving
 * [calling it "Full Self-Driving" is disallowed in California](https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/?sh=1560d0c4e2f3)
 * [Edge Cases kill self driving?](https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/?sh=474229865933)
+* Narrow AI in self-driving (Lane Assist, Adaptive Cruise, Accident Avoidance) vs Broad/AGI (FSD)
 
 # Part 5: What is it Good For?
 
@@ -56,7 +57,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * When crowds are wise, knowledge can be gathered via democracy, use ML. 
 * When the world changes slowly, use ML.
 * When there is no right answer, let ML suggest one.
-* When you need a magic filter or sort, try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
+* When you need a magic filter or sort, to augment a human try ML. [The Harvard Admissions Magic Sort](https://beta.openai.com/playground/p/oDzhJ5GI9FwJGy3QwzIWN0L7)
 * When you are a lawyer, learn about AI so you can take people to court 🤷
 
 ### Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
