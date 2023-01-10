@@ -33,9 +33,18 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * [Nerf](https://developer.nvidia.com/blog/getting-started-with-nvidia-instant-nerfs/)
 * [Dreamfusion](https://dreamfusion3d.github.io/)
 
-### Policing and Law
+### "Policing" or Online Dating
 * [Earp](https://github.com/Medusa-ML/Earp/blob/main/training_notebooks/earp_v1.ipynb)
-* [Cochran](https://github.com/Medusa-ML/Cochran/blob/main/training_notebooks/cochran_brazil.ipynb)
+
+### Self-Driving and Skynet
+* [calling it "Full Self-Driving" is disallowed in California](https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/?sh=1560d0c4e2f3)
+* [Edge Cases kill self driving?](https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/?sh=474229865933)
+
+### Food For Thought 
+
+> (Traditional) search engines are databases, organized collections of data that can be stored, updated, and retrieved at will. (Traditional) search engines are indexes. a form of database, that connect things like keywords to URLs; they can be swiftly updated, incrementally, bit by bit (as when you update a phone number in the database that holds your contacts).
+
+> Large language models do something very different: they are not databases; they are text predictors, turbocharged versions of autocomplete. Fundamentally, what they learn are relationships between bits of text, like words, phrases, even whole sentences. And they use those relationships to predict other bits of text. And then they do something almost magical: they paraphrase those bits of texts, almost like a thesaurus but much much better. But as they do so, as they glom stuff together, something often gets lost in translation: which bits of text do and do not truly belong together.
 
 ## Part 5: What is it good for?
 
