@@ -10,7 +10,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * Definition: [Multicolinearity](https://en.wikipedia.org/wiki/Multicollinearity) and [discussion](https://towardsdatascience.com/why-multicollinearity-isnt-an-issue-in-machine-learning-5c9aa2f1a83a)
 * Demonstration: [Preprocessing data for training (AKA Everything is Numbers)](/3_Data_Types/data_loading_preprocessing.ipynb)
 
-## Part 2: The End of Science (~10 mins)
+## Part 2: The End of Science and Good Old-Fashioned AI (~10 mins)
 * Definitions: Machine Learning and Artificial Intelligence ...  "Codified Human Knowledge" vs "Statistical Knowledge"
 * History: [How much of this book is practically useless?](https://github.com/sukantatiger/Artificial_Intelligence/blob/master/Artificial_Intelligence_by_Rich_and_Knight.pdf) 
 * Definitions: Data Scientist, Data Engineer, Data Analyst ([What do we spend time doing?](https://stack.bradflaugher.com/Data-Janitors.jpg))
