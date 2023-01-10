@@ -6,6 +6,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 
 * I teach young data scientists at my [bootcamps](https://bradflaugher.com/bootcamp.html)
 * I [invest in](https://ventures.nextfab.com/about/) and [contract for](https://inoxoft.com/) many startups (and occasionally big cos like Toshiba and P&G), either way I see many projects! It feels like I see the most projects, but someone out there probably sees more than me.
+* Proud, lifetime and supporting member of [ACM](https://www.acm.org/) and [FSF](https://www.fsf.org/) and recovering former member of [W3C Future of Advertising Group (read about the drama)](https://www.protocol.com/policy/w3c-privacy-war).
 
 ## Part 1: The Regression Theory of Everything (~10 mins)
 
