@@ -2,6 +2,10 @@
 
 Lecture notes, readings, code samples and resources for a 1 hour preview of [Brad Flaugher's ML Bootcamp for Executives](https://bradflaugher.com/executive.html)
 
+## Part 0: Hello World!
+
+* I teach young data scientists at my [bootcamps](https://bradflaugher.com/bootcamp.html)
+* I [invest in](https://ventures.nextfab.com/about/) and [contract for](https://inoxoft.com/) many startups (and occasionally big cos like Toshiba and P&G), either way I see many projects! It feels like I see the most projects, but someone out there probably sees more than me.
 
 ## Part 1: The Regression Theory of Everything (~10 mins)
 
@@ -35,7 +39,7 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 ### "Policing" or Online Dating
 * [Earp](https://github.com/Medusa-ML/Earp/blob/main/training_notebooks/earp_v1.ipynb)
 
-### Self-Driving and Skynet
+### Self-Driving
 * [calling it "Full Self-Driving" is disallowed in California](https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/?sh=1560d0c4e2f3)
 * [Edge Cases kill self driving?](https://www.forbes.com/sites/lanceeliot/2021/07/13/whether-those-endless-edge-or-corner-cases-are-the-long-tail-doom-for-ai-self-driving-cars/?sh=474229865933)
 
