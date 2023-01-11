@@ -70,9 +70,9 @@ Lecture notes, readings, code samples and resources for a 1 hour preview of [Bra
 * When you need a magic filter or sort, to augment a human try ML. 
 * When you are a lawyer, learn about AI so you can take people to court 🤷
 
-## One More Thing...  Broad vs Narrow and Control.... Final note on Skynet [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
+## Part 7: Skynet and AI/Human Control [From Jeff Hawkins](https://www.amazon.com/Thousand-Brains-New-Theory-Intelligence/dp/1541675797)
 
-> The second requirement of goal-misalignment risk is that an intelligent machine can commandeer the Earth's resources to pursue its goals, or in other ways prevent us from stopping it... We have similar concerns with humans. This is why no single person or entity can control the entire internet and why we require multiple people to launch a nuclear missile. Intelligent machines will not develop misaligned goals unless we go to great lengths to endow them with that ability. Even if they did, no machine can commandeer the world's resources unless we let it. We don't let a single human, or even a small number of humans, control the world's resources. We need to be similarly careful with machines.
+> [A] requirement of goal-misalignment risk is that an intelligent machine can commandeer the Earth's resources to pursue its goals, or in other ways prevent us from stopping it... We have similar concerns with humans. This is why no single person or entity can control the entire internet and why we require multiple people to launch a nuclear missile. Intelligent machines will not develop misaligned goals unless we go to great lengths to endow them with that ability. Even if they did, no machine can commandeer the world's resources unless we let it. We don't let a single human, or even a small number of humans, control the world's resources. We need to be similarly careful with machines.
 ## Appendix: Additional readings and resources
 
 ### From The Economist...
