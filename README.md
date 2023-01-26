@@ -243,6 +243,7 @@ You can also see more final project presentations and source code on [Brad's You
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
 * [Natural Language Programming Demystified](https://www.nlpdemystified.org/course)
+* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 ### Background Math
 * [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
