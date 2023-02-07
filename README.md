@@ -233,6 +233,9 @@ You can also see more final project presentations and source code on [Brad's You
 
 ## Recommended courses, videos and books
 
+### Computer Science Fundamentals
+* [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science)
+
 ### Data Janitoring
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
 * [Python Data Cleaning Cookbook](https://learning.oreilly.com/library/view/python-data-cleaning/9781800565661/)
