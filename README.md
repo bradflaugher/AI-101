@@ -214,6 +214,7 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 * Discussion: Docker + Flask
 * Discussion: DevOps vs MLOps, what is special? what is the same?
 * Next Steps: Career Coaching, Apprenticeship, Review After-Class Resources and Job Boards
+* [Deploy GPT From Scratch](https://jaykmody.com/blog/gpt-from-scratch/)
 * Next Steps: After-Bootcamp Survey and Payment Options
 
 ### Readings
