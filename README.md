@@ -236,6 +236,7 @@ You can also see more final project presentations and source code on [Brad's You
 
 ### Computer Science Fundamentals
 * [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science)
+* [Learn Python Basics withGoogle](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis)
 
 ### Data Janitoring
 * [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
@@ -245,6 +246,7 @@ You can also see more final project presentations and source code on [Brad's You
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
+* [Machine Learning Crash Course with Google](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
 * [Natural Language Programming Demystified](https://www.nlpdemystified.org/course)
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
