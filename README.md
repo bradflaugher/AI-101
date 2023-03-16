@@ -13,7 +13,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/)
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try)
 * (Required) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-* (Recommended) Join the bootcampers [LinkedIn Group](https://www.linkedin.com/groups/12707793/)
 
 # Lecture Outline
 
