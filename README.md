@@ -244,6 +244,7 @@ You can also see more final project presentations and source code on [Brad's You
 ### Model Training
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
 * [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
 * [Machine Learning Crash Course with Google](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
