@@ -1,5 +1,10 @@
 # Executive Summary (30mins-1hr)
 
+# Decision Making
+* AI is primarily concerned with decision making
+* Humans are OK at this, we're inconsistent and sometimes drunk, but overall we are OK.
+* Computers have a mixed record too, but when given the right problem they are generally faster and more consistent. 
+
 # GOFAI
 * Good Old-Fashioned AI is rules-based AI that was used primarily from Super Mario Bros to Deep Blue.
 * Deep Learning is basically programming with data that was used in OCR, Watson, Image Classification (AlexNet) and ChatGPT.
