@@ -122,7 +122,8 @@ docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyte
 ## Lesson 3: ETL, Loading Data Types, "It's all numbers, man" 
 
 ### Topics
-* ETL: What is it and why do we need it?
+* ETL: aka Download, change, upload... give command line example with wget csv, python change units, s3 upload.
+* Why is it hard to learn ETL? is ETL a legacy problem? How many data sources can there possibly be?
 * Demonstration: Numbers are Data
 * Demonstration: Text is Data
 * Demonstration: Images are Data
