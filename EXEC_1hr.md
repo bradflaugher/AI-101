@@ -1,26 +1,24 @@
-# mini exec-camp
+# Executive Summary (30mins-1hr)
 
-Lecture notes, readings, code samples and resources for a 1 hour preview of [Brad Flaugher's ML Bootcamp for Executives](https://bradflaugher.com/executive.html)
+# GOFAI
+* Good Old-Fashioned AI is rules-based AI that was used primarily from Super Mario Bros to Deep Blue.
+* Deep Learning is basically programming with data that was used in OCR, Watson, Image Classification (AlexNet) and ChatGPT.
 
-## Hello World!
+# Transfer Learning
+* It's using knowledge from one domain to improve the performance of a new model.
+* WE ARE ALWAYS TRANSFER LEARNING, from the past to the future, from one domain to another.
 
-* I teach young "data-focused engineers" (aka Data Engineers or Scientists) at my [bootcamps](https://bradflaugher.com/bootcamp.html)
-* I [invest in](https://ventures.nextfab.com/about/) and [contract for](https://inoxoft.com/) many startups (and occasionally big cos like Toshiba and P&G), either way I see many projects and sign many NDAs. 
-* Proud, lifetime and supporting member of [ACM](https://www.acm.org/) and [FSF](https://www.gnu.org/thankgnus/2022supporters.html) and recovering former member of [W3C Future of Advertising Group (read about the drama)](https://www.protocol.com/policy/w3c-privacy-war).
+# Concept Drift
+* Concept Drift is how often the truth changes, how often does the model need to be retrained?
+* Discuss: Language, Driving, Credit Scores, Admissions Criteria, What it means to write good code, Beauty, etc..
 
-## Mass Destruction and Paranoia
+# Humans in the Loop
+* The near-universal solution to all complaints about AI.
+* Give people who didn't have any direct reports some AI to boss around.
 
-* Is work over?
-* Will AI replace us?
-* Should we be doing this?
+# UI/UX
+* ChatGPT is a UI/UX improvement on existing models, AI Dungeon came first btw.
+* Tesla has a bad UI for "Full Self Driving" and that matters.
 
-## The Big 5
-
-* **There is no magic, only math.** (Chapter 3) 
-* **Engineering is what humans do.** Building tools that are stronger than us is what we do, it's not necessarily wrong or playing God or whatever. Don't give into the naturalistic fallacy or the is-ought fallacy. (Chapter 8)
-* **Big complex systems are hard to explain and sometimes behave eratically**, even if they are theoretically fully explanable, that doesn't mean a judge and jury will understand them. (Chapter 3, 6, 7 )
-* **If you can't tell I'm using an AI to do my job, you can't tell me not to use it to do my job** Good luck regulating this stuff, most of the time (self-driving excluded). (Chapter 4 and 8)
-* **AIs don't kill people, people kill people** (Chapter 7)
-* **BONUS: If you started out as a person with a secretary or a butler, having a digital personal assistant doesn't matter to you** (Chapter 8)
-
-
+# Landmines
+* impossible to keep humans at the loop in certain timescales, nuclear deterrents let's say. You're making a doomsday machine from strangelove, this is an exception to the humans in the loop rule though, don't get confused.
