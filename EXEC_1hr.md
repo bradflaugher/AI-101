@@ -9,6 +9,10 @@
 * Good Old-Fashioned AI is rules-based AI that was used primarily from Super Mario Bros to Deep Blue.
 * Deep Learning is basically programming with data that was used in OCR, Watson, Image Classification (AlexNet) and ChatGPT.
 
+# Regression Theory Of Everything (features -> [] -> labels)
+* Don't get caught up in the mud of self-supervisd, transformers etc... (yet)
+* Clear-headed thinking about inputs and outputs will get you far, just like back in statistics class
+
 # Transfer Learning
 * It's using knowledge from one domain to improve the performance of a new model.
 * WE ARE ALWAYS TRANSFER LEARNING, from the past to the future, from one domain to another.
