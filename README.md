@@ -301,7 +301,7 @@ You can also see more final project presentations and source code on [Brad's You
 
 ## On-Demand Help
 * [Apprenticeship via Patreon](https://www.patreon.com/bradflaugher)
-* [Codementor](https://www.codementor.io/)
+* [Wyzant](https://www.wyzant.com/)
 
 ## Huge Foundational Models
 * [Huggingface](https://huggingface.co/models)
