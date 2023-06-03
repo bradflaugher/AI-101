@@ -7,7 +7,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ## Preparation
 
-* (Required) Install Ubuntu Linux on your PC, [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) NOTE if you have an M1 Mac this will be almost impossible, so sell that thing or talk to Brad.
+* (Highly Recommended) Install Ubuntu Linux on your PC (will not work on a mac), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 
 * (Required) Install Docker [Install docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a)
 * (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/)
@@ -56,6 +56,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Possible Bootcamp Projects
 * ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection)
+* ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm)
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora)
 * ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification)
 * ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
