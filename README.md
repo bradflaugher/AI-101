@@ -35,12 +35,12 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ## Foundations - "You've got to have a setup" David Lynch 
 
 ### Pop Quiz: can you?
-* [] Start a Github Project?
-* [] Commit from the command line?
-* [] Run a docker container?
-* [] Load a csv file into pandas?
-* [] Inspect a large csv file in the command line?
-* [] Start and close vim?
+* [ ] Start a Github Project?
+* [ ] Commit from the command line?
+* [ ] Run a docker container?
+* [ ] Load a csv file into pandas?
+* [ ] Inspect a large csv file in the command line?
+* [ ] Start and close vim?
 
 ### Topics
 * Buying Computers
