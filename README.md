@@ -53,7 +53,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ## Picking Projects and Reading Code 🎯
 
-### Possible Bootcamp Projects 🚀
+### Ideas Bootcamp Final Projects 🚀
 * ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
 * ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️
