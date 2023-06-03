@@ -7,7 +7,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ## Preparation 🎒
 
 * (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 💻
-* (Required) Install Docker [Install docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/) 🐳
+* (Required) Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
 * (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) 🐍
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
