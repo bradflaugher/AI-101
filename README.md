@@ -186,6 +186,7 @@ You can also see more final project presentations and source code on [Brad's You
 
 ## Salary Comparison Tools 💰
 * [Levels.fyi](https://www.levels.fyi)
+* [Stack Overflow Developer Survey (#work-salary)](https://survey.stackoverflow.co/2022/#work-salary)
 
 ## Useful Job Boards that sometimes suck 😕
 * [Indeed](https://www.indeed.com/)
