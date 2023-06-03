@@ -44,7 +44,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ### Topics 📚
 * Buying Computers 💻
 * Linux and Docker Setup 🐧🐳
-* IDEs vs Vim 🛠️
+* IDEs vs [```vim```](https://www.youtube.com/watch?v=rysgxl35EGc) 🛠️
 * Git and Github 📝
 * Notebooks and ```.py``` files 📓
 * ```ssh``` and ```scp``` 🌐
