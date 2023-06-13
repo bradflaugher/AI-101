@@ -66,22 +66,22 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Topics
 1. Define the Task
-   a) Collect a Dataset
-   b) Understand Your Data
-   c) Choose a Measure of Success 
+    a) Collect a Dataset
+    b) Understand Your Data
+    c) Choose a Measure of Success 
 
 2. Develop a Model
-   a) Prepare the Data 
-   b) Choose an Evaluation Protocol
-   c) Beat a Baseline (does it beat the random model?)
-   d) Develop a model that overfits
-   e) Regularize and Tune Your Model
+    a) Prepare the Data 
+    b) Choose an Evaluation Protocol
+    c) Beat a Baseline (does it beat the random model?)
+    d) Develop a model that overfits
+    e) Regularize and Tune Your Model
 
 3. Deploy the Model
-   a) Explain Your Work to Your Stakeholders and Set Expectation
-   b) Ship an Inference Model
-   c) Monitor Your Model in the Wild
-   d) Maintain Your Model
+    a) Explain Your Work to Your Stakeholders and Set Expectation
+    b) Ship an Inference Model
+    c) Monitor Your Model in the Wild
+    d) Maintain Your Model
 
 ### Readings 📖
 * [The Universal Machine Learning Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
