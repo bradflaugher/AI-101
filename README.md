@@ -2,6 +2,8 @@
 
 Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](https://bradflaugher.com/bootcamp.html)
 
+![bootcamp illustration](./bootcamp.png)
+
 # Course Outline 📝
 
 ## Preparation 🎒
