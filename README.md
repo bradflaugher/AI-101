@@ -9,7 +9,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 💻
 * (Required) Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
-* (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) 🐍
+* (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
 * (Required) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
 * (Required)if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
@@ -140,11 +140,6 @@ You can also see more final project presentations and source code on [Brad's You
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
 * [Github Trending Repos](https://github.com/trending)
 * [Kaggle Winners Code](https://www.kaggle.com/code?types=competitions)
-
-### Other Free Resources 💻
-* Microsoft's [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
-* Google's [Python for Data Analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) and [Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course)
-* Facebook's (dated but still good) [Field Guide to Machine Learning](https://research.facebook.com/blog/2018/5/the-facebook-field-guide-to-machine-learning-video-series/)
 
 ### Paid Resources 💰
 * O'Reilly Playlists from [Brad](https://learning.oreilly.com/playlists/d5896663-1263-498f-a47c-a0519212dfb1/) or [Other Experts](https://learning.oreilly.com/playlists/discover/)
