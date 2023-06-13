@@ -134,35 +134,21 @@ You can also see more final project presentations and source code on [Brad's You
 
 ## Recommended courses, videos and books 📚🎬
 
-### Computer Science Fundamentals 💻
-* [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science)
-* [Learn Python Basics with Google](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
-
-### Data Janitoring 🧹
-* [Fundamentals of Data Engineering](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-* [Python Data Cleaning Cookbook](https://learning.oreilly.com/library/view/python-data-cleaning/9781800565661/)
-
-### Model Training 🎯
+### Brad's Favorite Free Learning Resources 🎯
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
-* [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
-* [Deep Learning Illustrated](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694) and [Deep Learning with Tensorflow, Pytorch etc..](https://learning.oreilly.com/videos/deep-learning-with/9780136617617/)
-* [Machine Learning Crash Course with Google](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
-* [Natural Language Programming Demystified](https://www.nlpdemystified.org/course)
-* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
-### Background Math ➕➖✖️➗
-* [Stanford ML Lectures, 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-* [Math for Machine Learning](https://learning.oreilly.com/playlists/b1c03a16-8f1d-44af-b97b-67aed9bace2e/)
+### Other Free Resources 💻
+* [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science)
+* Microsoft's [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
+* Google's [Python for Data Analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) and [Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course) or Google's People Development [Coursera Playlists](https://www.coursera.org/programs/on-demand-courses-for-google-c4stl?authProvider=googlepeopledev)
+* Facebook's [Field Guide to Machine Learning](https://research.facebook.com/blog/2018/5/the-facebook-field-guide-to-machine-learning-video-series/)
+* Coursera
 
-### Operationalizing ML with MLFlow and MLOps tools 🛠️
-* [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
-* [Practical Deep Learning with MLFlow](https://learning.oreilly.com/library/view/practical-deep-learning/9781803241333/)
-
-### Ethics and AI 🤖👩‍⚖️
-* [Ethical Machines](https://www.reidblackman.com/ethical-machines/)
-* [The Alignment Problem](https://brianchristian.org/the-alignment-problem/)
+### Paid Resources
+* O'Reilly Playlists from [Brad](https://learning.oreilly.com/playlists/d5896663-1263-498f-a47c-a0519212dfb1/) or [Other Experts](https://learning.oreilly.com/playlists/discover/)
+  
 
 ## Recommended Mailing lists and online groups 📧💻
 * [Deep Learning Weekly](https://www.deeplearningweekly.com/)
