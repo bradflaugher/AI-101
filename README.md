@@ -8,13 +8,13 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Learn something about the command line (aka terminal) and git
 * (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 💻
-* (Required) Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
-* (Recommended) Read [The Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
-* (Recommended) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
+* Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
+* Read [The Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
+* Learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
 
 ### Learn the basics of python
-* (Recommended) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
-* (Recommended) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
+* If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
+* If you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
 
 ## Intro - The 30,000 foot view of Data and AI 🛰️
 
@@ -154,7 +154,8 @@ You can also see more final project presentations and source code on [Brad's You
 ## Recommended courses, videos and books 📚🎬
 
 ### You must know SQL, learn it and put it on your resume
-* If you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
+* Take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
+* OR learn about [BigQuery (which is queried via SQL)](https://codingisforlosers.com/learn-bigquery-sql/)
 
 ### Brad's Favorite Free Learning Resources 🎯
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
