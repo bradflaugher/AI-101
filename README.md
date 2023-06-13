@@ -8,15 +8,15 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ### Set yourself up for success with Ubuntu and Docker
 
-I highly recommend you install Ubuntu Linux🐧 on your PC (you cannot do this if you have a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) and [Install docker](https://docs.docker.com/engine/install/) 🐳
+You can use any computer you like for this course, but I highly recommend you use an intel-based PC and install Ubuntu Linux🐧 on it see the [Ubuntu Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) and for the more serious final projects it will be best if you [install Docker](https://docs.docker.com/engine/install/), docker is a tool that will help you manage your installations without pulling your hair out. 🐳
 
-### Learn something about the command line (aka terminal) and git
+### Learn the basics of the command line (aka terminal) and git
 
-Read [The Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) and Learn how to use git if you never have before with the [Git and GitHub for beginners crash course.](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
+Learn [basic terminal commands](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) and [git basics](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙.
 
-### Learn the basics of python
+### Learn the basics of python and jupyter notebooks
 
-If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍 If you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
+If you have never used python before I recommend you do the entire [Futurecoder.io course](https://futurecoder.io/course/), I also recommend [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) which is a free course that could be useful for anyone. 🐍 If you have never used a Jupyter notebook before, please play around with the [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓.
 
 ## Intro - The 30,000 foot view of Data and AI 🛰️
 
