@@ -6,6 +6,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ## Preparation 🎒
 
+If you want to do well in the bootcamp it is best to come prepared. Students who have installed Linux, spent an hour learning python basics, and an hour learning git/command line bascis are much more likely to succeed and get a sweet job after the course.
+
 ### Set yourself up for success with Ubuntu and Docker
 
 You can use any computer you like for this course, but I highly recommend you use an intel-based PC and install Ubuntu Linux🐧 on it see the [Ubuntu Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) and for the more serious final projects it will be best if you [install Docker](https://docs.docker.com/engine/install/), docker is a tool that will help you manage your installations without pulling your hair out. 🐳
