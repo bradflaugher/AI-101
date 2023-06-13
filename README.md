@@ -148,8 +148,6 @@ You can also see more final project presentations and source code on [Brad's You
 ## Recommended Mailing lists and online groups 📧💻
 * [Deep Learning Weekly](https://www.deeplearningweekly.com/)
 * [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)
-* [Hacker News (it's less focused on ML, but worth your time generally)](https://news.ycombinator.com/)
-* [Reddit Programming (same as above)](https://www.reddit.com/r/programming/)
 
 ## Recommended Professional Groups 👥
 * [ACM](https://www.acm.org/)
@@ -159,27 +157,22 @@ You can also see more final project presentations and source code on [Brad's You
 * [Ai4](https://ai4.io/)
 * [NeurIPS](https://neurips.cc/)
 
-## Highly Recommended Job Boards 📋
+## Job Boards and Gigs 📋
 * [LinkedIn](https://www.linkedin.com/)
 * [Wellfound](https://wellfound.com/role/r/machine-learning-engineer)
 * Hacker News "Who's Hiring" Thread [Sample Post](https://news.ycombinator.com/item?id=33818037) and [Collection of all posts](https://hnhiring.com/)
 * [Turing](https://www.turing.com/)
-
-## Salary Comparison Tools 💰
-* [Levels.fyi](https://www.levels.fyi)
-* [Stack Overflow Developer Survey (#work-salary)](https://survey.stackoverflow.co/2022/#work-salary)
-
-## Useful Job Boards that sometimes suck 😕
 * [Indeed](https://www.indeed.com/)
 * [Toptal](https://www.toptal.com/)
 * [RemoteOK](https://remoteok.io/)
 * [StackOverflow Jobs](https://stackoverflow.com/jobs/)
-
-## Gigs (Freelance work) 👨‍🎨
 * [TopCoder](https://www.topcoder.com/)
 * [Experfy](https://www.experfy.com/)
 * [Upwork](https://www.upwork.com/)
-* [Codementor](https://www.codementor.io/)
+
+## Salary Comparison Tools 💰
+* [Levels.fyi](https://www.levels.fyi)
+* [Stack Overflow Developer Survey (#work-salary)](https://survey.stackoverflow.co/2022/#work-salary)
 
 ## On-Demand Help 🆘
 * [Patreon](https://www.patreon.com/bradflaugher)
