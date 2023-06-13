@@ -7,8 +7,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ## Preparation 🎒
 
 ### Learn something about the command line (aka terminal) and git
-* (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 💻
-* Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
+* (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) and [Install docker](https://docs.docker.com/engine/install/) 🐳
 * Read [The Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
 * Learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
 
