@@ -101,9 +101,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ### Code Reading 📘
 * [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb) 📖
 
-### Useful Tutorials
-
- 🎓
+### Useful Tutorials 🎓
 * [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) 📚
 * [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) 🎬
 
