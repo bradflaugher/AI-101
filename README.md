@@ -64,7 +64,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ## The Universal Machine Learning Workflow 🔄
 
-### [The Universal Machine Learning Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
+### [The Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
 
 1. Define the Task
    - Collect a Dataset
