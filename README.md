@@ -138,17 +138,17 @@ You can also see more final project presentations and source code on [Brad's You
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
+* [Github Trending Repos](https://github.com/trending)
+* [Kaggle Winners Code](https://www.kaggle.com/code?types=competitions)
 
 ### Other Free Resources 💻
-* [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science)
 * Microsoft's [Microsoft ML For Beginners](https://github.com/microsoft/ML-For-Beginners)
-* Google's [Python for Data Analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) and [Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course) or Google's People Development [Coursera Playlists](https://www.coursera.org/programs/on-demand-courses-for-google-c4stl?authProvider=googlepeopledev)
-* Facebook's [Field Guide to Machine Learning](https://research.facebook.com/blog/2018/5/the-facebook-field-guide-to-machine-learning-video-series/)
-* Coursera
+* Google's [Python for Data Analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) and [Machine Learning Crash Course](https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course)
+* Facebook's (dated but still good) [Field Guide to Machine Learning](https://research.facebook.com/blog/2018/5/the-facebook-field-guide-to-machine-learning-video-series/)
 
-### Paid Resources
+### Paid Resources 💰
 * O'Reilly Playlists from [Brad](https://learning.oreilly.com/playlists/d5896663-1263-498f-a47c-a0519212dfb1/) or [Other Experts](https://learning.oreilly.com/playlists/discover/)
-  
+* Coursera's [Data Analyst, Data Engineering or Data Science Career Certificates](https://www.coursera.org/career-academy?trk_ref=camodule) 
 
 ## Recommended Mailing lists and online groups 📧💻
 * [Deep Learning Weekly](https://www.deeplearningweekly.com/)
