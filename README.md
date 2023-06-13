@@ -9,7 +9,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 * (Highly Recommended) Install Ubuntu Linux🐧 on your PC (will not work on a mac🍎⛔), [Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot). 💻
 * (Required) Install Docker [Install docker](https://docs.docker.com/engine/install/) 🐳
 * (Required) Read [Command Line for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) 📚
-* (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
+* (Required) If you are not a proficient Python coder please do the entire futurecoder.io course, it's free! [Futurecoder.io](https://futurecoder.io/course/) or if you want to go a little faster try [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) 🐍
 * (Required) if you have never used a Jupyter notebook before, please read [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓
 * (Required) learn how to use git if you never have before. [Git and GitHub for beginners crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙
 * (Required)if you do not have experience with SQL please take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
