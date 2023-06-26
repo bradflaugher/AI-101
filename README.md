@@ -65,6 +65,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
 * ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️
+* ⭐⭐⭐ [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer) 🏅
 * ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification) 🏷️
 * ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖
 * ⭐⭐⭐⭐[Fine-Tune a Pretrained Model](https://huggingface.co/docs/transformers/training) 🔧
