@@ -15,6 +15,7 @@
 
 # Ubiquitous and Undetectable
 * You will find AI generated content everywhere, today.
+* Both of these can be true, 70% of Japanese Banks are running COBOL code, 90% of Stock Market Trading by volume is Algorithmic
 
 # Use a Password Manager and 2FA, Backup Your Data, Read NYT and WSJ, Beware of Nukes
 * Prescriptions are still the same, even though it's easier to hack, misinform and target you. (Jules Zacher)
