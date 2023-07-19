@@ -1,6 +1,6 @@
 # Executive Summary (30mins-1hr)
 
-# Decision Making
+# AI = Decision Making
 * AI is primarily concerned with decision making
 * Humans are OK at this, we're inconsistent and sometimes drunk, but overall we are OK.
 * Computers have a mixed record too, but when given the right problem they are generally faster and more consistent. 
@@ -9,13 +9,29 @@
 * Good Old-Fashioned AI is rules-based AI that was used primarily from Super Mario Bros to Deep Blue.
 * Deep Learning is basically programming with data that was used in OCR, Watson, Image Classification (AlexNet) and ChatGPT.
 
-# Regression Theory Of Everything (features -> [] -> labels)
+# AI Feeds on Data: Garbage in -> Garbage Out
 * Don't get caught up in the mud of self-supervisd, transformers etc... (yet)
 * Clear-headed thinking about inputs and outputs will get you far, just like back in statistics class
 
 # Transfer Learning
 * It's using knowledge from one domain to improve the performance of a new model.
 * WE ARE ALWAYS TRANSFER LEARNING, from the past to the future, from one domain to another.
+
+# Ubiquitous, Undetectable and Unembraced
+* You will find AI generated content everywhere, today.
+* You will not find it in most organizations
+
+# Concept Drift / Half Life
+* Concept drift gives every model a half life, the more the nature of problems change the faster the model performance degrades.
+
+# Humans in the Loop
+* The near-universal solution to all complaints about AI.
+* Give people who didn't have any direct reports some AI to boss around.
+
+
+
+
+# Other Ideas below...
 
 # Concept Drift
 * Concept Drift is how often the truth changes, how often does the model need to be retrained?
