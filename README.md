@@ -25,6 +25,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 ## Intro - The 30,000 foot view of Data and AI 🛰️
 
 ### Topics 📚
+* AI Tutors and [the modified CS50 approach](https://cs50.ly/ai4)
 * Definitions: Data Scientist, Data Engineer, Data Analyst, Data Janitor 🧑‍💻
 * Definitions: Machine Learning and Artificial Intelligence 🧠💡
 * Why Neural Networks? Single Cell Neural Network aka Regression in Excel 📈
@@ -67,7 +68,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️
 * ⭐⭐⭐ [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer) 🏅
 * ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification) 🏷️
-* ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖
+* ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖 or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
 * ⭐⭐⭐⭐[Fine-Tune a Pretrained Model w/ Huggingface](https://huggingface.co/docs/transformers/training) either [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification) 🔧
 * ⭐⭐⭐⭐⭐[Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions) 🏆
 
@@ -182,10 +183,6 @@ You can also see more final project presentations and source code on [Brad's You
 ## Recommended Professional Groups 👥
 * [ACM](https://www.acm.org/)
 * [Women in Data](https://www.womenindata.org/)
-
-## Recommended (in-person) Conferences 🏛️
-* [Ai4](https://ai4.io/)
-* [NeurIPS](https://neurips.cc/)
 
 ## Job Boards and Gigs 📋
 * [LinkedIn](https://www.linkedin.com/)
