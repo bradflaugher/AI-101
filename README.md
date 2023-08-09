@@ -126,7 +126,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 ### Data Sources 📑
 * Free captioned images from the web, [LAION](https://laion.ai/) 🌐
 * The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl) 🕸️
-* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and (Huggingface)[https://huggingface.co/docs/datasets/tutorial] 📚
+* More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and [Huggingface](https://huggingface.co/docs/datasets/tutorial) 📚
 
 ### Readings 📖
 * [Python Requests Tutorial](https://www.geeksforgeeks.org/python-requests-tutorial/) 📚
