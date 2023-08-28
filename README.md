@@ -33,8 +33,16 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * Why Python? Python and C Speed Test 🐍💨
 * Why SQL? SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery) 💾🔍
 * Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)): Information Should Be Free, Mistrust Authority - Promote Decentralization, "Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.", Computers can change your life for the better.
-* How can we be free and indepentent? [The FSF](https://www.fsf.org/) and [Richard Stallman](https://stallman.org/) and [Buy vs Build Philosophy](B_FOSS/AI_Tool_Providers.png) 🗃️
-* Why Linux and Docker? [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/) 🐧🐳
+* Our Stack:
+  - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
+  - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
+  - 📚 ML Library: PyTorch, Tensorflow
+  - 🗃️ Data Storage: SQL* (Anything we can access w SQL is fine at this point we wont really care what database our data is in for now, in this course we won't get much SQL practice but we need to know it so we can access data in Postgres, BigQuery, Athena, MySQL, Tableau, PowerBI etc...)
+  - 🛠️ Version Control: Git (and github)
+  - 📝 IDE/Editor: VSCode, Jupyter Notebook or Vim
+  - ☕ Training and Testing Models: Google Colab
+  - 🚀 Multi-Environment Testing and Deployment: Docker
+  - ☁️ Cloud Services: AWS, Azure or Google Cloud
 
 ### Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
