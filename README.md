@@ -30,8 +30,6 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * Definitions: Machine Learning and Artificial Intelligence 🧠💡
 * Why Neural Networks? Single Cell Neural Network aka Regression in Excel 📈
 * Intro to Foundation Models: ImageNet, BERT, LLaMA and Stable Diffusion 🌐
-* Why Python? Python and C Speed Test 🐍💨
-* Why SQL? SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery) 💾🔍
 * Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)):
   - Access to computers - and anything that might teach you something about the way the world works- should be unlimited and total
   - All Information Should Be Free
@@ -49,6 +47,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
   - ☕ Training and Testing Models: Google Colab
   - 🚀 Multi-Environment Testing and Deployment: Docker
   - ☁️ Cloud Services: AWS, Azure or Google Cloud
+* Why Python? Python and C Speed Test 🐍💨
 
 ### Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
