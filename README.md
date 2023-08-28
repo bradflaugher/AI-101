@@ -39,7 +39,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
   - 📚 ML Library: PyTorch, Tensorflow
   - 🗃️ Data Storage: SQL* (Anything we can access w SQL is fine at this point we wont really care what database our data is in for now, in this course we won't get much SQL practice but we need to know it so we can access data in Postgres, BigQuery, Athena, MySQL, Tableau, PowerBI etc...)
   - 🛠️ Version Control: Git (and github)
-  - 📝 IDE/Editor: VSCode, Jupyter Notebook or Vim
+  - 📝 IDE/Editor: VSCode, Jupyter Notebook or [```vim```](https://www.youtube.com/watch?v=rysgxl35EGc)
   - ☕ Training and Testing Models: Google Colab
   - 🚀 Multi-Environment Testing and Deployment: Docker
   - ☁️ Cloud Services: AWS, Azure or Google Cloud
@@ -51,23 +51,14 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 
 ## Foundations - *"When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache."* [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/) ⚙️
 
-### Pop Quiz: can you? ✅
-* [ ] Start a Github Project? 🏁
-* [ ] Commit from the command line? 📤
-* [ ] Run a docker container? 🏃‍♂️
-* [ ] Load a csv file into pandas? 🐼
-* [ ] Inspect a large csv file in the command line? 🕵️‍♂️
-* [ ] Start and close vim? 🗒️
-
-### Topics 📚
-* Buying Computers 💻
-* Linux and Docker Setup 🐧🐳
-* IDEs vs [```vim```](https://www.youtube.com/watch?v=rysgxl35EGc) 🛠️
-* Git and Github 📝
-* Notebooks and ```.py``` files 📓
-* ```ssh``` and ```scp``` 🌐
-* Stackoverflow, ChatGPT, Copilot etc... 🗂️
-* Cloud providers and [Spotty](https://github.com/spotty-cloud/spotty) ☁️
+### Live Demos 🙋‍♂️🙋‍♀️🙋
+* [ ] Start a Github Project 🏁
+* [ ] Commit from the command line 📤
+* [ ] Run a docker container🏃‍♂️
+* [ ] Load a csv file into pandas 🐼
+* [ ] Inspect a large csv file in the command line 🕵️‍♂️
+* [ ] Start and close vim 🗒️
+* [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
 
 ## Picking Projects and Reading Code 🎯
 
