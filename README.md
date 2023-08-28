@@ -126,7 +126,8 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * Scraping Data 🕷️
 * APIs 🖥️
 * Python Requests 📬
-* Combining datasets 📚
+* Combining Datasets 📚
+* Synthetic (AI-Generated) Datasets 🤖
 
 ### Data Sources 📑
 * Free captioned images from the web, [LAION](https://laion.ai/) 🌐
