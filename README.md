@@ -32,6 +32,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 * Intro to Foundation Models: ImageNet, BERT, LLaMA and Stable Diffusion 🌐
 * Why Python? Python and C Speed Test 🐍💨
 * Why SQL? SQL, what it is and why it's important (PowerBI, Tableau, Athena, BigQuery) 💾🔍
+* Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)): Information Should Be Free, Mistrust Authority - Promote Decentralization, "Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.", Computers can change your life for the better.
 * Why Open Source? [The FSF](https://www.fsf.org/) and [Richard Stallman](https://stallman.org/) and [Buy vs Build Philosophy](B_FOSS/AI_Tool_Providers.png) 🗃️
 * Why Linux and Docker? [Why use Docker for Machine Learning Development?](https://aws.amazon.com/blogs/opensource/why-use-docker-containers-for-machine-learning-development/) 🐧🐳
 
