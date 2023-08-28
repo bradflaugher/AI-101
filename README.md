@@ -179,7 +179,7 @@ You can also see more final project presentations and source code on [Brad's You
 * [Kaggle Winners Code](https://www.kaggle.com/code?types=competitions)
 
 ### Paid Resources 💰
-* O'Reilly Playlists from [Brad](https://learning.oreilly.com/playlists/d5896663-1263-498f-a47c-a0519212dfb1/) or [Other Experts](https://learning.oreilly.com/playlists/discover/)
+* O'Reilly [Expert Playlists](https://learning.oreilly.com/playlists/discover/)
 * Coursera's [Data Analyst, Data Engineering or Data Science Career Certificates](https://www.coursera.org/career-academy?trk_ref=camodule) 
 
 ## Recommended Mailing lists and online groups 📧💻
