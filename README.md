@@ -36,9 +36,9 @@ If you have never used python before I recommend you do the entire [Futurecoder.
   - Access to computers - and anything that might teach you something about the way the world works- should be unlimited and total
   - All Information Should Be Free
   - Mistrust Authority - Promote Decentralization
-  - Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position.
+  - Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position
   - You can create art and beauty on a computer
-  - Computers can change your life for the better.
+  - Computers can change your life for the better
 * Our Stack:
   - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
   - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
