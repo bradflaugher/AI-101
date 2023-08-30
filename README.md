@@ -37,7 +37,8 @@ If you have never used python before I recommend you do the entire [Futurecoder.
   - Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position
   - You can create art and beauty on a computer
   - Computers can change your life for the better
-* Our Stack:
+* Question: Do we buy or build? Which technology should we use?
+* Answer Our *Freedom* Stack:
   - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
   - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
   - 📚 ML Library: PyTorch, Tensorflow
