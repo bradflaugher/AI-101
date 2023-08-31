@@ -25,13 +25,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 - **Project Q&A**
 - **Project Presentations**
 - **Project Presentations**
-
+ (Schedule is tentative and may be adjusted.)
 ---
-
-**Final Projects**: Intensive work period  
-**Evaluation**: Final Project Presentation and Code Repository
-
-**Note**: Schedule is tentative and may be adjusted.
 
 ## Preparation 🎒
 
