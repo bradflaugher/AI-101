@@ -38,7 +38,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
   - You can create art and beauty on a computer
   - Computers can change your life for the better
 * Question: Do we buy or build? Which [which of these tools should we use?](B_FOSS/AI_Tool_Providers.png)
-* Answer Our *Freedom* Stack:
+* Answer Our *Freedom* & [*Popularity*](https://survey.stackoverflow.co/2023/#technology-admired-and-desired) Stack:
   - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
   - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
   - 📚 ML Library: PyTorch, Tensorflow
