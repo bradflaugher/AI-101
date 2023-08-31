@@ -16,7 +16,7 @@ You can use any computer you like for this course, but I highly recommend you us
 
 ### Learn the basics of the command line (aka terminal) and git
 
-Learn [basic terminal commands](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a) and [git basics](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙.
+Learn [basic terminal commands](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) and [git basics](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙.
 
 ### Learn the basics of python and jupyter notebooks
 
