@@ -22,7 +22,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 1. **Lecture 3**: Data Engineering, ETL Basics, Data Wrangling Techniques
 1. **Project Q&A**
 1. **Lecture 4**: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters
-1. **THANKSGIVING BREAK (1 week off)
+1. * **THANKSGIVING BREAK (1 week off)
 1. **Project Q&A**
 1. **Project Q&A**
 1. **Project Presentations**
