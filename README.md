@@ -7,11 +7,9 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 # Course Outline 📝
 
 **Duration**: 6 Weeks  
-**Lectures**: Tuesdays and Thursdays  
-**Office Hours**: Thursdays  
-
+**Lectures**: Tuesdays and Thursdays @ 1pm Eastern (via Google Meet, also recorded)
+**Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 ---
-
 - **Lecture 1**: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview
 - **Live Demos**
 - **Choose your Projects**
@@ -25,8 +23,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 - **Project Q&A**
 - **Project Presentations**
 - **Project Presentations**
- (Schedule is tentative and may be adjusted.)
 ---
+ (Schedule is tentative and may be adjusted.)
 
 ## Preparation 🎒
 
