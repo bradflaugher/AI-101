@@ -14,19 +14,19 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
 ---
-1 **Lecture 1**: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview
-1 **Live Demos**
-1 **Choose your Projects**
-1 **Lecture 2**: Universal ML Workflow
-1 **Project Q&A**
-1 **Lecture 3**: Data Engineering, ETL Basics, Data Wrangling Techniques
-1 **Project Q&A**
-1 **Lecture 4**: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters
-1 **THANKSGIVING BREAK (1 week off)
-1 **Project Q&A**
-1 **Project Q&A**
-1 **Project Presentations**
-1 **Project Presentations**
+1. **Lecture 1**: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview
+1. **Live Demos**
+1. **Choose your Projects**
+1. **Lecture 2**: Universal ML Workflow
+1. **Project Q&A**
+1. **Lecture 3**: Data Engineering, ETL Basics, Data Wrangling Techniques
+1. **Project Q&A**
+1. **Lecture 4**: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters
+1. **THANKSGIVING BREAK (1 week off)
+1. **Project Q&A**
+1. **Project Q&A**
+1. **Project Presentations**
+1. **Project Presentations**
 ---
  (Schedule is tentative and may be adjusted.)
 
