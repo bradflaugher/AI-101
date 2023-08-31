@@ -6,6 +6,33 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 # Course Outline 📝
 
+**Duration**: 6 Weeks  
+**Lectures**: Tuesdays and Thursdays  
+**Office Hours**: Thursdays  
+
+---
+
+- **Lecture 1**: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview
+- **Live Demos**
+- **Choose your Projects**
+- **Lecture 2**: Universal ML Workflow
+- **Project Q&A**
+- **Lecture 3**: Data Engineering, ETL Basics, Data Wrangling Techniques
+- **Project Q&A**
+- **Lecture 4**: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters
+- **THANKSGIVING BREAK (1 week off)
+- **Project Q&A**
+- **Project Q&A**
+- **Project Presentations**
+- **Project Presentations**
+
+---
+
+**Final Projects**: Intensive work period  
+**Evaluation**: Final Project Presentation and Code Repository
+
+**Note**: Schedule is tentative and may be adjusted.
+
 ## Preparation 🎒
 
 If you want to do well in the bootcamp it is best to come prepared. Students who have installed Linux, spent an hour learning python basics, and an hour learning git/command line bascis are much more likely to succeed and get a sweet job after the course.
