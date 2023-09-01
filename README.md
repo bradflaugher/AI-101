@@ -33,17 +33,15 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 If you want to do well in the bootcamp it is best to come prepared. Students who have installed Linux, spent an hour learning python basics, and an hour learning git/command line bascis are much more likely to succeed and get a sweet job after the course.
 
-### Set yourself up for success with Ubuntu and Docker
+| **Preparation Step**                                               | **Requirement** | **Notes**                                   | **Links**                                                                                    |
+|--------------------------------------------------------------|-----------------|---------------------------------------------|----------------------------------------------------------------------------------------------|
+| Read and Practice Command-Line Basics                                  | Required       | Essential for effective course navigation  | [Terminal Commands](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) |
+| Setup your github account and learn how to use git from the command line                                                             | Required                |  If you get stuck on this, Brad will help in class #2 or office hours                                         | [Git Fundamentals](https://www.youtube.com/watch?v=RGOj5yH7evk)                            |
+| Learn Basics of Python       | Required   | Recommended if new to Python coding        | [Futurecoder.io course](https://futurecoder.io/course/)                                     |
+| Setup a Laptop/PC with Ubuntu GNU/Linux                                     | Not Required   | if you have an extra laptop laying around, consider this for an optimal experience         | [Ubuntu Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)   |
+| Dual-Boot Alongside Windows                                                             | Not Required                | Use an amd64-based PC for better results   | [Additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) |
+| Install Docker                                                             | Not Required                | Install Docker for advanced projects       | [Install Docker](https://docs.docker.com/engine/install/)                                 |
 
-You can use any computer you like for this course, but I highly recommend you use an intel-based PC and install Ubuntu Linux🐧 on it see the [Ubuntu Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview), and [additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) and for the more serious final projects it will be best if you [install Docker](https://docs.docker.com/engine/install/), docker is a tool that will help you manage your installations without pulling your hair out. 🐳
-
-### Learn the basics of the command line (aka terminal) and git
-
-Learn [basic terminal commands](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/) and [git basics](https://www.youtube.com/watch?v=RGOj5yH7evk) 🐙.
-
-### Learn the basics of python and jupyter notebooks
-
-If you have never used python before I recommend you do the entire [Futurecoder.io course](https://futurecoder.io/course/), I also recommend [Google's python basics for data analysis](https://learndigital.withgoogle.com/digitalgarage/course/learn-python-basics-for-data-analysis) which is a free course that could be useful for anyone. 🐍 If you have never used a Jupyter notebook before, please play around with the [Jupyter Notebooks Getting Started Tutorial](https://jupyter.org/try) 📓.
 
 ## Intro - The 30,000 foot view of Data and AI 🛰️
 
