@@ -30,7 +30,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 6 | 🦃 Thanksgiving Break |
 | 📅 Week 7 | 👥 Pair Programming, Project Q&A |
 | 📅 Week 7 | 🎓 [To The Moon! After The Bootcamp...](#after-the-bootcamp-) |
-| 📅 Weeks 7-8 | 🎉 [Project Presentations](#final-projects-) Scheduled outside of class time |
+| 📅 Weeks 7-8 | 🎉 [Project Presentations](#final-projects-), scheduled outside of class time |
 ---
  (Schedule is tentative and may be adjusted.)
 
