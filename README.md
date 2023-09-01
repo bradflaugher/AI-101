@@ -85,11 +85,18 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 ### Live Demos 🙋‍♂️🙋‍♀️🙋
 * [ ] Start a Github Project 🏁
 * [ ] Commit from the command line 📤
-* [ ] Run a docker container🏃‍♂️
+* [ ] Write a basic bash script
+* [ ] Run a docker container🏃‍♂️ run bash from python
+* [ ] Run python code
+* [ ] pip install
 * [ ] Load a csv file into pandas 🐼
 * [ ] Inspect a large csv file in the command line 🕵️‍♂️
 * [ ] Start and close vim 🗒️
 * [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
+
+### Readings/TODOs 📖
+* [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
+* Make sure you have access to an LLM (Either [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web) or [GPT-4](https://github.com/xtekky/gpt4free) also see the "Text" section of Brad's [cheat sheet](https://bradflaugher.com/cheat.html) for mare advice accessing LLMS, there are also tools like [GodMode](https://github.com/smol-ai/GodMode) if you want to get fancy
 
 ## Picking Projects and Reading Code 🎯
 
