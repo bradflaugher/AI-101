@@ -16,9 +16,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | Session | Content |
 |---------|---------|
 | Week 1 | [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
-| Week 1 | Live Demos |
-
-| Session 2 | Lecture 2: Universal ML Workflow<br>Project Q&A |
+| Week 1 | ["Foundaitons" Live Demos](#foundations---when-you-dont-have-a-setup-there-are-many-times-when-you-get-the-inspiration-the-idea-but-you-have-no-tools-no-place-to-put-it-together-and-the-idea-just-sits-there-and-festers-over-time-it-will-go-away-you-didnt-fulfill-itand-thats-just-a-heartache-david-lynch-%EF%B8%8F) |
+| Week 2 | Lecture 2: Universal ML Workflow |
 | Session 3 | Lecture 3: Data Engineering, ETL Basics, Data Wrangling Techniques<br>Project Q&A |
 | Session 4 | Lecture 4: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters<br>Project Q&A<br>Project Presentations |
 | Session 5 | Project Presentations |
