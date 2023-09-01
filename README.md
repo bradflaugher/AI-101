@@ -13,6 +13,16 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
+| Session | Content |
+|---------|---------|
+| Week 1 | [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](## Intro - The 30,000 foot view of Data and AI 🛰️)|
+| Week 1 | Live Demos |
+
+| Session 2 | Lecture 2: Universal ML Workflow<br>Project Q&A |
+| Session 3 | Lecture 3: Data Engineering, ETL Basics, Data Wrangling Techniques<br>Project Q&A |
+| Session 4 | Lecture 4: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters<br>Project Q&A<br>Project Presentations |
+| Session 5 | Project Presentations |
+| Session 6 | Project Presentations |
 ---
 1. **Lecture 1**: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview
 1. **Live Demos**
