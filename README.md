@@ -198,7 +198,8 @@ You can also see more final project presentations and source code on [Brad's You
 
 # After The Bootcamp 🎓
 
-## Recommended courses, videos and books 📚🎬
+### Stay in the loop, use the cheat sheet
+* [Cheat Sheet](https://bradflaugher.com/cheat.html)
 
 ### You must know SQL, learn it and put it on your resume
 * Take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
