@@ -77,8 +77,6 @@ If you have never used python before I recommend you do the entire [Futurecoder.
 ### Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
 * [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
-* [Is it all just a big regression?](https://www.reddit.com/r/MachineLearning/comments/xrge5d/d_is_neural_network_really_smart_or_just_some/) 🧮
-* [9 Reasons why you'll never be a data scientist](https://towardsdatascience.com/9-reasons-why-youll-never-become-a-data-scientist-c8c5b75503cf) 📉
 
 ## Foundations - *"When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache."* [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/) ⚙️
 
@@ -133,6 +131,7 @@ If you have never used python before I recommend you do the entire [Futurecoder.
    - Maintain Your Model
 
 ### Readings 📖
+* Chapter 3 of ["AI Harmony"](https://aiharmony.info)
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
 ## ETL and "It's all numbers, man" 🧮
