@@ -7,7 +7,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 # Course Outline 📝
 
 
-**Duration**: 6 Weeks  
+**Duration**: 6 Weeks (with 1 week break for Thanksgiving/Project Work)
 
 **Lectures**: Tuesdays and Thursdays @ 1pm Eastern (via Google Meet, also recorded)
 
@@ -22,7 +22,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 1. **Lecture 3**: Data Engineering, ETL Basics, Data Wrangling Techniques
 1. **Project Q&A**
 1. **Lecture 4**: Deep Learning in Detail: Metrics and Loss Functions, Model Architecture and Hyperparameters
-1. * **THANKSGIVING BREAK (1 week off)
 1. **Project Q&A**
 1. **Project Q&A**
 1. **Project Presentations**
