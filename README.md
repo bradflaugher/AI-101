@@ -56,12 +56,12 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * Why Neural Networks? Single Cell Neural Network aka Regression in Excel 📈
 * Intro to Foundation Models: ImageNet, BERT, LLaMA and Stable Diffusion 🌐
 * Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)):
-  - Access to computers - and anything that might teach you something about the way the world works- should be unlimited and total
-  - All Information Should Be Free
-  - Mistrust Authority - Promote Decentralization
-  - Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race or position
-  - You can create art and beauty on a computer
-  - Computers can change your life for the better
+  - 🌐 Access to computers – and anything that might teach you something about the way the world works – should be unlimited and total. 📚💻
+  - 🔓 All Information Should Be Free. 📖🆓
+  - 🚫 Mistrust Authority – Promote Decentralization. ⚖️🌍
+  - 🔍 Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position. 👨‍💻🕵️‍♂️
+  - 🎨 You can create art and beauty on a computer. 🎨💻✨
+  - 💡 Computers can change your life for the better. 🖥️🌟
 * Question: Do we buy or build? Which [which of these tools should we use?](B_FOSS/AI_Tool_Providers.png)
 * Answer Our *Freedom* & [*Popularity*](https://survey.stackoverflow.co/2023/#technology-admired-and-desired) Stack:
   - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
