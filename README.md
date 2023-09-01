@@ -15,7 +15,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 | Session | Content |
 |---------|---------|
-| Week 1 | [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](## Intro - The 30,000 foot view of Data and AI -)|
+| Week 1 | [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
 | Week 1 | Live Demos |
 
 | Session 2 | Lecture 2: Universal ML Workflow<br>Project Q&A |
