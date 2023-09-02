@@ -213,16 +213,16 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 
 # After The Bootcamp 🎓
 
-### Use a Dynamic Cheat Sheet
+## Use a Dynamic Cheat Sheet
 * [Brad's Cheat Sheet](https://bradflaugher.com/cheat.html)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Interview Questions and Exercises](https://github.com/bregman-arie/devops-exercises)
 
-### You must know SQL, learn it and put it on your resume
+## Improve your SQL
 * Take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
 * OR learn about [BigQuery (which is queried via SQL)](https://codingisforlosers.com/learn-bigquery-sql/)
 
-### Brad's Favorite Free Learning Resources 🎯
+## Brad's Favorite Free Learning Resources 🎯
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
@@ -231,7 +231,7 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 * [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) 🎬
 * [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) 📚
 
-### Paid Resources 💰
+## Paid Resources 💰
 * O'Reilly [Expert Playlists](https://learning.oreilly.com/playlists/discover/)
 * Coursera's [Data Analyst, Data Engineering or Data Science Career Certificates](https://www.coursera.org/career-academy?trk_ref=camodule) 
 
