@@ -18,7 +18,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 |-----------|---------|
 | 📅 Week 1 | 📚 [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
 | 📅 Week 1 | 🎬 ["Foundations" Live Demos](#foundations-) |
-| 📅 Week 2 | 💡 [Picking Projects](#picking-projects-and-reading-code-)
+| 📅 Week 2 | 💡 [Final Project Ideas](#final-project-ideas-)
 | 📅 Week 2 | 📊 [Lecture 2: Universal Machine Learning Workflow](#the-universal-machine-learning-workflow-) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A |
 | 📅 Week 3 | 📝 [Lecture 3: Data Engineering, ETL Basics](#etl-and-its-all-numbers-man-) |
@@ -33,7 +33,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 ---
  (Schedule is tentative and may be adjusted.)
 
-## Preparation 🎒
+# Preparation 🎒
 
 If you want to do well in the bootcamp it is best to come prepared. Students who have installed Linux, spent an hour learning python basics, and an hour learning git/command line bascis are much more likely to succeed and get a sweet job after the course.
 
@@ -46,9 +46,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 | 🖥️ Dual-Boot Alongside Windows                          | 🔄 Not Required | 2-3 hours                     | Use an amd64-based PC for better results                 | [Additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) |
 | 🐳 Install Docker                                      | 🔄 Not Required | 1-2 hours                     | Install Docker for advanced projects                     | [Install Docker](https://docs.docker.com/engine/install/)                                     |
 
-## Intro - The 30,000 foot view of Data and AI 🛰️
+# Intro - The 30,000 foot view of Data and AI 🛰️
 
-### Topics 📚
 * AI Tutors and [the modified CS50 approach](./cs50.pdf)
 * Definitions: Data Scientist, Data Engineer, Data Analyst, Data Janitor 🧑‍💻
 * Definitions: Machine Learning and Artificial Intelligence 🧠💡
@@ -75,15 +74,15 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
   - ☁️ Cloud Services: AWS, Azure or Google Cloud
 * Why Python? [Python and C Speed Test](./speed_test/) 🐍💨
 
-### Readings 📖
+## Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
 * [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
 
-## Foundations ⚙
+# Foundations ⚙
  
 > "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
-### Live Demos 🙋‍♂️🙋‍♀️🙋
+## Live Demos 🙋‍♂️🙋‍♀️🙋
 * [ ] Start a Github Project 🏁
 * [ ] Commit from the command line 📤
 * [ ] Write a basic bash script
@@ -96,16 +95,14 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
 * [ ] [Ace the interview](./interviews/)?
 
-### TODOs
+## TODOs
 * [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
 * Make sure you have access to an LLM, either:
   - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
   - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
   - or [GPT-4](https://github.com/xtekky/gpt4free)
 
-## Picking Projects and Reading Code 🎯
-
-### Ideas Bootcamp Final Projects 🚀
+# Final Project Ideas 🚀
 * ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
 * ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️ or [use Medusa Chat2 to LoRA rank LLaMA2](https://github.com/Medusa-ML/Chat2)
@@ -115,13 +112,13 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * ⭐⭐⭐⭐[Fine-Tune a Pretrained Model w/ Huggingface](https://huggingface.co/docs/transformers/training) either [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification) 🔧
 * ⭐⭐⭐⭐⭐[Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions) 🏆
 
-### TODOs
+## TODOs
 * Pick a Project!
 * Be ready to tell us about it!
 
-## The Universal Machine Learning Workflow 🔄
+# The Universal Machine Learning Workflow 🔄
 
-### [The Workflow](./the_universal_ml_workflow.pdf), from Chapter 6 of "Deep Learning with Python" also on [O'Reilly](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
+## [The Workflow](./the_universal_ml_workflow.pdf), from Chapter 6 of "Deep Learning with Python" also on [O'Reilly](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
 
 1. Define the Task
    - Collect a Dataset
@@ -141,13 +138,13 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
    - Monitor Your Model in the Wild
    - Maintain Your Model
 
-### The Regression Theory of Everything, [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
+## The Regression Theory of Everything, [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
 
-#### 🤖 Deep Learning Models: Unveiling the Chaotic Wonders 🧠
+### 🤖 Deep Learning Models: Unveiling the Chaotic Wonders 🧠
 
 Deep learning models are fundamentally large unscientiﬁc regressions. They are trained to create a function that maps input data to output data.
 
-#### 📚 Key Insights 🕵️‍♂️
+### 📚 Key Insights 🕵️‍♂️
 
 * Deep learning models are chaotic systems containing millions of interacting parameters. They are not designed to be explained or created in such a way that their weights can be used for scientiﬁc analysis. They ﬁnd reasonable answers and don’t care how they get there. Multicollinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
 
@@ -157,12 +154,11 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 
 * Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations. Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers, and investors.
 
-### Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
+## Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
 
-## ETL and "It's all numbers, man" 🧮
+# ETL and "It's all numbers, man" 🧮
 
-### Topics 📚
 * ETL: aka Download, change, upload... give command line example with wget csv, python change units, s3 upload. ⬇️⬆️
 * Why is it hard to learn ETL? is ETL a legacy problem? How many data sources can there possibly be? 🤔
 * Demonstration: [Numbers are Data](/data_types/data_loading_preprocessing.ipynb) 🔢
@@ -171,9 +167,8 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 * Pandas: what is it and why do we use it? 🐼
 * Discussion: Data Collection, ETL and "glue code" 🗂️
 
-## Data Wrangling 📊
+# Data Wrangling 📊
 
-### Topics 📚
 * Scraping Data 🕷️
 * APIs 🖥️
 * Python Requests 📬
@@ -184,9 +179,8 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
   - The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl) 🕸️
   - More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and [Huggingface](https://huggingface.co/docs/datasets/tutorial) 📚
 
-## Neural Network Model Architecture 🧠
+# Neural Network Model Architecture 🧠
 
-### Topics 📚
 * Definition: [Accuracy](https://medium.datadriveninvestor.com/accuracy-trap-pay-attention-to-recall-precision-f-score-auc-d02f28d3299c), [Precision, Recall, F1](https://emkademy.com/research/toolbox/2020-03-02-accuracy-precision-recall), [AUC](https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/) 🎯
 * Definition: [Confusion Matrix](https://www.statology.org/confusion-matrix-python/)... [in Tensorflow too](https://www.tensorflow.org/tutorials/audio/simple_audio#display_a_confusion_matrix) 🔍
 * Discussion: Loss functions vs model metrics? 📊
@@ -197,7 +191,7 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 * Discussion: Where to start, how to adjust hyperparameters 🎛️
 * Discussion: How can you steal ideas? 
 
-### Readings
+## Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
 
 # Final Projects 🚀
