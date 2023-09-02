@@ -150,18 +150,16 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 ## The Regression Theory of Everything, [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
 
-### What Are Deep Learning Models?
-- Large data-driven functions
-
-### What Are Their Key Features
-- Complex and unpredictable
-- Sensitive to small input changes
-- Hard to explain or test
-
-###  What Do Data Scientists Spend Time On?
-- Data collection and organization
-- Limited experimentation
-- They should also celebrate successes, but highlight failures and limitations (this is hard)
+* What Are Deep Learning Models?
+  - Large data-driven functions
+* What Are Their Key Features
+  - Complex and unpredictable
+  - Sensitive to small input changes
+  - Hard to explain or test
+* What Do Data Scientists Spend Time On?
+  - Data collection and organization
+  - Limited experimentation
+  - They should also celebrate successes, but highlight failures and limitations (this is hard)
 
 ## Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
