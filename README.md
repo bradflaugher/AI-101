@@ -232,7 +232,7 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 * [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) 📚
 
 ## Paid Resources 💰
-* O'Reilly [Expert Playlists](https://learning.oreilly.com/playlists/discover/)
+* O'Reilly [Expert Playlists](https://learning.oreilly.com/playlists/discover/) also try accessing through your local [University Library (e.g Penn)](https://franklin.library.upenn.edu/catalog/FRANKLIN_9931899103503681)
 * Coursera's [Data Analyst, Data Engineering or Data Science Career Certificates](https://www.coursera.org/career-academy?trk_ref=camodule) 
 
 ## Recommended Mailing lists and online groups 📧💻
