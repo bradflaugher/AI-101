@@ -49,7 +49,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 ## Intro - The 30,000 foot view of Data and AI 🛰️
 
 ### Topics 📚
-* AI Tutors and [the modified CS50 approach](https://cs50.ly/ai4)
+* AI Tutors and [the modified CS50 approach](./cs50.pdf)
 * Definitions: Data Scientist, Data Engineer, Data Analyst, Data Janitor 🧑‍💻
 * Definitions: Machine Learning and Artificial Intelligence 🧠💡
 * Why Neural Networks? [Single Cell Neural Network aka Regression in Excel](./simple_nn.xlsx) 📈
