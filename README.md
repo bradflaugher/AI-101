@@ -94,8 +94,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
 * [ ] [Ace the interview](./interviews/)?
 
-### Readings/TODOs 📖
-* [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
+### TODOs
+* [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
 * Make sure you have access to an LLM, either:
   - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
   - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
@@ -112,6 +112,10 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖 or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
 * ⭐⭐⭐⭐[Fine-Tune a Pretrained Model w/ Huggingface](https://huggingface.co/docs/transformers/training) either [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification) 🔧
 * ⭐⭐⭐⭐⭐[Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions) 🏆
+
+### TODOs
+* Pick a Project!
+* Be ready to tell us about it!
 
 ## The Universal Machine Learning Workflow 🔄
 
@@ -178,12 +182,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * Discussion: Layer Types and Standard or Template Models 🧩
 * Demo: [Let's review some "Example" models, AKA stuff you might see in industry](./example_models)
 * Discussion: Where to start, how to adjust hyperparameters 🎛️
-* Discussion: How can you steal ideas? 💡
-
-### Current Events and Discussions in the Community 🗣️
-* [When was the last time you wrote a custom neural net?](https://www.reddit.com/r/MachineLearning/comments/yto34q/d_when_was_the_last_time_you_wrote_a_custom/) 💻
-* [Do you think there is a competitive future for smaller, locally trained/served models?](https://www.reddit.com/r/MachineLearning/comments/yon48p/d_do_you_think_there_is_a_competitive_future_for/) 🌐
-* [What are the major general advances in ML techniques?](https://www.reddit.com/r/MachineLearning/comments/ylixp5/d_what_are_the_major_general_advances_in/) 📈
+* Discussion: How can you steal ideas? 
 
 ### Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
