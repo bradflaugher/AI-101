@@ -30,7 +30,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 7 | 🎓 [To The Moon! After The Bootcamp...](#after-the-bootcamp-) |
 | 📅 Weeks 7-8 | 🎉 [Project Presentations](https://www.youtube.com/@bradflaugher2452/videos), scheduled outside of class time |
  
-(Schedule is tentative and may be adjusted.)
+*Schedule is tentative and may be adjusted.*
 
 # Preparation 🎒
 
