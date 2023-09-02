@@ -17,7 +17,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | Session   | Content |
 |-----------|---------|
 | 📅 Week 1 | 📚 [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
-| 📅 Week 1 | 🎬 ["Foundations" Live Demos](foundations-) |
+| 📅 Week 1 | 🎬 ["Foundations" Live Demos](#foundations-) |
 | 📅 Week 2 | 💡 [Picking Projects](#picking-projects-and-reading-code-)
 | 📅 Week 2 | 📊 [Lecture 2: Universal Machine Learning Workflow](#the-universal-machine-learning-workflow-) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A |
