@@ -260,7 +260,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 ## On-Demand Help 🆘
 * [Patreon](https://www.patreon.com/bradflaugher)
 * [Wyzant](https://www.wyzant.com/) or [Brad's Wyzant](https://www.wyzant.com/Tutors/bradmachinelearning)
-* [CodeMentor](https://www.codementor.io/) or [Brad's Codementor](https://www.codementor.io/@bradflaugher)
+* [Codementor](https://www.codementor.io/) or [Brad's Codementor](https://www.codementor.io/@bradflaugher)
 
 ## Competitions 🏆
 * [Kaggle](https://www.kaggle.com/competitions)
