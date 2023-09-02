@@ -94,7 +94,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ### Readings/TODOs 📖
 * [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
-* Make sure you have access to an LLM, Either
+* Make sure you have access to an LLM, either:
   - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
   - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
   - or [GPT-4](https://github.com/xtekky/gpt4free)
