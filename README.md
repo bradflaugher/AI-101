@@ -79,7 +79,9 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
 * [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
 
-## Foundations - *"When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache."* [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/) ⚙️
+## Foundations ⚙
+ 
+> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache."* [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
 ### Live Demos 🙋‍♂️🙋‍♀️🙋
 * [ ] Start a Github Project 🏁
