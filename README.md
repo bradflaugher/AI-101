@@ -13,7 +13,6 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
----
 | Session   | Content |
 |-----------|---------|
 | 📅 Week 1 | 📚 [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
@@ -29,8 +28,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 6 | 🦃 Thanksgiving Break |
 | 📅 Week 7 | 👥 Pair Programming, Project Q&A |
 | 📅 Week 7 | 🎓 [To The Moon! After The Bootcamp...](#after-the-bootcamp-) |
-| 📅 Weeks 7-8 | 🎉 [Project Presentations](#final-projects-), scheduled outside of class time |
----
+| 📅 Weeks 7-8 | 🎉 [Project Presentations](https://www.youtube.com/@bradflaugher2452/videos), scheduled outside of class time |
  (Schedule is tentative and may be adjusted.)
 
 # Preparation 🎒
@@ -45,6 +43,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 | 💻 Setup Laptop/PC with Ubuntu GNU/Linux               | 🔄 Not Required | 1-2 hours                     | Consider for an optimal experience                        | [Ubuntu Install Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)       |
 | 🖥️ Dual-Boot Alongside Windows                          | 🔄 Not Required | 2-3 hours                     | Use an amd64-based PC for better results                 | [Additional notes for dual-booting with Windows](https://linuxconfig.org/how-to-install-ubuntu-20-04-alongside-windows-10-dual-boot) |
 | 🐳 Install Docker                                      | 🔄 Not Required | 1-2 hours                     | Install Docker for advanced projects                     | [Install Docker](https://docs.docker.com/engine/install/)                                     |
+
+---
 
 # Intro - The 30,000 foot view of Data and AI 🛰️
 
@@ -78,6 +78,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
 * [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
 
+---
+
 # Foundations ⚙
  
 > "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
@@ -102,7 +104,12 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
   - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
   - or [GPT-4](https://github.com/xtekky/gpt4free)
 
+---
+
 # Final Project Ideas 🚀
+
+Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project). 🎥🎞️📁 You can also see more final project presentations and source code on [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos). 📺👨‍💻
+
 * ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
 * ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
 * ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️ or [use Medusa Chat2 to LoRA rank LLaMA2](https://github.com/Medusa-ML/Chat2)
@@ -115,6 +122,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 ## TODOs
 * Pick a Project!
 * Be ready to tell us about it!
+
+---
 
 # The Universal Machine Learning Workflow 🔄
 
@@ -156,6 +165,7 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 
 ## Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
+---
 
 # ETL and "It's all numbers, man" 🧮
 
@@ -166,6 +176,8 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 * Demonstration: [Images are Data](/data_types/data_loading_preprocessing.ipynb) 🖼️
 * Pandas: what is it and why do we use it? 🐼
 * Discussion: Data Collection, ETL and "glue code" 🗂️
+
+---
 
 # Data Wrangling 📊
 
@@ -178,6 +190,8 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
   - Free captioned images from the web, [LAION](https://laion.ai/) 🌐
   - The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl) 🕸️
   - More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and [Huggingface](https://huggingface.co/docs/datasets/tutorial) 📚
+
+---
 
 # Neural Network Model Architecture 🧠
 
@@ -194,11 +208,7 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 ## Readings
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
 
-# Final Projects 🚀
-
-Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project). 🎥🎞️📁
-
-You can also see more final project presentations and source code on [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos). 📺👨‍💻
+---
 
 # After The Bootcamp 🎓
 
