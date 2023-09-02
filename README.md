@@ -17,7 +17,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | Session   | Content |
 |-----------|---------|
 | 📅 Week 1 | 📚 [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
-| 📅 Week 1 | 🎬 ["Foundations" Live Demos](#foundations---when-you-dont-have-a-setup-there-are-many-times-when-you-get-the-inspiration-the-idea-but-you-have-no-tools-no-place-to-put-it-together-and-the-idea-just-sits-there-and-festers-over-time-it-will-go-away-you-didnt-fulfill-itand-thats-just-a-heartache-david-lynch-%EF%B8%8F) |
+| 📅 Week 1 | 🎬 ["Foundations" Live Demos](foundations-) |
 | 📅 Week 2 | 💡 [Picking Projects](#picking-projects-and-reading-code-)
 | 📅 Week 2 | 📊 [Lecture 2: Universal Machine Learning Workflow](#the-universal-machine-learning-workflow-) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A |
@@ -81,7 +81,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ## Foundations ⚙
  
-> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache."* [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
+> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
 ### Live Demos 🙋‍♂️🙋‍♀️🙋
 * [ ] Start a Github Project 🏁
