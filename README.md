@@ -94,7 +94,10 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ### Readings/TODOs 📖
 * [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
-* Make sure you have access to an LLM (Either [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web) or [GPT-4](https://github.com/xtekky/gpt4free) also see the "Text" section of Brad's [cheat sheet](https://bradflaugher.com/cheat.html) for mare advice accessing LLMS, there are also tools like [GodMode](https://github.com/smol-ai/GodMode) if you want to get fancy
+* Make sure you have access to an LLM, Either
+  - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
+  - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
+  - or [GPT-4](https://github.com/xtekky/gpt4free)
 
 ## Picking Projects and Reading Code 🎯
 
