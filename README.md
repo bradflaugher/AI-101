@@ -140,7 +140,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
    - Maintain Your Model
 
 ### Readings 📖
-* Chapter 3 of ["AI Harmony"](https://aiharmony.info)
+* [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
 ## ETL and "It's all numbers, man" 🧮
