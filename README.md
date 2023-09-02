@@ -262,8 +262,8 @@ Deep learning models are fundamentally large unscientiﬁc regressions. They are
 
 ## On-Demand Help 🆘
 * [Patreon](https://www.patreon.com/bradflaugher)
-* [Wyzant](https://www.wyzant.com/)
+* [Wyzant](https://www.wyzant.com/) or [Brad's Wyzant](https://www.wyzant.com/Tutors/bradmachinelearning)
+* [CodeMentor](https://www.codementor.io/) or [Brad's Codementor](https://www.codementor.io/@bradflaugher)
 
 ## Competitions 🏆
 * [Kaggle](https://www.kaggle.com/competitions)
-* [ML Safety Competitions](https://safe.ai/competitions)
