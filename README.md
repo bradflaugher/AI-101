@@ -73,7 +73,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
   - ☕ Training and Testing Models: Google Colab
   - 🚀 Multi-Environment Testing and Deployment: Docker
   - ☁️ Cloud Services: AWS, Azure or Google Cloud
-* Why Python? Python and C Speed Test 🐍💨
+* Why Python? [Python and C Speed Test](./speed_test/) 🐍💨
 
 ### Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
@@ -85,7 +85,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [ ] Start a Github Project 🏁
 * [ ] Commit from the command line 📤
 * [ ] Write a basic bash script
-* [ ] Run a docker container🏃‍♂️ run bash from python
+* [ ] [Run a docker container🏃‍♂️ run bash from a container?](docker_lecture.md)
 * [ ] Run python code
 * [ ] pip install
 * [ ] Load a csv file into pandas 🐼
