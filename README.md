@@ -200,8 +200,10 @@ You can also see more final project presentations and source code on [Brad's You
 
 # After The Bootcamp 🎓
 
-### Stay in the loop, use the cheat sheet
-* [Cheat Sheet](https://bradflaugher.com/cheat.html)
+### Stay in the loop, use a cheat sheet:
+* [Brad's Cheat Sheet](https://bradflaugher.com/cheat.html)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [Interview Questions and Exercises](https://github.com/bregman-arie/devops-exercises)
 
 ### You must know SQL, learn it and put it on your resume
 * Take the [Interactive SQL course @ Codecademy](https://www.codecademy.com/learn/learn-sql) 💾
