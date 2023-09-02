@@ -52,7 +52,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * AI Tutors and [the modified CS50 approach](https://cs50.ly/ai4)
 * Definitions: Data Scientist, Data Engineer, Data Analyst, Data Janitor 🧑‍💻
 * Definitions: Machine Learning and Artificial Intelligence 🧠💡
-* Why Neural Networks? Single Cell Neural Network aka Regression in Excel 📈
+* Why Neural Networks? [Single Cell Neural Network aka Regression in Excel](./simple_nn.xlsx) 📈
 * Intro to Foundation Models: ImageNet, BERT, LLaMA and Stable Diffusion 🌐
 * Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)):
   - 🌐 Access to computers – and anything that might teach you something about the way the world works – should be unlimited and total. 📚💻
@@ -61,7 +61,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
   - 🔍 Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position. 👨‍💻🕵️‍♂️
   - 🎨 You can create art and beauty on a computer. 🎨💻✨
   - 💡 Computers can change your life for the better. 🖥️🌟
-* Question: Do we buy or build? Which [which of these tools should we use?](B_FOSS/AI_Tool_Providers.png)
+* Question: Do we buy or build? Which of these tools should we use?
+![which of these tools should we use?](./buy_vs_build.png)
 * Answer Our *Freedom* & [*Popularity*](https://survey.stackoverflow.co/2023/#technology-admired-and-desired) Stack:
   - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
   - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
@@ -91,6 +92,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [ ] Inspect a large csv file in the command line 🕵️‍♂️
 * [ ] Start and close vim 🗒️
 * [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
+* [ ] [Ace the interview](./interviews/)?
 
 ### Readings/TODOs 📖
 * [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
@@ -142,18 +144,11 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 ### Topics 📚
 * ETL: aka Download, change, upload... give command line example with wget csv, python change units, s3 upload. ⬇️⬆️
 * Why is it hard to learn ETL? is ETL a legacy problem? How many data sources can there possibly be? 🤔
-* Demonstration: Numbers are Data 🔢
-* Demonstration: Text is Data 📜
-* Demonstration: Images are Data 🖼️
+* Demonstration: [Numbers are Data](/data_types/data_loading_preprocessing.ipynb) 🔢
+* Demonstration: [Text are Data](/data_types/data_loading_preprocessing.ipynb) 📜
+* Demonstration: [Images are Data](/data_types/data_loading_preprocessing.ipynb) 🖼️
 * Pandas: what is it and why do we use it? 🐼
 * Discussion: Data Collection, ETL and "glue code" 🗂️
-
-### Code Reading 📘
-* [Preprocessing Notebook](/3_Data_Types/data_loading_preprocessing.ipynb) 📖
-
-### Useful Tutorials 🎓
-* [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) 📚
-* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) 🎬
 
 ## Data Wrangling 📊
 
@@ -181,6 +176,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * Discussion: How do you measure model performance with other ML techniques? (Back to Excel Nerual Net for a moment) then [Custom Loss Functions](https://stackoverflow.com/questions/53980031/pytorch-custom-loss-function) and [Custom Loss Functions #2](https://discuss.pytorch.org/t/custom-loss-functions/29387/3) 💹
 * Discussion: "The Price is Right" Loss Function? 💰
 * Discussion: Layer Types and Standard or Template Models 🧩
+* Demo: [Let's review some "Example" models, AKA stuff you might see in industry](./example_models)
 * Discussion: Where to start, how to adjust hyperparameters 🎛️
 * Discussion: How can you steal ideas? 💡
 
@@ -215,6 +211,8 @@ You can also see more final project presentations and source code on [Brad's You
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
 * [Github Trending Repos](https://github.com/trending)
 * [Kaggle Winners Code](https://www.kaggle.com/code?types=competitions)
+* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE) 🎬
+* [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) 📚
 
 ### Paid Resources 💰
 * O'Reilly [Expert Playlists](https://learning.oreilly.com/playlists/discover/)
