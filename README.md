@@ -119,7 +119,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ## The Universal Machine Learning Workflow 🔄
 
-### [The Workflow](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
+### [The Workflow](./the_universal_ml_workflow.pdf) also on [O'Reilly](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
 
 1. Define the Task
    - Collect a Dataset
