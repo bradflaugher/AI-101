@@ -150,19 +150,18 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 ## The Regression Theory of Everything, [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
 
-### 🤖 Deep Learning Models: Unveiling the Chaotic Wonders 🧠
+### What Are Deep Learning Models?
+- Large data-driven functions
 
-Deep learning models are fundamentally large unscientiﬁc regressions. They are trained to create a function that maps input data to output data.
+### What Are Their Key Features
+- Complex and unpredictable
+- Sensitive to small input changes
+- Hard to explain or test
 
-### 📚 Key Insights 🕵️‍♂️
-
-* Deep learning models are chaotic systems containing millions of interacting parameters. They are not designed to be explained or created in such a way that their weights can be used for scientiﬁc analysis. They ﬁnd reasonable answers and don’t care how they get there. Multicollinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
-
-* Small changes in inputs of a deep learning model may dramatically change the outputs. Deep learning models are complex deterministic systems that can exhibit chaotic behavior. Their inner workings are functionally unknowable and practically impossible to test.
-
-* Machine learning engineers spend most of their time collecting and organizing data. Because deep learning models often share common architecture, getting good data to train with is the best thing that an engineer can do to train good models. In practice, only a handful of corporate-academic types are experimenting with new and exciting architectures.
-
-* Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations. Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers, and investors.
+###  What Do Data Scientists Spend Time On?
+- Data collection and organization
+- Limited experimentation
+- They should also celebrate successes, but highlight failures and limitations (this is hard)
 
 ## Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
