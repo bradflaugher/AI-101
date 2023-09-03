@@ -13,6 +13,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
+**2023 Cohort**: [see particpants.txt](./participants.txt)
+
 | Session   | Content |
 |-----------|---------|
 | 📅 Week 1 | 📚 [Lecture 1: Introduction to Data and AI roles, Basics of Machine Learning and AI, Tech Stack Overview](#intro---the-30000-foot-view-of-data-and-ai-%EF%B8%8F)|
