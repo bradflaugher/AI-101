@@ -105,7 +105,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * Make sure you have access to an LLM, either:
   - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
   - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
-  - or [GPT-4](https://github.com/xtekky/gpt4free)
+  - [GPT-4](https://github.com/xtekky/gpt4free)
+  - OR see the [Medusa Project](https://github.com/orgs/Medusa-ML/repositories) for some roll-your-own options
 
 ---
 
