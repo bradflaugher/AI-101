@@ -103,8 +103,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 ## TODOs
 * [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
 * Make sure you have access to an LLM:
-  - [GPT-4 via Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx), [ChatGPT](https://chat.openai.com/) or [gpt4free](https://github.com/xtekky/gpt4free) OR use [Medusa Interpreter](https://github.com/Medusa-ML/Interpreter) with the GPT-4 API or CodeLLaMA
-  - OR Feel free to experiment with [Claude](https://claude.ai/chats), [Bard](https://bard.google.com/chat), a free [HuggingFace](https://huggingface.co/) model, [Phind](https://www.phind.com/), [Open Assistant](https://open-assistant.io/) or whatever else you can access easily.
+  - **GPT-4 is currently the best at software development** access [GPT-4 via Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx), [ChatGPT](https://chat.openai.com/) or [gpt4free](https://github.com/xtekky/gpt4free) OR use [Medusa Interpreter](https://github.com/Medusa-ML/Interpreter) with the GPT-4 API or CodeLLaMA
+  - **BUT there are other very good models out there** feel free to experiment with (in recommended order) [HuggingChat](https://huggingface.co/chat/), [Claude](https://claude.ai/chats), [Bard](https://bard.google.com/chat), [Phind](https://www.phind.com/) or whatever else you can access easily (like this [cool thing](https://chat.lmsys.org/?arena).
 
 ---
 
