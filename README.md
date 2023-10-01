@@ -97,7 +97,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [ ] Load a csv file into pandas 🐼
 * [ ] Inspect a large csv file in the command line 🕵️‍♂️
 * [ ] Start and close vim 🗒️
-* [ ] Answer any programming question with GPT-4 or LLaMA 2 🤖
+* [ ] Answer any programming question with an LLM �
 * [ ] [Ace the interview](./interviews/)?
 
 ## TODOs
