@@ -104,9 +104,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 * [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
 * Make sure you have access to an LLM, either:
   - [Open Assistant (based on LLaMA)](https://open-assistant.io/)
-  - [LLaMA 2](https://duckduckgo.com/?q=llama+2+chat+online&t=ftsa&ia=web)
-  - [GPT-4](https://github.com/xtekky/gpt4free)
-  - OR see the [Medusa Project](https://github.com/orgs/Medusa-ML/repositories) for some roll-your-own options
+  - [GPT-4 via Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx), [ChatGPT](https://chat.openai.com/) or [gpt4free](https://github.com/xtekky/gpt4free)
+  - OR use [Medusa Interpreter](https://github.com/Medusa-ML/Interpreter) with the GPT-4 API or CodeLLaMA 
 
 ---
 
@@ -114,12 +113,11 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project). 🎥🎞️📁 You can also see more final project presentations and source code on [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos). 📺👨‍💻
 
-* ⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
-* ⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
-* ⭐⭐[Instruct-tune LLaMA on consumer hardware](https://github.com/tloen/alpaca-lora) 🏎️ or [use Medusa Chat2 to LoRA rank LLaMA2](https://github.com/Medusa-ML/Chat2)
-* ⭐⭐⭐ [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer) 🏅
-* ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification) 🏷️
+* ⭐⭐ [Contribute to data collection for Open-Assistant](https://github.com/LAION-AI/Open-Assistant#contributing-to-data-collection) 📋
+* ⭐⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
+* ⭐⭐⭐ [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer) 🏅* ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification) 🏷️
 * ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖 or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
+* ⭐⭐⭐⭐ [Deploy and Fine-Tune your own Open-Source LLM with Medusa Alchemy](https://github.com/Medusa-ML/Alchemy)
 * ⭐⭐⭐⭐[Fine-Tune a Pretrained Model w/ Huggingface](https://huggingface.co/docs/transformers/training) either [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification) 🔧
 * ⭐⭐⭐⭐⭐[Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions) 🏆
 
