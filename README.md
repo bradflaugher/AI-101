@@ -76,7 +76,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
   - 🚀 Multi-Environment Testing and Deployment: Docker
   - ☁️ Cloud Services: AWS, Azure or Google Cloud
 * Why Python? [Python and C Speed Test](./speed_test/) 🐍💨
-* Innovation Horizons 1,2 and 3... reasons to stay small.
+* [Innovation Horizons 1,2 and 3...](https://www.boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/) reasons to stay small.
 
 ## Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
