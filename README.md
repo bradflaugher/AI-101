@@ -12,8 +12,8 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 **2023 Cohort**: [see particpants.txt](./participants.txt)
 
-| Session   | Lecture/Topic | TODO
-|-----------|---------|
+| Session   | Lecture/Topic | TODO |
+|-----------|---------| ---------|
 | Preparation | N/A | See [preparation.md](./preparation.md) |
 | 📅 Week 1 | 📚 [Roles, Machine Learning Basics, Tech Stack](./30000.md)| [Introduction to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) and [Intro to Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society) |
 | 📅 Week 1 | 🎬 ["Foundations" Live Demos](./foundations.md) | [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek) |
