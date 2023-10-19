@@ -64,21 +64,8 @@ see [30000.md](./30000.md)
  
 > "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
-## Meet your new teacher (it's an LLM, you need access to one).
-  - **GPT-4 is currently the best at software development** access [GPT-4 via Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx), [ChatGPT](https://chat.openai.com/) or [gpt4free](https://github.com/xtekky/gpt4free) OR use [Medusa Interpreter](https://github.com/Medusa-ML/Interpreter) with the GPT-4 API or CodeLLaMA
-  - **BUT there are other very good models out there** feel free to experiment with (in recommended order) [HuggingChat](https://huggingface.co/chat/), [Claude](https://claude.ai/chats), [Bard](https://bard.google.com/chat), [Phind](https://www.phind.com/) or whatever else you can access easily (like this [cool thing](https://chat.lmsys.org/?arena).
-
-## Live Demos 🙋‍♂️🙋‍♀️🙋
-* [ ] Start a Github Project 🏁
-* [ ] Commit from the command line 📤* [ ] Write a basic bash script
-* [ ] [Run a docker container🏃‍♂️ run bash from a container?](docker_lecture.md)
-* [ ] Run python code
-* [ ] pip install
-* [ ] Load a csv file into pandas 🐼
-* [ ] Inspect a large csv file in the command line 🕵️‍♂️
-* [ ] Start and close vim 🗒️
-* [ ] Answer any programming question with an LLM �
-* [ ] [Ace the interview](./interviews/)?
+# Lecture
+see [foundations.md](./foundations.md)
 
 ## TODOs
 * [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)

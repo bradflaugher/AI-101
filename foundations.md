@@ -1,7 +1,5 @@
 # Foundations ⚙
 
-> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
-
 ---
 
 ## Meet Your New Teacher: LLM 🤖
