@@ -64,7 +64,7 @@ see [30000.md](./30000.md)
  
 > "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
-# Lecture
+## Lecture
 see [foundations.md](./foundations.md)
 
 ## TODOs
@@ -93,7 +93,7 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 # The Universal Machine Learning Workflow 🔄
 
 ## Lecture
-* See [universal_workflow.md](./universal_workflow.md)
+See [universal_workflow.md](./universal_workflow.md)
 
 ## TODO
 * [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
@@ -102,43 +102,24 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 # ETL and "It's all numbers, man" 🧮
 
-* ETL: aka Download, change, upload... give command line example with wget csv, python change units, s3 upload. ⬇️⬆️
-* Why is it hard to learn ETL? is ETL a legacy problem? How many data sources can there possibly be? 🤔
-* Demonstration: [Numbers are Data](/data_types/data_loading_preprocessing.ipynb) 🔢
-* Demonstration: [Text are Data](/data_types/data_loading_preprocessing.ipynb) 📜
-* Demonstration: [Images are Data](/data_types/data_loading_preprocessing.ipynb) 🖼️
-* Pandas: what is it and why do we use it? 🐼
-* Discussion: Data Collection, ETL and "glue code" 🗂️
+## Lecture
+See [etl.md](./etl.md)
 
 ---
 
 # Data Wrangling 📊
 
-* Scraping Data 🕷️
-* APIs 🖥️
-* Python Requests 📬
-* Combining Datasets 📚
-* Synthetic (AI-Generated) Datasets 🤖
-* Important Data Sources 📑
-  - Free captioned images from the web, [LAION](https://laion.ai/) 🌐
-  - The entire web, scraped for you, [Common Crawl](https://commoncrawl.org/) via [comcrawl](https://github.com/michaelharms/comcrawl) 🕸️
-  - More specialized data... [Datahub](https://datahub.io/collections) and [Awesome pubilc datasets](https://github.com/awesomedata/awesome-public-datasets) and [Huggingface Datasets](https://huggingface.co/datasets) and [Huggingface](https://huggingface.co/docs/datasets/tutorial) 📚
+## Lecture
+See [wranglin.md](./wranglin.md)
 
 ---
 
 # Neural Network Model Architecture 🧠
 
-* Definition: [Accuracy](https://medium.datadriveninvestor.com/accuracy-trap-pay-attention-to-recall-precision-f-score-auc-d02f28d3299c), [Precision, Recall, F1](https://emkademy.com/research/toolbox/2020-03-02-accuracy-precision-recall), [AUC](https://paulvanderlaken.com/2019/08/16/roc-auc-precision-and-recall-visually-explained/) 🎯
-* Definition: [Confusion Matrix](https://www.statology.org/confusion-matrix-python/)... [in Tensorflow too](https://www.tensorflow.org/tutorials/audio/simple_audio#display_a_confusion_matrix) 🔍
-* Discussion: Loss functions vs model metrics? 📊
-* Discussion: How do you measure model performance with other ML techniques? (Back to Excel Nerual Net for a moment) then [Custom Loss Functions](https://stackoverflow.com/questions/53980031/pytorch-custom-loss-function) and [Custom Loss Functions #2](https://discuss.pytorch.org/t/custom-loss-functions/29387/3) 💹
-* Discussion: "The Price is Right" Loss Function? 💰
-* Discussion: Layer Types and Standard or Template Models 🧩
-* Demo: [Let's review some "Example" models, AKA stuff you might see in industry](./example_models)
-* Discussion: Where to start, how to adjust hyperparameters 🎛️
-* Discussion: How can you steal ideas? 
+## Lecture
+See [architecture.md](./architecture.md)
 
-## Readings
+## TODO
 * [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
 
 ---
