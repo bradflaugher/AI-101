@@ -90,8 +90,7 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ## Live Demos 🙋‍♂️🙋‍♀️🙋
 * [ ] Start a Github Project 🏁
-* [ ] Commit from the command line 📤
-* [ ] Write a basic bash script
+* [ ] Commit from the command line 📤* [ ] Write a basic bash script
 * [ ] [Run a docker container🏃‍♂️ run bash from a container?](docker_lecture.md)
 * [ ] Run python code
 * [ ] pip install
