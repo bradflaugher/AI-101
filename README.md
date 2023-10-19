@@ -51,32 +51,8 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 # Intro - The 30,000 foot view of Data and AI 🛰️
 
-* AI Tutors and [the modified CS50 approach](./cs50.pdf), also see a [7 minute video describing their approach](https://youtu.be/MYnoZP9ZggI?si=bBZUEKZ7bRNzg7jJ)
-* Definitions: Data Scientist, Data Engineer, Data Analyst, Data Janitor 🧑‍💻
-* Definitions: Machine Learning and Artificial Intelligence 🧠💡
-* Why Neural Networks? [Single Cell Neural Network aka Regression in Excel](./simple_nn.xlsx) 📈
-* Intro to Foundation Models: ImageNet, BERT, LLaMA and Stable Diffusion 🌐
-* Hacker Culture ([For Fun and Profit](https://www.penguinrandomhouse.com/books/657764/for-fun-and-profit-by-christopher-tozzi-foreword-by-jonathan-zittrain/)):
-  - 🌐 Access to computers – and anything that might teach you something about the way the world works – should be unlimited and total. 📚💻
-  - 🔓 All Information Should Be Free. 📖🆓
-  - 🚫 Mistrust Authority – Promote Decentralization. ⚖️🌍
-  - 🔍 Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position. 👨‍💻🕵️‍♂️
-  - 🎨 You can create art and beauty on a computer. 🎨💻✨
-  - 💡 Computers can change your life for the better. 🖥️🌟
-* Question: Do we buy or build? Which of these tools should we use?
-![which of these tools should we use?](./buy_vs_build.png)
-* Answer Our *Freedom* & [*Popularity*](https://survey.stackoverflow.co/2023/#technology-admired-and-desired) Stack:
-  - 🖥️ OS: Linux (Preferred), macOS (w/ UNIX tools), Windows (w/ Windows Subsystem for Linux)
-  - 👩‍💻 Programming Language: Python (and Matplotlib, seaborn, pandas and numpy as important libraries we'll see)
-  - 📚 ML Library: PyTorch, Tensorflow
-  - 🗃️ Data Storage: SQL* (Anything we can access w SQL is fine at this point we wont really care what database our data is in for now, in this course we won't get much SQL practice but we need to know it so we can access data in Postgres, BigQuery, Athena, MySQL, Tableau, PowerBI etc...)
-  - 🛠️ Version Control: Git (and github)
-  - 📝 IDE/Editor: VSCode, Jupyter Notebook or [```vim```](https://www.youtube.com/watch?v=rysgxl35EGc)
-  - ☕ Training and Testing Models: Google Colab
-  - 🚀 Multi-Environment Testing and Deployment: Docker
-  - ☁️ Cloud Services: AWS, Azure or Google Cloud
-* Why Python? [Python and C Speed Test](./speed_test/) 🐍💨
-* [Innovation Horizons 1,2 and 3...](https://www.boardofinnovation.com/blog/what-is-the-3-horizons-model-how-can-you-use-it/) reasons to stay small.
+## Lecture
+see [30000.md](./30000.md)
 
 ## Readings 📖
 * [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
