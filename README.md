@@ -49,78 +49,78 @@ If you want to do well in the bootcamp it is best to come prepared. Students who
 
 ---
 
-# Intro - The 30,000 foot view of Data and AI 🛰️
+# Introduction: A Broad Overview of Data and AI
 
 ## Lecture
-see [30000.md](./30000.md)
+- [View Lecture Notes](./30000.md)
 
-## Readings 📖
-* [Intro to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) 🎬
-* [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
+## Recommended Readings
+- [Introduction to Deep Learning (Video)](https://www.youtube.com/watch?v=qj5gUDJ5TnU)
+- [Intro to Free Software (TEDx Geneva)](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society)
 
 ---
 
-# Foundations ⚙
- 
-> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
+# Foundations
+
+> "When you don’t have a setup, there are many times when you get the inspiration, the idea, but you have no tools, no place to put it together. And the idea just sits there and festers. Over time, it will go away. You didn’t fulfill it—and that’s just a heartache." - [David Lynch](https://rhystranter.com/2016/02/22/david-lynch-on-having-a-setup/)
 
 ## Lecture
-see [foundations.md](./foundations.md)
+- [View Lecture Notes](./foundations.md)
 
-## TODOs
-* [Watch The SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
+## To-Do
+- [Watch The SuperDataScience Code Interpreter Guide (Video)](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek)
 
 ---
 
-# Final Project Ideas 🚀
+# Final Project Ideas
 
-Bootcampers will spend a tremendous time working on final projects that are targeted to the bootcamper's career goals. For an example final presentation see [Oleh's Video (YouTube)](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository (GitHub)](https://github.com/MorhaliukOL/ML_Project). 🎥🎞️📁 You can also see more final project presentations and source code on [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos). 📺👨‍💻
+Participants will dedicate substantial time to final projects aligned with their career aspirations. For an example of a final presentation, check out [Oleh's Video](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository](https://github.com/MorhaliukOL/ML_Project). For more presentations and source code, visit [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
 
-* ⭐⭐⭐ [Use Scikit-LLM to categorize some text](https://github.com/iryna-kondr/scikit-llm) 📚
-* ⭐⭐⭐ [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer) 🏅
-* ⭐⭐⭐ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification) 🏷️
-* ⭐⭐⭐⭐ [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) 📖 or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
-* ⭐⭐⭐⭐ [Deploy and Fine-Tune your own Open-Source LLM with Medusa Alchemy](https://github.com/Medusa-ML/Alchemy)
-* ⭐⭐⭐⭐[Fine-Tune a Pretrained Model w/ Huggingface](https://huggingface.co/docs/transformers/training) either [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification) 🔧
-* ⭐⭐⭐⭐⭐[Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions) 🏆
+- [Categorize text using Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+- [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer)
+- [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification)
+- [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
+- [Deploy and Fine-Tune your own Open-Source LLM with Medusa Alchemy](https://github.com/Medusa-ML/Alchemy)
+- [Fine-Tune a Pretrained Model with Huggingface](https://huggingface.co/docs/transformers/training) - [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
+- [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
 
-## TODOs
-* Pick a Project!
-* Be ready to tell us about it!
-
----
-
-# The Universal Machine Learning Workflow 🔄
-
-## Lecture
-See [universal_workflow.md](./universal_workflow.md)
-
-## TODO
-* [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
+## To-Do
+- Select a project!
+- Prepare to discuss your choice.
 
 ---
 
-# ETL and "It's all numbers, man" 🧮
+# Universal Machine Learning Workflow
 
 ## Lecture
-See [etl.md](./etl.md)
+- [View Lecture Notes](./universal_workflow.md)
+
+## To-Do
+- [Understanding Deep Learning (Video)](https://www.youtube.com/watch?v=wBgW3ZtlPT8)
 
 ---
 
-# Data Wrangling 📊
+# ETL: "It's all numbers, man"
 
 ## Lecture
-See [wranglin.md](./wranglin.md)
+- [View Lecture Notes](./etl.md)
 
 ---
 
-# Neural Network Model Architecture 🧠
+# Data Wrangling
 
 ## Lecture
-See [architecture.md](./architecture.md)
+- [View Lecture Notes](./wranglin.md)
 
-## TODO
-* [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA)
+---
+
+# Neural Network Model Architecture
+
+## Lecture
+- [View Lecture Notes](./architecture.md)
+
+## To-Do
+- [Modeling Natural Language (Video)](https://www.youtube.com/watch?v=rqyw06k91pA)
 
 ---
 
