@@ -92,40 +92,11 @@ Bootcampers will spend a tremendous time working on final projects that are targ
 
 # The Universal Machine Learning Workflow 🔄
 
-## [The Workflow](./the_universal_ml_workflow.pdf), from Chapter 6 of "Deep Learning with Python" also on [O'Reilly](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/Text/06.xhtml) 🔄
+## Lecture
+* See [universal_workflow.md](./universal_workflow.md)
 
-1. Define the Task
-   - Collect a Dataset
-   - Understand Your Data
-   - Choose a Measure of Success 
-
-2. Develop a Model
-   - Prepare the Data 
-   - Choose an Evaluation Protocol
-   - Beat a Baseline (does it beat the random model?)
-   - Develop a model that overfits
-   - Regularize and Tune Your Model
-
-3. Deploy the Model
-   - Explain Your Work to Your Stakeholders and Set Expectations
-   - Ship an Inference Model
-   - Monitor Your Model in the Wild
-   - Maintain Your Model
-
-## The Regression Theory of Everything, [Chapter 3 of "AI Harmony"](./AI_harmony_c3.pdf)
-
-* What Are Deep Learning Models?
-  - Large data-driven functions
-* What Are Their Key Features
-  - Complex and unpredictable
-  - Sensitive to small input changes
-  - Hard to explain or test
-* What Do Data Scientists Spend Time On?
-  - Data collection and organization
-  - Limited experimentation
-  - They should also celebrate successes, but highlight failures and limitations (this is hard)
-
-## Video [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
+## TODO
+* [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) 🎬
 
 ---
 
