@@ -20,7 +20,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 1 | 📚 [Roles, Machine Learning Basics, Tech Stack](./30000.md)| [Introduction to Deep Learning](https://www.youtube.com/watch?v=qj5gUDJ5TnU) and [Intro to Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society) |
 | 📅 Week 1 | 🎬 ["Foundations" Live Demos](./foundations.md) | [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek) |
 | 📅 Week 2 | 💡 [Final Project Ideas](#final-project-ideas) | Pick a project! |
-| 📅 Week 2 | 📊 [Universal Machine Learning Workflow](./universal_workflow.md) | [Understanding Deep Learning (Video)](https://www.youtube.com/watch?v=wBgW3ZtlPT8), [The Universal ML Workflow](./the_universal_ml_workflow.pdf), and [The Regression Theory of Everything](./AI_harmony_c3.pdf) |
+| 📅 Week 2 | 📊 [Universal Machine Learning Template](https://github.com/Medusa-ML/ML-Template) | [Understanding Deep Learning (Video)](https://www.youtube.com/watch?v=wBgW3ZtlPT8), [The Universal ML Workflow](./the_universal_ml_workflow.pdf), and [The Regression Theory of Everything](./AI_harmony_c3.pdf) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 3 | 📝 [Data Engineering, ETL Basics](./etl.md) | work on your project |
 | 📅 Week 4 | 👥 Pair Programming, Project Q&A | work on your project |
