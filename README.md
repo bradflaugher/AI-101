@@ -36,16 +36,21 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 ---
 
-# Final Project Ideas
+# Final Project Sequence
 
 Participants will dedicate substantial time to final projects aligned with their career aspirations. For an example of a final presentation, check out [Oleh's Video](https://www.youtube.com/watch?v=I-KL-mWF548) and [Oleh's Repository](https://github.com/MorhaliukOL/ML_Project). For more presentations and source code, visit [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
 
-- [Categorize text using Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-- [AWS Machine Learning Certification](https://aws.amazon.com/certification/certified-machine-learning-specialty/) or [Google Machine Learning Certification](https://cloud.google.com/learn/certification/machine-learning-engineer)
+## A: Collect Data and Hack together a simple model (required)
+- Use the [Medusa-ML Template]
+- Create a synthetic text dataset via [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+- AND/OR find a cool dataset via [kaggle](https://www.kaggle.com/datasets) or [huggingface](https://huggingface.co/datasets)
+
+## B: Use your dataset, fit a custom model, make it small, precise and fast (optional)
 - [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification)
 - [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) or [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
-- [Deploy and Fine-Tune your own Open-Source LLM with Medusa Alchemy](https://github.com/Medusa-ML/Alchemy)
-- [Fine-Tune a Pretrained Model with Huggingface](https://huggingface.co/docs/transformers/training) - [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
+- [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
+
+## C: Challenge yourself, do more exploratory analysis, try different modeling techniques
 - [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
 
 ---
