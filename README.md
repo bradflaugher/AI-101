@@ -46,7 +46,6 @@ Participants will dedicate substantial time to final projects aligned with their
 - 🔍 AND/OR discover an intriguing dataset on [kaggle](https://www.kaggle.com/datasets) or [huggingface](https://huggingface.co/datasets)
 
 ### 🅱️ **Use your dataset, fit a custom model, make it compact, precise, and swift (optional)**
-- 🖥️ [Tensorflow Text Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/text_classification) or 🖼️ [Tensorflow Image Classifier Tutorial](https://www.tensorflow.org/tutorials/keras/classification)
 - 📜 [PyTorch Text Classifier](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) or ⚡ [PyTorch Lightning Classifier](https://lightning.ai/docs/pytorch/stable/starter/introduction.html)
 - 🔄 [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - 📝 [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or 📸 [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
 
