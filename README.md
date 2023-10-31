@@ -54,7 +54,3 @@ Participants will dedicate substantial time to final projects aligned with their
 - 🏆 [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
 
 ---
-
-I hope you like the changes! Let me know if there's anything else I can assist with.
-
----
