@@ -38,7 +38,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 # 🚀 **Final Project Sequence** 🚀
 
-Participants will dedicate substantial time to final projects aligned with their ✨career aspirations✨. For a glimpse of a dazzling final presentation, 🎥 check out [Oleh's Video](https://www.youtube.com/watch?v=I-KL-mWF548) and 📁 [Oleh's Repository](https://github.com/MorhaliukOL/ML_Project). For an array of presentations and source code, 📺 visit [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
+Participants will dedicate substantial time to final projects aligned with their ✨career aspirations✨. For a glimpse of a dazzling final presentation, 🎥 For an array of presentations and source code, 📺 visit [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
 
 ### 🅰️ **Collect Data and Hack together a simple model (required)**
 - Use the 🐍 [Medusa-ML Template](https://github.com/Medusa-ML/ML-Template)
