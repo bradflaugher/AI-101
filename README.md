@@ -24,7 +24,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 3 | 📝 [Data Engineering, ETL Basics](./etl.md) | work on your project |
 | 📅 Week 4 | 🗳️ Election Day Break | work on your project |
-| 📅 Week 4 | 📊 [Data Wrangling Techniques](./wranglin.md) and AWS Setup Demo | Setup AWS Free Tier, work on your project |
+| 📅 Week 4 | 📊 [Data Wrangling Techniques](./wranglin.md) and AWS, Azure, GCP, Akamai Setup Demo | Setup AWS Free Tier, work on your project |
 | 📅 Week 5 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 5 | 🧠 [Metrics and Loss Functions, Model Architecture and Hyperparameters](./architecture.md) | [Modeling Natural Language](https://www.youtube.com/watch?v=rqyw06k91pA) |
 | 📅 Week 6 | 🦃 Thanksgiving Break | work on your project |
