@@ -16,13 +16,12 @@
 ---
 
 ## Brad's Favorite Free Learning Resources 🎯
+* [Yann LeCun's Free Deep Learning Course from NYU](https://cds.nyu.edu/deep-learning/)
 * [Tensorflow Tutorials](https://www.tensorflow.org/tutorials)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [HuggingFace Course on Transformers](https://huggingface.co/course/chapter0/1?fw=pt)
 * [Github Trending Repos](https://github.com/trending)
 * [Kaggle Winners Code](https://www.kaggle.com/code?types=competitions)
-* [Airflow Tutorial for Beginners](https://www.youtube.com/watch?v=K9AnJ9_ZAXE)
-* [Freecodecamp Pandas 10 hour course](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/)
 
 ---
 
