@@ -67,8 +67,8 @@
 ---
 
 ## On-Demand Help 🆘
-* [Patreon](https://www.patreon.com/bradflaugher)
-* [Kaggle](https://www.kaggle.com/competitions)
+* [Patreon @ $100/month](https://www.patreon.com/bradflaugher)
+* [Wyzant @ $100/hour](https://www.wyzant.com/Tutors/bradmachinelearning)
 
 ---
 
