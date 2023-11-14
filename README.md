@@ -1,4 +1,4 @@
-# bootcamp 🎓🚀
+# bootcamp 🚀
 
 Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Focused Programming Bootcamp](https://bradflaugher.com/bootcamp.html)
 
