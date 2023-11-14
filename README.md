@@ -25,7 +25,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 | 📅 Week 3 | 📝 [Data Engineering, ETL Basics](./etl.md) and [Data Wrangling Techniques](./wranglin.md) | work on your project |
 | 📅 Week 4 | 🗳️ Election Day Break | work on your project |
 | 📅 Week 4 | 📊  OpenAI [Sommelier App](https://github.com/Medusa-ML/Sommelier) in AWS, Azure, GCP, Akamai and Oracle Cloud Setup Demo | Setup [AWS Free Tier](https://aws.amazon.com/free/), work on your project |
-| 📅 Week 5 | 🧠 [Metrics and Loss Functions, Model Architecture and Hyperparameters](./architecture.md) and [Real World Pytorch Examples](https://github.com/Medusa-ML/ML-Template/tree/main/examples) | [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) |
+| 📅 Week 5 | 🧠 [Metrics and Loss Functions, Model Architecture and Hyperparameters](./architecture.md) | [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) |
 | 📅 Week 5 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 6 | 🦃 Thanksgiving Break | work on your project |
 | 📅 Week 7 | 👥 Pair Programming, Project Q&A | work on your project |
