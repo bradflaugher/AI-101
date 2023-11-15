@@ -51,6 +51,6 @@ Participants will dedicate substantial time to final projects aligned with their
 - (more advanced) [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - 📝 [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or 📸 [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
 
 ### ⭐ **Challenge yourself, do more exploratory data analysis, combine datasets, experiment with varied modeling techniques (optional)**
-- 🏆 [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
+- 🏆 (very advanced) [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
 
 ---
