@@ -46,8 +46,9 @@ Participants will dedicate substantial time to final projects aligned with their
 - 🔍 AND/OR discover an intriguing dataset on [kaggle](https://www.kaggle.com/datasets) or [huggingface](https://huggingface.co/datasets)
 
 ### 🅱️ **Use your dataset, fit a custom model, make it compact, precise, and swift (optional)**
-- [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) then 📜 [PyTorch Text Classifier](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html) or [Pytorch Image Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
-- 🔄 [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - 📝 [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or 📸 [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
+- (beginner) follow the tutorial to make a basic [tensorflow image](https://www.tensorflow.org/tutorials/keras/classification) classifier or [text classifier](https://www.tensorflow.org/tutorials/keras/text_classification)
+- (recommended) [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) then 📜 [PyTorch Text Classifier](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html) or [Pytorch Image Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+- (more advanced) [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - 📝 [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or 📸 [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
 
 ### ⭐ **Challenge yourself, do more exploratory data analysis, combine datasets, experiment with varied modeling techniques (optional)**
 - 🏆 [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
