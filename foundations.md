@@ -3,6 +3,9 @@
 ---
 
 ## Meet Your New Teacher: an LLM 🤖
+* But which ones are best?
+* How do I access one?
+* But I can't afford a susbcription?!
 
 ---
 
