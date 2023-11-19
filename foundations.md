@@ -2,12 +2,7 @@
 
 ---
 
-## Meet Your New Teacher: LLM 🤖
-- **Top-notch in software development: GPT-4**
-  - Access via [Bing](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx), [ChatGPT](https://chat.openai.com/), [gpt4free](https://github.com/xtekky/gpt4free) 
-  - OR use [Medusa Interpreter](https://github.com/Medusa-ML/Interpreter) with GPT-4 API or CodeLLaMA
-- **Explore Other Models:**
-  - [HuggingChat](https://huggingface.co/chat/), [Claude](https://claude.ai/chats), [Bard](https://bard.google.com/chat), [Phind](https://www.phind.com/), [and more](https://chat.lmsys.org/?arena)
+## Meet Your New Teacher: an LLM 🤖
 
 ---
 
