@@ -8,7 +8,7 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 **Lectures**: Tuesdays and Thursdays @ 1pm Eastern (via Google Meet, also recorded)
 
-**Class Discussion Board**: [https://discord.gg/medusaml](https://discord.gg/medusaml)
+**Class Discussion Board**: [https://discord.gg/bEPkfhbwE4](https://discord.gg/bEPkfhbwE4)
 
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
