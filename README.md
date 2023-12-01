@@ -9,7 +9,7 @@ Lecture notes, readings, code samples and resources for Brad Flaugher's Data-Foc
 | **Application**          | [Apply Here](https://forms.gle/oes2jHNvUYwP1E2K8)                                                |
 | **Enrollment Period**    | Open every October; the next bootcamp commences on October 15, 2024                               |
 | **Program Duration**     | 6 Weeks, featuring a one-week break for Thanksgiving and project work                             |
-| **Lecture Schedule**     | Tuesdays and Thursdays at 1 pm Eastern via Google Meet, with recorded sessions for flexibility   |
+| **Lecture Schedule**     | Tuesdays and Thursdays at 1 pm Eastern/US via Google Meet, with recorded sessions for flexibility   |
 | **Discussion Board**     | Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4)                |
 | **Payment Information**   | Secure your spot by joining the [Patreon Seeker Tier](https://www.patreon.com/bradflaugher)       |
 | **Office Hours**         | Thursdays; schedule a one-on-one session through [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7) |
