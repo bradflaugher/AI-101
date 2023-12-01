@@ -14,6 +14,8 @@ Lecture notes, readings, code samples and resources for Brad Flaugher's Data-Foc
 
 **Class Discussion Board**: [https://discord.gg/bEPkfhbwE4](https://discord.gg/bEPkfhbwE4)
 
+**How to Pay**: [Patreon Seeker Tier](https://www.patreon.com/bradflaugher)
+
 **Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
 
 **2023 Cohort**: [see particpants.txt](./participants.txt)
