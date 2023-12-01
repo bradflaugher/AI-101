@@ -43,19 +43,11 @@ Lecture notes, readings, code samples and resources for Brad Flaugher's Data-Foc
 
 Participants will dedicate substantial time to final projects aligned with their ✨career aspirations✨. For an array of past presentations and source code, 📺 visit [Brad's Youtube Channel](https://www.youtube.com/@bradflaugher2452/videos).
 
-### 🅰️ **Collect Data and Hack together a simple model (required)**
-- Use the 🐍 [Medusa-ML Template](https://github.com/Medusa-ML/ML-Template)
-- 📖 Create a synthetic text dataset via [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-- 🔍 AND/OR discover an intriguing dataset on [kaggle](https://www.kaggle.com/datasets) or [huggingface](https://huggingface.co/datasets)
+| **Step**                                | **Details**                                                                                                                                                                                                                     |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🅰️ Data Collection and Simple Model** | - Utilize 🐍 [Medusa-ML Template](https://github.com/Medusa-ML/ML-Template) to kickstart your project. - Generate synthetic text data using [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm). - Explore datasets on [Kaggle](https://www.kaggle.com/datasets) or [Hugging Face](https://huggingface.co/datasets). |
+| **🅱️ Custom Model (Optional)**         | - **Beginner:** Follow [TensorFlow quickstart](https://www.tensorflow.org/tutorials) for basic image/text classifiers. - **Recommended:** Dive into [60 Minute PyTorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html), then explore 📜 [PyTorch Text Classification](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html) or [PyTorch Image Classification](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html). - **More Advanced:** Fine-tune pretrained models with [Hugging Face](https://huggingface.co/docs/transformers/training) for 📝 text or 📸 image classification. |
+| **⭐ Challenge and Experiment (Optional)**| - **Advanced:** Explore cross-platform frameworks like [Keras Core](https://keras.io/keras_core/guides/). - 🏆 **Very Advanced:** Attempt to [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions).                                                                                     |
 
-### 🅱️ **Use your dataset, fit a custom model, make it compact, precise, and swift (optional)**
-- (beginner) follow the [Tensorflow beginner quickstart](https://www.tensorflow.org/tutorials) tutorial then make a [basic Tensorflow image classifier](https://www.tensorflow.org/tutorials/keras/classification) or a [basic text classifier](https://www.tensorflow.org/tutorials/keras/text_classification)
-- (recommended) [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) then 📜 [PyTorch Text Classifier](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html) or [Pytorch Image Classifier](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
-- (more advanced) [Fine-Tune a Pretrained Model for Classification with Huggingface](https://huggingface.co/docs/transformers/training) - 📝 [Text](https://huggingface.co/docs/transformers/tasks/sequence_classification) or 📸 [Images](https://huggingface.co/docs/transformers/tasks/image_classification)
-
-### ⭐ **Challenge yourself, do more exploratory data analysis, combine datasets, experiment with varied modeling techniques (optional)**
-
-- (advanced) use a cross-plafrorm framework like [keras_core](https://keras.io/keras_core/guides/)
-- 🏆 (very advanced) [Replicate a Winning Model from Kaggle](https://www.kaggle.com/code?types=competitions)
 
 ---
