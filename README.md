@@ -2,23 +2,20 @@
 
 Lecture notes, readings, code samples and resources for Brad Flaugher's Data-Focused Programming Bootcamp
 
+# Course Info 💁‍♀️
+
+| Aspect               | Details                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------------------|
+| **Application**          | [Apply Here](https://forms.gle/oes2jHNvUYwP1E2K8)                                                |
+| **Enrollment Period**    | Open every October; the next bootcamp commences on October 15, 2024                               |
+| **Program Duration**     | 6 Weeks, featuring a one-week break for Thanksgiving and project work                             |
+| **Lecture Schedule**     | Tuesdays and Thursdays at 1 pm Eastern via Google Meet, with recorded sessions for flexibility   |
+| **Discussion Board**     | Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4)                |
+| **Payment Information**   | Secure your spot by joining the [Patreon Seeker Tier](https://www.patreon.com/bradflaugher)       |
+| **Office Hours**         | Thursdays; schedule a one-on-one session through [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7) |
+| **Previous Cohort**      | Explore the list of participants from the [2023 Cohort](./participants.txt)                        |
+
 # Course Outline 📝
-
-**Application**: [https://forms.gle/oes2jHNvUYwP1E2K8](https://forms.gle/oes2jHNvUYwP1E2K8)
-
-**When**: Every October, next bootcamp begins October 15, 2024 
-
-**Duration**: 6 Weeks (with 1 week break for Thanksgiving/Project Work)
-
-**Lectures**: Tuesdays and Thursdays @ 1pm Eastern (via Google Meet, also recorded)
-
-**Class Discussion Board**: [https://discord.gg/bEPkfhbwE4](https://discord.gg/bEPkfhbwE4)
-
-**How to Pay**: [Patreon Seeker Tier](https://www.patreon.com/bradflaugher)
-
-**Office Hours**: Thursdays (book time via [Brad's Calendar](https://calendar.app.google/AGTTsgwD5LPnwvfJ7))
-
-**2023 Cohort**: [see particpants.txt](./participants.txt)
 
 | Session   | Lecture/Topic | TODO |
 |-----------|---------| ---------|
