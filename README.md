@@ -4,6 +4,10 @@ Lecture notes, readings, code samples and resources for [Brad Flaugher's Data-Fo
 
 # Course Outline 📝
 
+**Application**: [https://forms.gle/oes2jHNvUYwP1E2K8](https://forms.gle/oes2jHNvUYwP1E2K8)
+
+**When**: Every October, next bootcamp begins October 15, 2024 
+
 **Duration**: 6 Weeks (with 1 week break for Thanksgiving/Project Work)
 
 **Lectures**: Tuesdays and Thursdays @ 1pm Eastern (via Google Meet, also recorded)
