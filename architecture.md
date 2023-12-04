@@ -90,6 +90,8 @@ custom_loss = CustomLoss()
 
 ## Layer Types and Template Models 🧩
 * Unveiling the building blocks of neural networks
+* [MNIST classifier visualized](https://m.youtube.com/watch?v=Tsvxx-GGlTg)
+* [LLMs visualized](https://bbycroft.net/llm)
 
 ---
 
