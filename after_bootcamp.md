@@ -3,7 +3,6 @@
 ---
 
 ## Use a Dynamic Cheat Sheet
-* [Brad's Cheat Sheet](https://bradflaugher.com/cheat.html)
 * [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Interview Questions and Exercises](https://github.com/bregman-arie/devops-exercises)
 
