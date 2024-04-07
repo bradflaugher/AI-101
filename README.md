@@ -19,7 +19,7 @@ This class was formerly taught as a bootcamp but is now a self-paced online reso
 | Preparation | N/A | See [preparation.md](./preparation.md) |
 | 📅 Week 1 | 📚 [Roles, Machine Learning Basics, Tech Stack](./30000.md)| [How Deep Learning Works](https://www.youtube.com/watch?v=wBgW3ZtlPT8) and [Intro to Free Software](https://www.fsf.org/blogs/rms/20140407-geneva-tedx-talk-free-software-free-society) |
 | 📅 Week 1 | 🎬 ["Foundations" Live Demos](./foundations.md) | [SuperDataScience Code Interpreter Guide](https://youtu.be/ac6580tuveo?si=dUlyNu1CzFkhDPek) |
-| 📅 Week 2 | 💡 [Final Project Ideas](#final-project-ideas) | Pick a project! |
+| 📅 Week 2 | 💡 [Final Project Ideas](#-final-project-sequence-) | Pick a project! |
 | 📅 Week 2 | 📊 [Universal Machine Learning Template](https://github.com/Medusa-ML/ML-Template) | [The Universal ML Workflow](./the_universal_ml_workflow.pdf) and [The Regression Theory of Everything](./AI_harmony_c3.pdf) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 3 | 📝 [Data Engineering, ETL Basics](./etl.md) and [Data Wrangling Techniques](./wranglin.md) | work on your project |
