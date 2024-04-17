@@ -23,7 +23,7 @@ This class was formerly taught as a bootcamp but is now a self-paced online reso
 | 📅 Week 2 | 📊 [Universal Machine Learning Template](https://github.com/Medusa-ML/ML-Template) | [The Universal ML Workflow](https://towardsdatascience.com/applying-the-universal-machine-learning-workflow-to-the-uci-mushroom-dataset-1939442d44e7) and [The Regression Theory of Everything](./AI_harmony_c3.pdf) |
 | 📅 Week 3 | 👥 Pair Programming, Project Q&A | work on your project |
 | 📅 Week 3 | 📝 [Data Engineering, ETL Basics](./etl.md) and [Data Wrangling Techniques](./wranglin.md) | work on your project |
-| 📅 Week 4 | 📊  OpenAI [Sommelier App](https://github.com/Medusa-ML/Sommelier) in AWS, Azure and GCP Cloud Setup Demo | Setup [AWS Free Tier](https://aws.amazon.com/free/) |
+| 📅 Week 4 | 📊  OpenRouter [Sommelier App](https://github.com/Medusa-ML/LLMmMm) in AWS, Azure and GCP Cloud Setup Demo | Setup [AWS Free Tier](https://aws.amazon.com/free/) |
 | 📅 Week 5 | 🧠 [Metrics and Loss Functions, Model Architecture and Hyperparameters](./architecture.md) | [60 Minute Pytorch Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) |
 | 📅 Week 7 | 🎓 [After The Bootcamp...](./after_bootcamp.md) | go forth and win! |
 | 📅 Weeks 7-8 | 🎉 [Project Presentations](https://www.youtube.com/@bradflaugher2452/videos)  | brag about yourself online |
