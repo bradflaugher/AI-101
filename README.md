@@ -6,11 +6,11 @@ This class was formerly taught as a bootcamp but is now a self-paced online reso
 
 # Getting Help 💁‍♀️
 
-| Aspect               | Details                                                                                      |
-|--------------------------|--------------------------------------------------------------------------------------------------|
-| **Discussion Board**     | Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4)                |
-| **Get Emergency Help** | Find Brad at [Wyzant](https://www.wyzant.com/Tutors/bradmachinelearning)
-| **Get Regular Help**   | Join the [Patreon AI/ML Tutoring Membership](https://www.patreon.com/bradflaugher)       |
+Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4)   
+
+# More Like This ⭐
+
+See Brad's [GitHub Stars](https://github.com/predbrad?submit=Search&q=learn&tab=stars&type=&sort=&direction=&submit=Search) for a curated collection of helpful resources.
 
 # Course Outline 📝
 
