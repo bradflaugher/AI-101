@@ -6,7 +6,7 @@ This class was formerly taught as a bootcamp but is now a self-paced online reso
 
 # Getting Help 💁‍♀️
 
-Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4)   
+Engage with the community on our [Discord Channel](https://discord.gg/bEPkfhbwE4).   
 
 # More Like This ⭐
 
