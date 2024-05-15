@@ -2,7 +2,7 @@
 
 Lecture notes, readings, code samples and resources for teaching yourself how PyTorch and Tensorflow.
 
-This class was formerly taught as a bootcamp but is now a self-paced online resource, feel free to reach out via the resources below. 👇👇 
+This class was formerly taught as a bootcamp but is now a self-paced online resource.
 
 # More Like This ⭐
 
